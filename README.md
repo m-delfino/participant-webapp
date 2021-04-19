@@ -4,40 +4,54 @@ The web-interface for the participants of the Infectieradar Belgium survey platf
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Web UI configuration
+
+Start by creating a fork of this repo in your local organisation or create a local copy of this repository.
+
+The public folder contains example configurations within the assets folder. Replace the content here to make changes as needed.
+
+1. Update the public/assets/locales to add folders for each supported language.
+2. Configure the keys, markdown content within the locales folders.
+3. Upload additional images needed into the public/assets/images folder.
+4. Configure page layouts, headers, and footers by configuring the ts files present in src/configs.
+
+## Deployment Setup
+1. Create a fork of this repo in your local organisation. 
+2. Configure the fields present in the file env-sample.config. Lookup step 1 of local setup for examples.
+3. Create github secrets for the following fields:
+  3.1. DOCKER_ORGANIZATION
+  3.2. DOCKER_REPO_NAME
+  3.3. DOCKER_USER
+  3.4. DOCKER_PASSWORD
+4. Configure the actions file under .github/workflows/docker-image.yml to build and deploy docker images as needed.
+
 ## Local Setup
-1. Create `.env.local` and add
-```
-REACT_APP_API_BASE_URL=<your backend - PARTICIPANT-API SERVICE address>
-REACT_APP_DEFAULT_INSTANCE=<instace ID used by the application ex: belgium>
+1. Create `.env.local` and copy in it the contents of env-sample.config. Edit the fields below: 
+  ```
+  REACT_APP_DEFAULT_INSTANCE=<instance-name>
+  REACT_APP_API_BASE_URL=/api
+  REACT_APP_DEFAULT_LANGUAGE=en
+  REACT_APP_FALLBACK_LANGUAGE=en
+  REACT_APP_CONTENT_URL="/assets"
+  REACT_APP_USE_RECAPTCHA=true
+  REACT_APP_RECAPTCHA_SITEKEY=<reCaptcha_public_key>
+  REACT_APP_TITLE=Infectieradar.be
+  REACT_APP_DESCRIPTION="Een onderzoek in de strijd tegen epidemieën"
+  REACT_APP_CSP_DEFAULT_SRC="'self'"
+  REACT_APP_CSP_MEDIA_SRC="'self'"
+  REACT_APP_CSP_IMG_SRC="'self' data: https:"
+  REACT_APP_CSP_STYLE_SRC="'unsafe-inline' 'self' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ "
+  REACT_APP_CSP_SCRIPT_SRC="'unsafe-inline' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ 'self' 'unsafe-eval'"
+  REACT_APP_CSP_FRAME_SRC="https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha"
+  REACT_APP_CSP_CHILD_SRC="https://www.google.com/"
+  REACT_APP_CSP_CONNECT_URLS="http://survey.infectieradar.be https://survey.infectieradar.be ws://survey.infectieradar.be// ws://survey.infectieradar.be/ https://www.google.com/recaptcha/ https://www.google.com/ http://www.w3.org/2000/svg"
 
-GENERATE_SOURCEMAP=false
-
-REACT_APP_USE_RECAPTCHA=true
-REACT_APP_RECAPTCHA_SITEKEY=<reCAPTCHA public key>
-
-REACT_APP_CONTENT_URL="/assets"
-
-REACT_APP_DEFAULT_LANGUAGE=nl-be
-REACT_APP_FALLBACK_LANGUAGE=nl-be
-
-# optionally disable signup functionality
-REACT_APP_DISABLE_SIGNUP=false
-
-# CSP Header sources
-REACT_APP_TITLE=Infectieradar.be
-REACT_APP_DESCRIPTION=Een onderzoek in de strijd tegen epidemieën
-REACT_APP_CSP_DEFAULT_SRC="'self'"
-REACT_APP_CSP_MEDIA_SRC="'self' https://infectieradar.be/wp-content/"
-REACT_APP_CSP_IMG_SRC="'self' data: https:"
-REACT_APP_CSP_STYLE_SRC="'unsafe-inline' 'self' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ "
-REACT_APP_CSP_SCRIPT_SRC="'unsafe-inline' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ 'self' 'unsafe-eval'"
-REACT_APP_CSP_FRAME_SRC="https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha"
-REACT_APP_CSP_CHILD_SRC="https://www.google.com/"
-REACT_APP_CSP_CONNECT_URLS="http://localhost:3000 http://192.168.1.5:3000 https://localhost:3000 http://localhost:3231 ws://localhost:3000// ws://localhost:3000/ ws://192.168.1.5:3000/ ws://localhost:3231/ https://www.google.com/recaptcha/ https://www.google.com/ http://www.w3.org/2000/svg"
-
-```
-
+  ```
+Replace the connect urls with all the urls which must be allowed in CSP connect-src, including PARTICIPANT-API SERVICE address, separated by spaces.
 The option "unsafe-eval" in script-src, is needed for Vega plot rendering.
+
+2. Install dependencies by running ```yarn install```
+3. Run the web ui by entering ```yarn start```
 
 ## Results Page
 The result's page is a container to display different subpages. The list of subpages needs to be defined through the file
