@@ -57,6 +57,8 @@ The example-public-folder contains example configurations within the assets fold
 Replace the connect urls with all the urls which must be allowed in CSP connect-src, including PARTICIPANT-API SERVICE address, separated by spaces.
 The option "unsafe-eval" in script-src, is needed for Vega plot rendering.
 
+Note: System falls back to 'en' if REACT_APP_DEFAULT_LANGUAGE and REACT_APP_FALLBACK_LANGUAGE is not set.
+
 2. Install dependencies by running ```yarn install```
 3. Run the web ui by entering ```yarn start```
 
