@@ -1,0 +1,18 @@
+{
+  "services": {
+    "title": "Services",
+    "contact": "Contact",
+    "twitter": "Follow us on Twitter"
+  },
+  "about": {
+    "title": "About this page",
+    "privacy": "Privacy Statement",
+    "disclaimer": "Disclaimer",
+    "accessibility": "Accessibility"
+  },
+  "languages": {
+    "title": "Le lingue",
+    "en": "English",
+    "it": "Italiano"
+  }
+}
