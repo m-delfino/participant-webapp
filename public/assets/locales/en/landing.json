@@ -19,7 +19,7 @@
   "currentResultCard": {
     "imageAlt": "Current results image",
     "title": "Current results",
-    "body": "Infectieradar.be identifies which symptoms people in Belgium have that could indicate coronavirus.",
+    "body": "Infectieradar.be identifies which symptoms people in Italy have that could indicate coronavirus.",
     "actionLabel": "Current results"
   },
   "signupCard": {
@@ -31,7 +31,7 @@
   "aboutCard": {
     "imageAlt": "About Infectieradar image",
     "title": "About Infectieradar",
-    "body": "With Infectieradar.be, we monitor the spread of  symptoms across Belgium. It is one of the tools the research team uses to monitor the spread of the virus.",
+    "body": "With Infectieradar.be, we monitor the spread of  symptoms across Italy. It is one of the tools the research team uses to monitor the spread of the virus.",
     "actionLabel": "Learn more"
   },
   "video": {

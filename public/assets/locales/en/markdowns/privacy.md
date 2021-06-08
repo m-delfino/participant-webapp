@@ -10,20 +10,20 @@ Participation in the study is voluntary. We wish to stress that the questionnair
 
 ### The study at a glance
 **Why Infectieradar.be?**
-We know that many people who become infected with the new SARS-CoV-2 virus (‘coronavirus’ as it is popularly known) have mild or few symptoms and do not go to the doctor. Also, not everyone is tested. This make it difficult to track how the new coronavirus is spreading in Belgium. It is important to monitor symptoms that are not reported to a doctor.
+We know that many people who become infected with the new SARS-CoV-2 virus (‘coronavirus’ as it is popularly known) have mild or few symptoms and do not go to the doctor. Also, not everyone is tested. This make it difficult to track how the new coronavirus is spreading in Italy. It is important to monitor symptoms that are not reported to a doctor.
 
 **Who can take part?**
-Anyone who lives in Belgium and is 18 years or older can participate in the study on a voluntary basis. To ensure that information about the spread of infectious diseases is also obtained for children and young people, the parents or guardians of a minor can also complete the questionnaires on behalf of their child. This is not mandatory, but it will contribute to the research. 
+Anyone who lives in Italy and is 18 years or older can participate in the study on a voluntary basis. To ensure that information about the spread of infectious diseases is also obtained for children and young people, the parents or guardians of a minor can also complete the questionnaires on behalf of their child. This is not mandatory, but it will contribute to the research. 
 
 **How does Infectieradar.be work?**
 Participants receive an initial registration form with questions about their background, age and existing diseases and conditions. Following this they receive an email every week with a link to a questionnaire asking what symptoms they have had in the past week: a runny nose, coughing, sneezing, a high temperature and so on. The questionnaire must be completed even if the participant has no symptoms. It takes about 30 seconds to complete the questionnaire if the participant has no symptoms, and about 3 to 5 minutes if he or she has symptoms. 
 
-The completion of the questionnaire enables us to monitor how certain symptoms are distributed across Belgium and changes in this pattern over time. These data will be used for scientific research into the spread of the new coronavirus. In the future, that research will also be useful for other viruses and infectious diseases.
+The completion of the questionnaire enables us to monitor how certain symptoms are distributed across Italy and changes in this pattern over time. These data will be used for scientific research into the spread of the new coronavirus. In the future, that research will also be useful for other viruses and infectious diseases.
 
 **Data**
 The data are collected and processed in the context of scientific research, and exclusively for the following purposes:
 
-- Carrying out scientific research and statistical analyses on the spread of infectious diseases in Belgium and Europe;
+- Carrying out scientific research and statistical analyses on the spread of infectious diseases in Italy and Europe;
 
 - Publishing statistical analyses, including graphical representations of the results;
 
@@ -113,7 +113,7 @@ In order to check the quality of the study, your non-encrypted personal data or 
     
 If required for the study, the encrypted study data may be sent to other countries within and outside the European Union (EU) and verified by:
 
--   personnel (other than inspectors) of the competent health authorities of Belgium (the Federal Agency for Medicines and Health Products, FAMHP) or other countries within and outside the EU,
+-   personnel (other than inspectors) of the competent health authorities of Italy (the Federal Agency for Medicines and Health Products, FAMHP) or other countries within and outside the EU,
 
 -   the Belgian evaluating Ethics Committee(s),
 
@@ -121,7 +121,7 @@ If required for the study, the encrypted study data may be sent to other countri
 
 -   the study’s sponsor, personnel designated by the sponsor and people or organisations providing services to or collaborating with the sponsor, and/or
 
-- companies from the sponsor's group in Belgium and in other countries within and outside the EU.
+- companies from the sponsor's group in Italy and in other countries within and outside the EU.
     
 European regulations and Belgian data protection legislation impose restrictions on the transfer of data to non-EU countries. The sponsor must always ensure that your encrypted study data are equally protected when transferred to a non-EU country. If the sponsor concludes a data protection agreement for this purpose, a copy of this agreement may be obtained from the researcher.
 

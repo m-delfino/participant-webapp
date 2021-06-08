@@ -1,21 +1,13 @@
 {
-  "instanceId": "belgium",
+  "instanceId": "italy",
   "languages": [
     {
-      "code": "nl-be",
-      "itemKey": "nl-be"
+      "code": "it",
+      "itemKey": "it"
     },
     {
       "code": "en",
       "itemKey": "en"
-    },
-    {
-      "code": "fr-be",
-      "itemKey": "fr-be"
-    },
-    {
-      "code": "de-be",
-      "itemKey": "de-be"
     }
   ],
   "avatars": [

@@ -5,14 +5,14 @@
     "image": {
       "altKey": "logoAlt",
       "sm": {
-        "url": "/images/logo1.png",
-        "className": "py-2",
-        "width": 226
+        "url": "/images/placeholder.jpg",
+        "className": "py-1",
+        "height": 110
       },
       "lg": {
-        "url": "/images/logo1.png",
-        "className": "py-2",
-        "width": 250
+        "url": "/images/placeholder.jpg",
+        "className": "py-1",
+        "height": 110
       }
     },
     "useLanguageSelector": true
