@@ -1,5 +1,5 @@
 # web-client
-The web-interface for the participants of the Infectieradar Belgium survey platform
+The web-interface for the participants of the Infectieradar Italy survey platform
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
