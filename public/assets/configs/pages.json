@@ -27,6 +27,9 @@
                       "url": "/images/placeholder.jpg",
                       "height": 367,
                       "backgroundPosition": "47% 27%"
+                    },
+                    "textBox": {
+                      "className": "col col-md-6 col-lg-4 offset-0 offset-lg-1"
                     }
                   }
                 }

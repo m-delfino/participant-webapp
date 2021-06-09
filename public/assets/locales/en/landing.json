@@ -69,5 +69,9 @@
       "hideBtn": "Hide",
       "showBtn": "Has your background information changed?"
     }
+  },
+  "teaserImage": {
+    "title": "Welcome to Influweb",
+    "content": "Get started by signing up to participate in the study"
   }
 }
