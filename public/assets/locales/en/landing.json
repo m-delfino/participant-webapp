@@ -1,5 +1,5 @@
 {
-  "title": "Infectieradar",
+  "title": "Influweb",
   "topImage": {
     "title": "Test teaser image",
     "content": "Citizen Science for Infectious Disease Surveillance"
@@ -16,10 +16,13 @@
     "passwordForgottenBtn": "Forgot password?",
     "signupBtn": "Don't yet have an account? Sign up here."
   },
+  "logoCredits": {
+    "title": "Our Supporters"
+  },
   "currentResultCard": {
     "imageAlt": "Current results image",
     "title": "Current results",
-    "body": "Infectieradar.be identifies which symptoms people in Italy have that could indicate coronavirus.",
+    "body": "Influweb identifies which symptoms people in Italy have that could indicate coronavirus.",
     "actionLabel": "Current results"
   },
   "signupCard": {
@@ -29,9 +32,9 @@
     "actionLabel": "Sign up"
   },
   "aboutCard": {
-    "imageAlt": "About Infectieradar image",
-    "title": "About Infectieradar",
-    "body": "With Infectieradar.be, we monitor the spread of  symptoms across Italy. It is one of the tools the research team uses to monitor the spread of the virus.",
+    "imageAlt": "About Influweb image",
+    "title": "About Influweb",
+    "body": "With Influweb, we monitor the spread of symptoms across Italy. It is one of the tools the research team uses to monitor the spread of the virus.",
     "actionLabel": "Learn more"
   },
   "video": {
@@ -44,7 +47,7 @@
   "references": {
     "title": "Read More",
     "faqLink": "FAQ",
-    "aboutLink": "About Infectieradar",
+    "aboutLink": "About Influweb",
     "resultsLink": "Results"
   },
   "settingsReferences": {

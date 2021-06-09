@@ -43,7 +43,7 @@
           "columns": [
             {
               "key": "loginCardCol",
-              "className": "col-12 col-lg-4 mt-3",
+              "className": "col-12 col-md-6 col-lg-4 mt-3",
               "items": [
                 {
                   "itemKey": "loginCard",
@@ -57,7 +57,7 @@
             },
             {
               "key": "cardResultsCol",
-              "className": "col-12 col-lg-4 mt-3",
+              "className": "col-12 col-md-6 col-lg-4 mt-3",
               "items": [
                 {
                   "itemKey": "currentResultCard",
@@ -76,7 +76,7 @@
             },
             {
               "key": "cardSignupCol",
-              "className": "col-12 col-md-6 col-lg-4 mt-3",
+              "className": "col-12 col-lg-4 mt-3",
               "items": [
                 {
                   "itemKey": "signupCard",
@@ -111,7 +111,7 @@
             },
             {
               "key": "aboutCardCol",
-              "className": "col-12 col-lg-4 mt-3",
+              "className": "col-12 col-lg-4 mt-3 min-h-478",
               "items": [
                 {
                   "itemKey": "aboutCard",
@@ -124,6 +124,27 @@
                       "value": "/about"
                     },
                     "imageSrc": "/images/placeholder.jpg"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "chartRow",
+          "className": "",
+          "columns": [
+            {
+              "key": "contentCol",
+              "className": "col-12 col-lg-8 mt-3 chart-center",
+              "items": [
+                {
+                  "itemKey": "results",
+                  "className": "",
+                  "config": {
+                    "type": "markdown",
+                    "markdownUrl": "markdowns/landingchart.md",
+                    "flavor": "chart-renderer"
                   }
                 }
               ]

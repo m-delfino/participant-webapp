@@ -30,6 +30,12 @@ $enable-rounded: false !default;
   }
 }
 
+.chart-center {
+  @media (min-width: 900px) {
+    margin-left: 22.5%
+  }
+}
+
 
 @import '~case-web-ui/build/scss/iconfonts';
 @import '~bootstrap/scss/bootstrap.scss';
