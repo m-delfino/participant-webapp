@@ -35,12 +35,12 @@
         "max": 6.85,
         "hoverStrokeColor": "#FD4",
         "colors": [
-          "#E3DCE7",
-          "#C2B4CB",
-          "#A28CB0",
-          "#826395",
-          "#623B7A",
-          "#42145F"
+          "#FDEDEC",
+          "#FADBD8",
+          "#F5B7B1",
+          "#F1948A",
+          "#EC7063",
+          "#CB4335"
         ]
       },
       "legend": {
@@ -48,12 +48,12 @@
         "title": "% met COVID19-achtige klachten",
         "position": {
           "x": "left",
-          "y": "top"
+          "y": "bottom"
         }
       },
       "data": [
         {
-          "name": "Amsterdam-Amstelland",
+          "name": "Abruzzo",
           "sequence": [
             5.11,
             1.67,
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "name": "Brabant-Noord",
+          "name": "Apulia",
           "sequence": [
             2.22,
             2.92,
@@ -103,7 +103,7 @@
           ]
         },
         {
-          "name": "Brabant-Zuidoost",
+          "name": "Basilicata",
           "sequence": [
             2.58,
             3.75,
@@ -128,7 +128,7 @@
           ]
         },
         {
-          "name": "Drenthe",
+          "name": "Calabria",
           "sequence": [
             6.38,
             2.1,
@@ -153,7 +153,7 @@
           ]
         },
         {
-          "name": "Flevoland",
+          "name": "Campania",
           "sequence": [
             5.15,
             2.6,
@@ -178,7 +178,7 @@
           ]
         },
         {
-          "name": "Fryslân",
+          "name": "Emilia-Romagna",
           "sequence": [
             3.55,
             4.05,
@@ -203,7 +203,7 @@
           ]
         },
         {
-          "name": "Gelderland-Midden",
+          "name": "Friuli-Venezia Giulia",
           "sequence": [
             2.22,
             3.13,
@@ -228,7 +228,7 @@
           ]
         },
         {
-          "name": "Gelderland-Zuid",
+          "name": "Lazio",
           "sequence": [
             3.77,
             3.59,
@@ -253,7 +253,7 @@
           ]
         },
         {
-          "name": "Gooi en Vechtstreek",
+          "name": "Liguria",
           "sequence": [
             1.2,
             1.81,
@@ -278,7 +278,7 @@
           ]
         },
         {
-          "name": "Groningen",
+          "name": "Lombardia",
           "sequence": [
             3.9,
             2.23,
@@ -303,7 +303,7 @@
           ]
         },
         {
-          "name": "Haaglanden",
+          "name": "Marche",
           "sequence": [
             2.22,
             3.24,
@@ -328,7 +328,7 @@
           ]
         },
         {
-          "name": "Hollands-Midden",
+          "name": "Molise",
           "sequence": [
             3.11,
             2.79,
@@ -353,7 +353,7 @@
           ]
         },
         {
-          "name": "IJsselland",
+          "name": "Piemonte",
           "sequence": [
             4.52,
             3.08,
@@ -378,7 +378,7 @@
           ]
         },
         {
-          "name": "Kennemerland",
+          "name": "Sardegna",
           "sequence": [
             2.69,
             2.79,
@@ -403,7 +403,7 @@
           ]
         },
         {
-          "name": "Limburg-Noord",
+          "name": "Sicily",
           "sequence": [
             6.85,
             3.61,
@@ -428,7 +428,7 @@
           ]
         },
         {
-          "name": "Limburg-Zuid",
+          "name": "Toscana",
           "sequence": [
             3.14,
             1.86,
@@ -453,7 +453,7 @@
           ]
         },
         {
-          "name": "Midden- en West-Brabant",
+          "name": "Trentino-Alto Adige",
           "sequence": [
             3.91,
             4.13,
@@ -478,7 +478,7 @@
           ]
         },
         {
-          "name": "Noord- en Oost-Gelderland",
+          "name": "Umbria",
           "sequence": [
             1.89,
             2.56,
@@ -503,7 +503,7 @@
           ]
         },
         {
-          "name": "Noord-Holland-Noord",
+          "name": "Valle d'Aosta",
           "sequence": [
             3.32,
             3.92,
@@ -528,7 +528,7 @@
           ]
         },
         {
-          "name": "Rotterdam-Rijnmond",
+          "name": "Veneto",
           "sequence": [
             2.66,
             2.96,
@@ -687,12 +687,12 @@
         "max": 141.26,
         "hoverStrokeColor": "#FD4",
         "colors": [
-          "#DFE6E1",
-          "#BAC9BF",
-          "#95AD9D",
-          "#70917A",
-          "#4B7559",
-          "#275937"
+          "#F6DDCC",
+          "#EDBB99",
+          "#E59866",
+          "#DC7633",
+          "#D35400",
+          "#BA4A00"
         ]
       },
       "legend": {
@@ -700,12 +700,12 @@
         "title": "% met COVID19-achtige klachten",
         "position": {
           "x": "left",
-          "y": "top"
+          "y": "bottom"
         }
       },
       "data": [
         {
-          "name": "Amsterdam-Amstelland",
+          "name": "Abruzzo",
           "sequence": [
             41.47,
             55.95,
@@ -730,7 +730,7 @@
           ]
         },
         {
-          "name": "Brabant-Noord",
+          "name": "Apulia",
           "sequence": [
             68.14,
             83.37,
@@ -755,7 +755,7 @@
           ]
         },
         {
-          "name": "Brabant-Zuidoost",
+          "name": "Basilicata",
           "sequence": [
             98.75,
             111.05,
@@ -780,7 +780,7 @@
           ]
         },
         {
-          "name": "Drenthe",
+          "name": "Calabria",
           "sequence": [
             66.44,
             84.47,
@@ -805,7 +805,7 @@
           ]
         },
         {
-          "name": "Flevoland",
+          "name": "Campania",
           "sequence": [
             68.8,
             81.09,
@@ -830,7 +830,7 @@
           ]
         },
         {
-          "name": "Fryslân",
+          "name": "Emilia-Romagna",
           "sequence": [
             58.47,
             70.16,
@@ -855,7 +855,7 @@
           ]
         },
         {
-          "name": "Gelderland-Midden",
+          "name": "Friuli-Venezia Giulia",
           "sequence": [
             80.53,
             95.46,
@@ -880,7 +880,7 @@
           ]
         },
         {
-          "name": "Gelderland-Zuid",
+          "name": "Lazio",
           "sequence": [
             78.69,
             93.11,
@@ -905,7 +905,7 @@
           ]
         },
         {
-          "name": "Gooi en Vechtstreek",
+          "name": "Liguria",
           "sequence": [
             61.46,
             81.29,
@@ -930,7 +930,7 @@
           ]
         },
         {
-          "name": "Groningen",
+          "name": "Lombardia",
           "sequence": [
             75.76,
             91.63,
@@ -955,7 +955,7 @@
           ]
         },
         {
-          "name": "Haaglanden",
+          "name": "Marche",
           "sequence": [
             80.08,
             92.27,
@@ -980,7 +980,7 @@
           ]
         },
         {
-          "name": "Hollands-Midden",
+          "name": "Molise",
           "sequence": [
             78.25,
             92.83,
@@ -1005,7 +1005,7 @@
           ]
         },
         {
-          "name": "IJsselland",
+          "name": "Piemonte",
           "sequence": [
             77.54,
             92.78,
@@ -1030,7 +1030,7 @@
           ]
         },
         {
-          "name": "Kennemerland",
+          "name": "Sardegna",
           "sequence": [
             78.72,
             94.72,
@@ -1055,7 +1055,7 @@
           ]
         },
         {
-          "name": "Limburg-Noord",
+          "name": "Sicily",
           "sequence": [
             47.69,
             58.27,
@@ -1080,7 +1080,7 @@
           ]
         },
         {
-          "name": "Limburg-Zuid",
+          "name": "Toscana",
           "sequence": [
             82.89,
             95.79,
@@ -1105,7 +1105,7 @@
           ]
         },
         {
-          "name": "Midden- en West-Brabant",
+          "name": "Trentino-Alto Adige",
           "sequence": [
             86.84,
             99.97,
@@ -1130,7 +1130,7 @@
           ]
         },
         {
-          "name": "Noord- en Oost-Gelderland",
+          "name": "Umbria",
           "sequence": [
             63.54,
             74.9,
@@ -1155,7 +1155,7 @@
           ]
         },
         {
-          "name": "Noord-Holland-Noord",
+          "name": "Valle d'Aosta",
           "sequence": [
             73.93,
             85.55,
@@ -1180,7 +1180,7 @@
           ]
         },
         {
-          "name": "Rotterdam-Rijnmond",
+          "name": "Veneto",
           "sequence": [
             62.7,
             73.27,
