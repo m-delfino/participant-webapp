@@ -1,18 +1,18 @@
 {
   "config": {
     "type": "simpleLogo",
-    "className": "",
+    "className": "justify-content-center",
     "image": {
       "altKey": "logoAlt",
       "sm": {
-        "url": "/images/placeholder.jpg",
+        "url": "/images/logo2.png",
         "className": "py-1",
-        "height": 110
+        "height": 100
       },
       "lg": {
-        "url": "/images/placeholder.jpg",
+        "url": "/images/logo2.png",
         "className": "py-1",
-        "height": 110
+        "height": 120
       }
     },
     "useLanguageSelector": true
