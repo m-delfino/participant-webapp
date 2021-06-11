@@ -1,6 +1,6 @@
 {
   "properties": {
-    "title": "Percentage melders met COVID-19-achtige klachten in de afgelopen week",
+    "title": "Percentage of reporters with COVID-19-like complaints in the past week",
     "yUnit": "%",
     "yLabel": "% melders met COVID-19-achtige klachten",
     "xLabel": "Meldingsdatum",

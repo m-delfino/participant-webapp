@@ -28,8 +28,8 @@
   },
   "series": [
     {
-      "name": "COVID19-achtige klachten",
-      "title": "Percentage deelnemers met COVID19-achtige klachten per veiligheidsregio",
+      "name": "COVID19-like complaints",
+      "title": "Percentage of participants with COVID19-like complaints per region",
       "colorScale": {
         "min": 0,
         "max": 6.85,
@@ -45,7 +45,7 @@
       },
       "legend": {
         "show": true,
-        "title": "% met COVID19-achtige klachten",
+        "title": "% with COVID19-like complaints",
         "position": {
           "x": "left",
           "y": "bottom"
@@ -680,8 +680,8 @@
       ]
     },
     {
-      "name": "Deelnemers per 100.000 inwoners",
-      "title": "Aantal deelnemers per 100.000 inwoners per veiligheidsregio",
+      "name": "Participants per 100,000 inhabitants",
+      "title": "Number of participants per 100,000 inhabitants per region",
       "colorScale": {
         "min": 41.47,
         "max": 141.26,
@@ -697,7 +697,7 @@
       },
       "legend": {
         "show": true,
-        "title": "% met COVID19-achtige klachten",
+        "title": "% with COVID19-like complaints",
         "position": {
           "x": "left",
           "y": "bottom"
