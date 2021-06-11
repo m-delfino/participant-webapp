@@ -24,7 +24,7 @@
                   "config": {
                     "type": "teaserImage",
                     "image": {
-                      "url": "/images/placeholder.jpg",
+                      "url": "/images/landing2.jpg",
                       "height": 367,
                       "backgroundPosition": "47% 27%"
                     },
@@ -69,7 +69,7 @@
                       "type": "navigate",
                       "value": "/results"
                     },
-                    "imageSrc": "/images/placeholder.jpg"
+                    "imageSrc": "/images/resultsIT.jpg"
                   }
                 }
               ]
@@ -88,23 +88,26 @@
                       "type": "openDialog",
                       "value": "signup"
                     },
-                    "imageSrc": "/images/placeholder.jpg"
+                    "imageSrc": "/images/participate2.jpg"
                   }
                 }
               ]
             },
             {
-              "key": "col",
-              "className": "col-12 col-lg-8 mt-3",
+              "key": "newsCardCol",
+              "className": "col-12 col-lg-4 mt-3",
               "items": [
                 {
-                  "itemKey": "teaserImage",
+                  "itemKey": "newsCard",
+                  "className": "h-100",
                   "config": {
-                    "type": "teaserImage",
-                    "image": {
-                      "url": "/images/placeholder.jpg",
-                      "height": "100%"
-                    }
+                    "type": "imageCard",
+                    "showActionBtn": true,
+                    "action": {
+                      "type": "navigate",
+                      "value": "/news"
+                    },
+                    "imageSrc": "/images/news3.jpg"
                   }
                 }
               ]
@@ -123,7 +126,7 @@
                       "type": "navigate",
                       "value": "/about"
                     },
-                    "imageSrc": "/images/placeholder.jpg"
+                    "imageSrc": "/images/about4.jpg"
                   }
                 }
               ]
