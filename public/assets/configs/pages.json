@@ -139,7 +139,7 @@
           "columns": [
             {
               "key": "contentCol",
-              "className": "col-12 col-lg-8 mt-3 chart-center",
+              "className": "col-12 col-md-8 mt-3",
               "items": [
                 {
                   "itemKey": "results",
@@ -151,17 +151,10 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "key": "sponsorRow",
-          "className": "",
-          "columns": [
+            },
             {
-              "key": "logoColumn",
-              "fullwidth": false,
-              "className": "col-12",
+              "key": "sponsorCol",
+              "className": "col-12 col-md-4 mb-3",
               "items": [
                 {
                   "itemKey": "logoCredits",
@@ -170,75 +163,32 @@
                     "type": "logoCredits",
                     "useTitle": true,
                     "className": "",
-                    "images": []
-                  }
-                }
-              ]
-            },
-            {
-              "key": "sponsor1",
-              "fullwidth": false,
-              "className": "col-12 col-lg-2 mb-3",
-              "items": [
-                {
-                  "itemKey": "teaserImage",
-                  "config": {
-                    "type": "teaserImage",
-                    "image": {
-                      "url": "/images/logo-crt.png",
-                      "height": 51
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "key": "sponsor2",
-              "fullwidth": false,
-              "className": "col-12 col-lg-2 mb-3",
-              "items": [
-                {
-                  "itemKey": "teaserImage",
-                  "config": {
-                    "type": "teaserImage",
-                    "image": {
-                      "url": "/images/isi.jpg",
-                      "height": 120
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "key": "sponsor3",
-              "fullwidth": false,
-              "className": "col-12 col-lg-2 mb-3",
-              "items": [
-                {
-                  "itemKey": "teaserImage",
-                  "config": {
-                    "type": "teaserImage",
-                    "image": {
-                      "url": "/images/placeholder.jpg",
-                      "height": 120
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "key": "sponsor4",
-              "fullwidth": false,
-              "className": "col-12 col-lg-2 mb-3",
-              "items": [
-                {
-                  "itemKey": "teaserImage",
-                  "config": {
-                    "type": "teaserImage",
-                    "image": {
-                      "url": "/images/placeholder.jpg",
-                      "height": 120
-                    }
+                    "images": [
+                      {
+                        "key": "sponsor1",
+                        "altKey": "sponsor1",
+                        "url": "images/logo-crt.png",
+                        "width": 200
+                      },
+                      {
+                        "key": "sponsor2",
+                        "altKey": "sponsor2",
+                        "url": "images/isi.jpg",
+                        "width": 200
+                      },
+                      {
+                        "key": "sponsor3",
+                        "altKey": "sponsor3",
+                        "url": "images/placeholder.jpg",
+                        "width": 200
+                      },
+                      {
+                        "key": "sponsor4",
+                        "altKey": "sponsor4",
+                        "url": "images/placeholder.jpg",
+                        "width": 200
+                      }
+                    ]
                   }
                 }
               ]
