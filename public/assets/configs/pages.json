@@ -185,8 +185,8 @@
                   "config": {
                     "type": "teaserImage",
                     "image": {
-                      "url": "/images/fcrt.jpg",
-                      "height": 100
+                      "url": "/images/logo-crt.png",
+                      "height": 51
                     }
                   }
                 }
@@ -202,8 +202,8 @@
                   "config": {
                     "type": "teaserImage",
                     "image": {
-                      "url": "/images/placeholder.jpg",
-                      "height": 100
+                      "url": "/images/isi.jpg",
+                      "height": 120
                     }
                   }
                 }
@@ -220,7 +220,7 @@
                     "type": "teaserImage",
                     "image": {
                       "url": "/images/placeholder.jpg",
-                      "height": 100
+                      "height": 120
                     }
                   }
                 }
@@ -237,7 +237,7 @@
                     "type": "teaserImage",
                     "image": {
                       "url": "/images/placeholder.jpg",
-                      "height": 100
+                      "height": 120
                     }
                   }
                 }
@@ -297,6 +297,32 @@
       "hideWhen": "unauth",
       "pageKey": "landing",
       "rows": [
+        {
+          "key": "teaserImage",
+          "fullWidth": true,
+          "columns": [
+            {
+              "key": "col",
+              "className": "w-100 p-0",
+              "items": [
+                {
+                  "itemKey": "teaserImage",
+                  "config": {
+                    "type": "teaserImage",
+                    "image": {
+                      "url": "/images/landing2.jpg",
+                      "height": 367,
+                      "backgroundPosition": "47% 27%"
+                    },
+                    "textBox": {
+                      "className": "col col-md-6 col-lg-4 offset-0 offset-lg-1"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
         {
           "key": "main",
           "className": "py-3 min-vh-60",
@@ -360,19 +386,6 @@
                         "linkKey": "languageSettings",
                         "type": "dialog",
                         "value": "changeLanguage"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "itemKey": "supportReferences",
-                  "config": {
-                    "type": "linkList",
-                    "links": [
-                      {
-                        "linkKey": "supportLink",
-                        "type": "external",
-                        "value": "https://www.uhasselt.be/UH/Onze-fondsen/56179-Onze-fondsen/Fonds-infectieradar"
                       }
                     ]
                   }
@@ -504,7 +517,7 @@
                       "type": "openDialog",
                       "value": "signup"
                     },
-                    "imageSrc": "/images/participate.jpg",
+                    "imageSrc": "/images/participate2.jpg",
                     "showActionBtn": true
                   }
                 }
@@ -531,7 +544,7 @@
                   "config": {
                     "type": "teaserImage",
                     "image": {
-                      "url": "/images/placeholder.jpg",
+                      "url": "/images/about-teaser.jpg",
                       "backgroundPosition": "50% 43%",
                       "height": 420
                     }
@@ -573,7 +586,7 @@
                       "type": "openDialog",
                       "value": "signup"
                     },
-                    "imageSrc": "/images/placeholder.jpg",
+                    "imageSrc": "/images/participate2.jpg",
                     "showActionBtn": true
                   }
                 },
@@ -589,36 +602,6 @@
                     },
                     "imageSrc": "/images/placeholder.jpg",
                     "showActionBtn": true
-                  }
-                },
-                {
-                  "itemKey": "logoCredits",
-                  "className": "",
-                  "config": {
-                    "type": "logoCredits",
-                    "useTitle": true,
-                    "className": "mb-2",
-                    "images": [
-                      {
-                        "key": "uantwerpen",
-                        "altKey": "uantwerpenLogo",
-                        "url": "images/placeholder.jpg",
-                        "width": 260
-                      },
-                      {
-                        "key": "epipose",
-                        "altKey": "epiposeLogo",
-                        "url": "images/placeholder.jpg",
-                        "className": "",
-                        "width": 260
-                      },
-                      {
-                        "key": "uhasselt",
-                        "altKey": "hasseltLogo",
-                        "url": "images/placeholder.jpg",
-                        "width": 260
-                      }
-                    ]
                   }
                 }
               ]
