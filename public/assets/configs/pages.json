@@ -24,7 +24,7 @@
                   "config": {
                     "type": "teaserImage",
                     "image": {
-                      "url": "/images/landing2.jpg",
+                      "url": "/images/landing.jpg",
                       "height": 367,
                       "backgroundPosition": "47% 27%"
                     },
@@ -69,7 +69,7 @@
                       "type": "navigate",
                       "value": "/results"
                     },
-                    "imageSrc": "/images/resultsIT.jpg"
+                    "imageSrc": "/images/results.jpg"
                   }
                 }
               ]
@@ -88,7 +88,7 @@
                       "type": "openDialog",
                       "value": "signup"
                     },
-                    "imageSrc": "/images/participate2.jpg"
+                    "imageSrc": "/images/participate.jpg"
                   }
                 }
               ]
@@ -107,7 +107,7 @@
                       "type": "navigate",
                       "value": "/news"
                     },
-                    "imageSrc": "/images/news3.jpg"
+                    "imageSrc": "/images/news.jpg"
                   }
                 }
               ]
@@ -126,7 +126,7 @@
                       "type": "navigate",
                       "value": "/about"
                     },
-                    "imageSrc": "/images/about4.jpg"
+                    "imageSrc": "/images/about.jpg"
                   }
                 }
               ]
@@ -179,13 +179,13 @@
                       {
                         "key": "sponsor3",
                         "altKey": "sponsor3",
-                        "url": "images/placeholder.jpg",
+                        "url": "images/epipose.jpg",
                         "width": 200
                       },
                       {
                         "key": "sponsor4",
                         "altKey": "sponsor4",
-                        "url": "images/placeholder.jpg",
+                        "url": "images/influenzanet.png",
                         "width": 200
                       }
                     ]
@@ -260,7 +260,7 @@
                   "config": {
                     "type": "teaserImage",
                     "image": {
-                      "url": "/images/landing2.jpg",
+                      "url": "/images/landing.jpg",
                       "height": 367,
                       "backgroundPosition": "47% 27%"
                     },
@@ -467,7 +467,7 @@
                       "type": "openDialog",
                       "value": "signup"
                     },
-                    "imageSrc": "/images/participate2.jpg",
+                    "imageSrc": "/images/participate.jpg",
                     "showActionBtn": true
                   }
                 }
@@ -536,7 +536,7 @@
                       "type": "openDialog",
                       "value": "signup"
                     },
-                    "imageSrc": "/images/participate2.jpg",
+                    "imageSrc": "/images/participate.jpg",
                     "showActionBtn": true
                   }
                 },
@@ -550,7 +550,7 @@
                       "type": "navigate",
                       "value": "/home"
                     },
-                    "imageSrc": "/images/placeholder.jpg",
+                    "imageSrc": "/images/survey.jpg",
                     "showActionBtn": true
                   }
                 }
