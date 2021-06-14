@@ -470,6 +470,20 @@
                     "imageSrc": "/images/participate.jpg",
                     "showActionBtn": true
                   }
+                },
+                {
+                  "itemKey": "surveyCard",
+                  "hideWhen": "unauth",
+                  "className": "",
+                  "config": {
+                    "type": "imageCard",
+                    "action": {
+                      "type": "navigate",
+                      "value": "/home"
+                    },
+                    "imageSrc": "/images/survey.jpg",
+                    "showActionBtn": true
+                  }
                 }
               ]
             }

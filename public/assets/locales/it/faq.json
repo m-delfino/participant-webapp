@@ -14,6 +14,12 @@
     "body": "Help us keep an eye on coronavirus. Report weekly whether you have any symptoms.",
     "actionLabel": "Sign up"
   },
+  "surveyCard": {
+    "imageAlt": "Report now!",
+    "title": "Report now!",
+    "body": "Report whether you have any symptoms.",
+    "actionLabel": "Questionnaires"
+  },
   "faq": [
     {
       "title": "Who set up Infectieradar.be?",
