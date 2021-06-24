@@ -1,17 +1,17 @@
 {
   "home": "Home",
   "authhome": "My Influweb",
-  "results": "Current Results",
+  "results": "Risultati",
   "about": "About Influweb",
   "faq": "FAQ",
   "news": "News",
-  "login": "Login",
-  "signup": "Sign up",
+  "login": "Entra",
+  "signup": "Registrati",
   "rightMenu": {
-    "settings": "Settings",
-    "logout": "Logout",
-    "verified": "Account not verified"
+    "settings": "Configurazione",
+    "logout": "Disconnetti",
+    "verified": "Account non verificato"
   },
-  "exitSurveyMode": "Exit",
-  "selectedProfilePrefixInSurveyMode": "Answering for: "
+  "exitSurveyMode": "Esci",
+  "selectedProfilePrefixInSurveyMode": "Sto compilando il questionario per: "
 }
