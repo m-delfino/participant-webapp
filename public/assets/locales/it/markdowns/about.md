@@ -1,11 +1,10 @@
-## Why Infectieradar.be?
-We know that many people who become infected with the new coronavirus have mild or few symptoms and do not go to the doctor. Also, not everyone is tested. This make it difficult to track how the new coronavirus is developing in Italy. With the help of people from all over the country this can be done better, and together we can keep a close watch on what is going on.
+## Perché influweb.it?
+Sappiamo che molte persone che si infettano con il nuovo coronavirus hanno sintomi lievi o addirittura nessuno e, per questo motivo, non vanno dal medico. Anche tra quelli che si rivolgono a un medico, non tutti ricevono un test. Ciò può rendere difficile monitorare la circolazione del coronavirus in Italia. Grazie all'aiuto dei nostri volontari provenienti da tutto il paese possiamo seguire da vicino ciò che sta succedendo.
 
-## How does Infectieradar.be work?
-People who have registered as participants in Infectieradar report once a week to Infectieradar whether they have had a fever or other symptoms in the past week. This allows us to monitor how health complaints are distributed in Italy and how the situation develops over time. We can use this data for scientific research into the spread of the new coronavirus. In the future, that research will also be useful for other viruses and infectious diseases.
-Participants receive an initial registration form with questions about their background: work, age, and existing diseases and conditions. Following this they receive an email every week asking if they have had any symptoms in the past week and if so, which ones: a runny nose, coughing, sneezing, a high temperature and so on. It is important for the questionnaire to be completed even if a participant has no symptoms. If this is the case, it takes about 30 seconds to answer the questions; if there are symptoms it takes about 3 to 5 minutes.
-
+## Come funziona Influweb.it?
+Per partecipare, è sufficiente registrarsi e compilare settimanalmente un questionario in cui si può segnalare il proprio stato di salute, segnalando la presenza di febbre o altri sintomi o anche nessun sintomo. Questo ci permette di monitorare lo stato di salute della popolazione in Italia e come la situazione si evolve nel tempo. I dati vengono utilizzati per la ricerca scientifica sulla diffusione del coronavirus in Italia. In futuro, tale ricerca sarà utile anche per altri virus e malattie infettive.
+Ai partecipanti che si registrano viene chiesto di riempire un breve questionario iniziale con domande sul loro background: lavoro, età e malattie e condizioni esistenti. In seguito ricevono un'e-mail ogni settimana per segnalare se hanno avuto sintomi nell'ultima settimana e, in caso affermativo, quali: naso che cola, tosse, starnuti, febbre e così via. È importante che il questionario venga completato anche se un partecipante non ha sintomi. In assenza di sintomi, sono sufficienti circa 30 secondi per rispondere alle domande; se ci sono sintomi, è sufficiente qualche minuto.
 </br>
-Infectieradar receives financial support from the EU Horizon 2020 program.
+Influweb è supportato da Fondazione ISI, Fondazione CRT e dai progetti Epipose e PANDEM-2 del programma EU Horizon 2020.
 
-Infectieradar is part of the European consortium [Influenzanet](https://infectieradar.be/en/influenzanet/).
+Influweb è parte del consorzio europeo [Influenzanet](https://influenzanet.info).

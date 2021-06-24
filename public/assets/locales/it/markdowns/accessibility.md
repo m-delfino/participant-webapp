@@ -1,3 +1,3 @@
-We do our best to pay attention to the user-friendliness, accessibility, quality and findability of online information.
+Facciamo del nostro meglio per essere attenti alla facilità d'uso, all'accessibilità, alla qualità e alla reperibilità delle informazioni online.
 
-In case you have questions, comments and suggestions on the working and design of this website , please mail these to [infectieradar@uhasselt.be](mailto:infectieradar@uhasselt.be).
+In caso di domande, commenti e suggerimenti sul funzionamento e il design di questo sito Web, inviare una mail a [influweb.it@gmail.com] (mailto: influweb.it@gmail.com)

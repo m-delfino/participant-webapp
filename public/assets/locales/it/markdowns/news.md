@@ -1,5 +1,5 @@
-`This page has been last updated at 16.may.2021 14:00.`
+`Pagina aggiornata il 24.giugno.2021 14:00.`
 <br />
 
-On this page you will be able to see the latest news & announcements from Influweb.it
+In questa pagina è possibile consultare tutte le notizie e gli ultimi aggiornamenti dal team di Influweb.it
 <br />
