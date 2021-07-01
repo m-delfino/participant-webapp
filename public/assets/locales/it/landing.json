@@ -4,72 +4,72 @@
     "title": "Login",
     "info": "",
     "emailInputLabel": "Email",
-    "emailInputPlaceholder": "Enter Email",
+    "emailInputPlaceholder": "Inserisci Email",
     "passwordInputLabel": "Password",
-    "passwordInputPlaceholder": "Enter Password",
-    "rememberMeLabel": "Remember Me",
-    "btn": "Login",
-    "passwordForgottenBtn": "Forgot password?",
-    "signupBtn": "Don't yet have an account? Sign up here."
+    "passwordInputPlaceholder": "Inserisci Password",
+    "rememberMeLabel": "Ricordami",
+    "btn": "Accedi",
+    "passwordForgottenBtn": "Password dimenticata?",
+    "signupBtn": "Non hai ancora un account? Iscriviti qui."
   },
   "logoCredits": {
-    "title": "Our Supporters"
+    "title": "I nostri sostenitori"
   },
   "currentResultCard": {
-    "imageAlt": "Current results image",
-    "title": "Current results",
-    "body": "Influweb identifies which symptoms people in Italy have that could indicate coronavirus.",
-    "actionLabel": "Current results"
+    "imageAlt": "Immagine dei risultati attuali",
+    "title": "Risultati attuali",
+    "body": "Influweb identifica quali sintomi hanno le persone in Italia che potrebbero indicare il coronavirus",
+    "actionLabel": "Risultati attuali"
   },
   "signupCard": {
-    "imageAlt": "Participate image",
-    "title": "Participate",
-    "body": "Help us keep an eye on coronavirus. Report weekly whether you have any symptoms.",
-    "actionLabel": "Sign up"
+    "imageAlt": "Partecipa all'immagine",
+    "title": "Partecipa",
+    "body": "Aiutaci a tenere d'occhio il coronavirus. Segnala settimanalmente se hai qualche sintomo.",
+    "actionLabel": "Registrati"
   },
   "aboutCard": {
-    "imageAlt": "About Influweb image",
-    "title": "About Influweb",
-    "body": "With Influweb, we monitor the spread of  symptoms across Italy. It is one of the tools the research team uses to monitor the spread of the virus.",
-    "actionLabel": "Learn more"
+    "imageAlt": "Informazioni sull'immagine Influweb",
+    "title": "Informazioni su Influweb",
+    "body": "Con Influweb monitoriamo la diffusione dei sintomi in tutta Italia. È uno degli strumenti che il team di ricerca utilizza per monitorare la diffusione del virus.",
+    "actionLabel": "Ulteriori informazioni"
   },
   "newsCard": {
-    "imageAlt": "Latest updates from Infuweb",
-    "title": "Latest Infuweb news",
-    "body": "We regularly post updates and news bulletins on the ongoing Covid-19 pandemic and the Influenza season",
-    "actionLabel": "Learn more"
+    "imageAlt": "Ultimi aggiornamenti da Infuweb",
+    "title": "Ultime notizie Infuweb",
+    "body": "Pubblichiamo regolarmente aggiornamenti e notiziari sulla pandemia di Covid-19 in corso e sulla stagione dell'influenza",
+    "actionLabel": "Ulteriori informazioni"
   },
   "references": {
-    "title": "Read More",
+    "title": "Leggi di più",
     "faqLink": "FAQ",
-    "aboutLink": "About Influweb",
-    "resultsLink": "Results"
+    "aboutLink": "Informazioni su Influweb",
+    "resultsLink": "Risultati"
   },
   "settingsReferences": {
-    "title": "Quick Settings",
-    "profileSettings": "Manage Profiles",
-    "communicationSettings": "Email Reminders",
-    "languageSettings": "Languages"
+    "title": "Impostazioni",
+    "profileSettings": "Gestisci profili",
+    "communicationSettings": "Promemoria email",
+    "languageSettings": "Lingue"
   },
   "supportReferences": {
-    "title": "Support us",
-    "supportLink": "Information"
+    "title": "Sostienici",
+    "supportLink": "Informazioni"
   },
   "surveyList": {
     "requiredSurveys": {
-      "title": "Questionnaires to be completed",
-      "info": "The different questionnaires for the study can be found here.",
-      "successMsg": "Thank you! You have completed all questionnaires. We hope to hear from you again next week. In case you want to provide new information sooner, you can retake the questionnaire in few hours."
+      "title": "Questionari da completare",
+      "info": "I diversi questionari per lo studio possono essere trovati qui.",
+      "successMsg": "Grazie! Hai completato tutti i questionari. Speriamo di sentirti di nuovo la prossima settimana. Nel caso in cui desideri fornire nuove informazioni prima, puoi ripetere il questionario tra poche ore."
     },
     "optionalSurveys": {
-      "title": "Change background information",
-      "info": "If your situation has changed, you can recomplete the background questionnaire(s) below.  Unfortunately, we cannot show you the information you entered last time, or let you change your answers to specific questions only.",
-      "hideBtn": "Hide",
-      "showBtn": "Has your background information changed?"
+      "title": "Cambia le informazioni di base",
+      "info": "Se la tua situazione è cambiata, puoi completare nuovamente il questionario oi questionari in background di seguito. Sfortunatamente, non possiamo mostrarti le informazioni che hai inserito l'ultima volta o consentirti di modificare le tue risposte solo a domande specifiche.",
+      "hideBtn": "Nascondi",
+      "showBtn": "Le tue informazioni di base sono cambiate?"
     }
   },
   "teaserImage": {
-    "title": "Welcome to Influweb",
-    "content": "Get started by signing up to participate in the study"
+    "title": "Benvenuti in Influweb",
+    "content": "Inizia iscrivendoti per partecipare allo studio"
   }
 }

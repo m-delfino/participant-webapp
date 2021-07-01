@@ -1,14 +1,14 @@
 {
   "exitSurveyWarningDialog": {
-    "title": "Do you want to exit the questionnaire?",
-    "warning": "All information entered will be lost if you don’t complete the questionnaire. Are you sure you want to stop?",
-    "cancelBtn": "Continue completing the questionnaire",
-    "confirmBtn": "Exit the questionnaire"
+    "title": "Vuoi uscire dal questionario?",
+    "warning": "Tutte le informazioni inserite andranno perse se non completerai il questionario. Sei sicuro di voler smettere?",
+    "cancelBtn": "Continua a compilare il questionario",
+    "confirmBtn": "Esci dal questionario"
   },
-  "noSurveyLoaded": "Loading failed. Refresh the page",
-  "submittingSurveyResponsesMsg": "Submitting answers...",
-  "notValidQuestion": "Select a valid answer for all questions.",
-  "backBtn": "Back",
-  "nextBtn": "Next",
-  "submitBtn": "Send"
+  "noSurveyLoaded": "Caricamento non riuscito. Aggiorna la pagina",
+  "submittingSurveyResponsesMsg": "Invio risposte...",
+  "notValidQuestion": "Seleziona una risposta valida per tutte le domande.",
+  "backBtn": "Indietro",
+  "nextBtn": "Avanti",
+  "submitBtn": "Invia"
 }

@@ -1,15 +1,15 @@
 {
   "services": {
-    "title": "Services",
-    "contact": "Contact",
-    "twitter": "Follow us on Twitter",
-    "facebook": "Follow us on Facebook"
+    "title": "Servizi",
+    "contact": "Contatto",
+    "twitter": "Seguici su Twitter",
+    "facebook": "Seguici su Facebook"
   },
   "about": {
-    "title": "About this page",
-    "privacy": "Privacy Statement",
+    "title": "Informazioni su questa pagina",
+    "privacy": "Informativa sulla privacy",
     "disclaimer": "Disclaimer",
-    "accessibility": "Accessibility"
+    "accessibility": "Accessibilità"
   },
   "languages": {
     "title": "Le lingue",

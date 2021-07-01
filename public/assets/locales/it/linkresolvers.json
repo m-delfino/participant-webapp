@@ -1,84 +1,84 @@
 {
   "verifyEmail": {
-    "title": "Verifying Email Address",
+    "title": "Verifica indirizzo email",
     "content": {
       "info": "",
-      "success": "Success! Your email address has been confirmed. \n\n Log in now.",
+      "success": "Successo! Il tuo indirizzo email è stato confermato. \n\n Accedi ora.",
       "btn": {
         "successWithAuth": "Home",
         "successWithoutAuth": "Login",
         "errorWithAuth": "Home",
-        "errorWithoutAuth": "Go to login"
+        "errorWithoutAuth": "Vai al login"
       }
     },
     "errors": {
-      "wrongToken": "Something has gone wrong. Check that you are using the right link, and that you haven’t tried this link before. Request a new email if necessary.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "wrongToken": "Qualcosa è andato storto. Verifica di utilizzare il link corretto e di non averlo mai provato prima. Richiedi una nuova email se necessario.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
     }
   },
   "passwordReset": {
-    "title": "New Password",
+    "title": "Nuova password",
     "content": {
       "info": "",
       "emailLabel": "Email",
-      "emailPlaceholder": "Enter Email",
+      "emailPlaceholder": "Inserisci Email",
       "newPasswordLabel": "Password",
-      "newPasswordPlaceholder": "Enter new password",
-      "confirmPasswordLabel": "Confirm Password",
-      "confirmPasswordPlaceholder": "Enter new password again",
-      "btn": "Change password",
-      "restartBtn": "Again",
-      "successMsg": "Password changed",
-      "successBtn": "Login"
+      "newPasswordPlaceholder": "Inserisci nuova password",
+      "confirmPasswordLabel": "Conferma password",
+      "confirmPasswordPlaceholder": "Inserisci nuovamente la nuova password",
+      "btn": "Cambia password",
+      "restartBtn": "Ancora",
+      "successMsg": "Password modificata",
+      "successBtn": "Accedi"
     },
     "errors": {
-      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
-      "passwordMatch": "The passwords are not the same",
-      "wrongToken": "Something has gone wrong. Check that you are using the right link, and that you haven’t tried this link before. Request a new email if necessary.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "passwordRules": "La tua password deve avere almeno 8 caratteri e contenere 3 dei seguenti 4 elementi: lettere minuscole, maiuscole, numeri, segni di punteggiatura.",
+      "passwordMatch": "Le password non sono le stesse",
+      "wrongToken": "Qualcosa è andato storto. Verifica di utilizzare il link corretto e di non averlo mai provato prima. Richiedi una nuova email se necessario.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
     }
   },
   "invitation": {
-    "title": "Welcome!",
+    "title": "Benvenuto!",
     "content": {
-      "info": "## Welcome! \n\n Before starting to use the system, you need to set a password.",
+      "info": "## Benvenuto! \n\n Prima di iniziare a utilizzare il sistema, devi impostare una password.",
       "emailLabel": "E-mail",
-      "emailPlaceholder": "Enter E-mail",
+      "emailPlaceholder": "Inserisci E-mail",
       "newPasswordLabel": "Password",
-      "newPasswordPlaceholder": "Enter password",
-      "confirmPasswordLabel": "Confirm Password",
-      "confirmPasswordPlaceholder": "Enter password again",
-      "informedConsentCheckbox": "Access the <1>privacy statement</1>.*",
-      "btn": "Confirm password",
-      "restartBtn": "Again",
-      "successMsg": "Password confirmed",
-      "successBtn": "Login"
+      "newPasswordPlaceholder": "Inserisci password",
+      "confirmPasswordLabel": "Conferma Password",
+      "confirmPasswordPlaceholder": "Inserisci nuovamente la password",
+      "informedConsentCheckbox": "Accedi all'<1>informativa sulla privacy</1>.*",
+      "btn": "Conferma password",
+      "restartBtn": "Ancora",
+      "successMsg": "Password confermata",
+      "successBtn": "Accedi"
     },
     "privacyConsent": {
-      "title": "Privacy Consent",
-      "acceptBtn": "I consent",
-      "cancelBtn": "I do not consent"
+      "title": "Consenso Privacy",
+      "acceptBtn": "Acconsento",
+      "cancelBtn": "Non acconsento"
     },
     "errors": {
-      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
-      "passwordMatch": "The passwords are not the same",
-      "wrongToken": "Something has gone wrong. Check that you are using the right link, and that you haven’t tried this link before. Request a new email if necessary.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "passwordRules": "La tua password deve avere almeno 8 caratteri e contenere 3 dei seguenti 4 elementi: lettere minuscole, maiuscole, numeri, segni di punteggiatura.",
+      "passwordMatch": "Le password non sono le stesse",
+      "wrongToken": "Qualcosa è andato storto. Verifica di utilizzare il link corretto e di non averlo mai provato prima. Richiedi una nuova email se necessario.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
     }
   },
   "studyLogin": {
-    "title": "Welcome back!",
+    "title": "Bentornato!",
     "content": {
-      "cardTitle": "Login",
+      "cardTitle": "Accedi",
       "info": "",
-      "emailInputLabel": "Email",
-      "emailInputPlaceholder": "Enter Email",
+      "emailInputLabel": "E-mail",
+      "emailInputPlaceholder": "Inserisci email",
       "passwordInputLabel": "Password",
-      "passwordInputPlaceholder": "Enter Password",
-      "rememberMeLabel": "Remember Me",
-      "btn": "Login",
-      "passwordForgottenBtn": "Password forgotten",
-      "signupBtn": "Don't yet have an account? Sign up."
+      "passwordInputPlaceholder": "Inserisci Password",
+      "rememberMeLabel": "Ricordami",
+      "btn": "Accedi",
+      "passwordForgottenBtn": "Password dimenticata",
+      "signupBtn": "Non hai ancora un account? Iscriviti."
     }
   }
 }

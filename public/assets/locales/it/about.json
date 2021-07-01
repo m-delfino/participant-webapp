@@ -7,9 +7,9 @@
     "actionLabel": "Sign up"
   },
   "surveyCard": {
-    "imageAlt": "Report now!",
-    "title": "Report now!",
-    "body": "Report whether you have any symptoms.",
-    "actionLabel": "Questionnaires"
+    "imageAlt": "Segnala ora!",
+    "title": "Segnala ora!",
+    "body": "Segnala se hai qualche sintomo.",
+    "actionLabel": "Questionari"
   }
 }

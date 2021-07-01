@@ -1,217 +1,215 @@
 {
-  "loadingMsg": "Loading",
+  "loadingMsg": "Caricamento in corso",
   "login": {
     "credentials": {
       "title": "Login",
       "info": "",
-      "emailInputLabel": "Email",
-      "emailInputPlaceholder": "Enter Email",
+      "emailInputLabel": "E-mail",
+      "emailInputPlaceholder": "Inserisci l'email",
       "passwordInputLabel": "Password",
-      "passwordInputPlaceholder": "Enter Password",
-      "rememberMeLabel": "Remember Me",
+      "passwordInputPlaceholder": "Inserire la password",
+      "rememberMeLabel": "Ricordati di me",
       "btn": "Login",
-      "passwordForgottenBtn": "Forgot Password",
-      "signupBtn": "Don't yet have an account? Sign up."
+      "passwordForgottenBtn": "Ha dimenticato la password",
+      "signupBtn": "Non hai ancora un account? Iscriviti."
     },
     "verificationCode": {
-      "title": "Verify your identity",
-      "info": "Please enter the six digit code we have sent to your email address. If you cannot find it in your inbox, please also check the SPAM folder or send a new code with the button below.",
-      "codeInputLabel": "6 digit verification code",
-      "codeInputPlaceholder": "Enter Your Code",
-      "submitBtn": "Submit",
-      "resendBtn": "Send a new code"
+      "title": "Verifica la tua identità",
+      "info": "Inserisci il codice a sei cifre che abbiamo inviato al tuo indirizzo email. Se non lo trovi nella tua casella di posta, controlla anche la cartella SPAM o invia un nuovo codice con il pulsante qui sotto.",
+      "codeInputLabel": "codice di verifica a 6 codice",
+      "codeInputPlaceholder": "Inserisci il tuo codice",
+      "submitBtn": "Invia",
+      "resendBtn": "Invia un nuovo codice"
     },
     "errors": {
-      "accountOrPassword": "Something has gone wrong. Check your email address and password.",
-      "wrongCode": "Wrong code. Check the code we emailed you.",
-      "newCodeSent": "Wrong code. We have emailed you a new code.",
-      "rateLimit": "You will need to wait a while before you can request a new code.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "accountOrPassword": "Qualcosa è andato storto. Controlla il tuo indirizzo email e la password.",
+      "wrongCode": "Codice errato. Controlla il codice che ti abbiamo inviato via email.",
+      "newCodeSent": "Codice errato. Ti abbiamo inviato un nuovo codice via email.",
+      "rateLimit": "Dovrai attendere un po' prima di poter richiedere un nuovo codice.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
     }
   },
   "signup": {
-    "title": "Sign up",
+    "title": "Registrati",
     "info": "",
-    "emailInputLabel": "Email",
-    "emailInputPlaceholder": "Enter Email",
+    "emailInputLabel": "E-mail",
+    "emailInputPlaceholder": "Inserisci E-mail",
     "passwordInputLabel": "Password",
-    "passwordInputPlaceholder": "Enter Password",
-    "confirmPasswordInputLabel": "Confirm Password",
-    "confirmPasswordInputPlaceholder": "Enter Password Again",
-    "informedConsentCheckbox": "Access the <1>privacy statement</1>.*",
-    "reCaptchaCookieCheckbox": "Access <1>reCAPTCHA statement</1>.*",
-    "signupBtn": "Sign up",
-    "loginLink": "Have an account already? Login in here.",
-    "reCaptchaLinks": "This site is protected by reCAPTCHA and the Google <1>Privacy Policy</1> and <3>Terms of Service</3> apply.",
+    "passwordInputPlaceholder": "Inserisci Password",
+    "confirmPasswordInputLabel": "Conferma Password",
+    "confirmPasswordInputPlaceholder": "Inserisci nuovamente la password",
+    "informedConsentCheckbox": "Accedi all'<1>informativa sulla privacy</1>.*",
+    "reCaptchaCookieCheckbox": "Accedi all'<1>istruzione reCAPTCHA</1>.*",
+    "signupBtn": "Registrati",
+    "loginLink": "Hai già un account? Accedi qui.",
+    "reCaptchaLinks": "Questo sito è protetto da reCAPTCHA e si applicano le <1>Norme sulla privacy</1> e i <3>Termini di servizio</3> di Google.",
     "errors": {
-      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
-      "passwordMatch": "The passwords are not the same",
-      "invalidEmail": "Your email address seems to be incorrect",
-      "userCreationFailed": "Something has gone wrong.",
-      "unknown": "Something has gone wrong."
+      "passwordRules": "La tua password deve avere almeno 8 caratteri e contenere 3 dei seguenti 4 elementi: lettere minuscole, maiuscole, numeri, segni di punteggiatura.",
+      "passwordMatch": "Le password non sono le stesse",
+      "invalidEmail": "Il tuo indirizzo email sembra non essere corretto",
+      "userCreationFailed": "Qualcosa è andato storto.",
+      "unknown": "Qualcosa è andato storto."
     }
   },
   "privacyConsent": {
-    "title": "Privacy Consent",
+    "title": "Consenso Privacy",
     "acceptBtn": "I consent",
     "cancelBtn": "I do not consent"
   },
   "recaptchaConsent": {
     "title": "ReCaptcha Consent",
-    "acceptBtn": "I agree",
-    "cancelBtn": "I don't agree"
+    "acceptBtn": "Acconsento",
+    "cancelBtn": "Non acconsento"
   },
   "signupSuccess": {
-    "title": "Welcome!",
-    "successMsg": "You are almost signed up for Infectieradar.be! \n\n First confirm your email address by clicking on the link in the confirmation email that we have sent you \n If you can’t find the email, first check your spam folder. You can also request a new email below.",
-    "emailSentMsg": "E-mail has been send",
-    "resendVerificationEmailBtn": "Resend confirmation email",
-    "wrongEmailBtn": "Did you use the wrong email address? Then change it here.",
+    "title": "Benvenuto!",
+    "successMsg": "Sei quasi iscritto a Infectieradar.be! \n\n Prima conferma il tuo indirizzo e-mail facendo clic sul link nell'e-mail di conferma che ti abbiamo inviato \n Se non riesci a trovare l'e-mail, prima controlla la tua cartella spam. Puoi anche richiedere una nuova email qui sotto.",
+    "emailSentMsg": "L'e-mail è stata inviata",
+    "resendVerificationEmailBtn": "Reinvia email di conferma",
+    "wrongEmailBtn": "Hai usato l'indirizzo email sbagliato? Allora cambialo qui.",
     "errors": {
-      "unknown": "Something has gone wrong."
+      "unknown": "Qualcosa è andato storto."
     }
   },
   "passwordForgotten": {
-    "title": "Change password",
-    "info": "Enter the email address of your account",
-    "successMessage": "Follow the link in the email we have sent you at the address below.\n If you haven’t received an email, check your spam folder or try again if possible.",
+    "title": "Cambia password",
+    "info": "Inserisci l'indirizzo email del tuo account",
+    "successMessage": "Segui il link nell'e-mail che ti abbiamo inviato all'indirizzo sottostante.\n Se non hai ricevuto l'e-mail, controlla la cartella della posta indesiderata o riprova se possibile.",
     "emailInputLabel": "E-mail",
-    "emailInputPlaceholder": "Enter E-mail",
-    "submitBtn": "Change password",
+    "emailInputPlaceholder": "Inserisci E-mail",
+    "submitBtn": "Cambia password",
     "errors": {
-      "invalidId": "Something has gone wrong. Check your email address or connection./n You can have another try when the button is visible again.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "invalidId": "Qualcosa è andato storto. Controlla il tuo indirizzo email o la connessione./n Puoi fare un altro tentativo quando il pulsante sarà di nuovo visibile.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
     }
   },
   "changeEmail": {
-    "title": "Change email address",
-    "emailInputLabel": "New email address",
-    "emailInputPlaceholder": "New email address",
+    "title": "Cambia indirizzo email",
+    "emailInputLabel": "Nuovo indirizzo email",
+    "emailInputPlaceholder": "Nuovo indirizzo email",
     "passwordInputLabel": "Password",
     "passwordInputPlaceholder": "Password",
-    "info": "Do you want to use a different email address? Change your email address by clicking on the button below. Note: you cannot log back in to Infectieradar.be until you have confirmed the email address.",
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Change email address",
+    "info": "Vuoi utilizzare un indirizzo e-mail diverso? Cambia il tuo indirizzo e-mail facendo clic sul pulsante in basso. Nota: non puoi accedere nuovamente a Infectieradar.be finché non hai confermato l'indirizzo e-mail.",
+    "cancelBtn": "Annulla",
+    "confirmBtn": "Cambia indirizzo email",
     "errors": {
-      "wrongPasswordOrAccountId": "Something has gone wrong. Check your information. (email address or password may be wrong)",
-      "wrongEmailFormat": "Not a valid email address.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "wrongPasswordOrAccountId": "Qualcosa è andato storto. Controlla le tue informazioni. (l'indirizzo email o la password potrebbero essere sbagliati)",
+      "wrongEmailFormat": "Indirizzo email non valido.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
     },
     "warningDialog": {
-      "title": "Confirm new email address",
-      "content": "Note: you cannot log back in to Infectieradar.be until you have confirmed the new email address via the link in the confirmation email that we have sent you.",
-      "cancelBtn": "Cancel",
-      "confirmBtn": "Confirm"
+      "title": "Conferma nuovo indirizzo email",
+      "content": "Nota: non puoi accedere nuovamente a Influweb.it finché non hai confermato il nuovo indirizzo email tramite il link nell'email di conferma che ti abbiamo inviato.",
+      "cancelBtn": "Annulla",
+      "confirmBtn": "Conferma"
     },
     "successDialog": {
-      "title": "Email address changed",
-      "content": "Success! Your email address has been changed.",
+      "title": "Indirizzo e-mail cambiato",
+      "content": "Successo! Il tuo indirizzo email è stato modificato.",
       "btn": "Ok"
     }
   },
   "changePassword": {
-    "title": "Change password",
-    "currentPasswordInputLabel": "Current password",
-    "currentPasswordInputPlaceholder": "Current password",
-    "newPasswordInputLabel": "New password",
-    "newPasswordInputPlaceholder": "New password",
-    "confirmPasswordInputLabel": "Confirm new password",
-    "confirmPasswordInputPlaceholder": "Confirm new password",
-    "info": "For security reasons, you must first provide your current password.",
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Confirm",
+    "title": "Cambia password",
+    "currentPasswordInputLabel": "Password corrente",
+    "currentPasswordInputPlaceholder": "Password corrente",
+    "newPasswordInputLabel": "Nuova password",
+    "newPasswordInputPlaceholder": "Nuova password",
+    "confirmPasswordInputLabel": "Conferma nuova password",
+    "confirmPasswordInputPlaceholder": "Conferma nuova password",
+    "info": "Per motivi di sicurezza, devi prima fornire la tua password attuale.",
+    "cancelBtn": "Annulla",
+    "confirmBtn": "Conferma",
     "errors": {
-      "wrongCurrentPassword": "Wrong password",
-      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
-      "passwordMatch": "The passwords are not the same",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "wrongCurrentPassword": "Password errata",
+      "passwordRules": "La tua password deve avere almeno 8 caratteri e contenere 3 dei seguenti 4 elementi: lettere minuscole, maiuscole, numeri, segni di punteggiatura.",
+      "passwordMatch": "Le password non sono le stesse",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
     },
     "successDialog": {
-      "title": "Password changed",
-      "content": "Success! Your password has been changed",
+      "title": "Password modificata",
+      "content": "Successo! La tua password è stata modificata",
       "btn": "Ok"
     }
   },
   "manageProfiles": {
-    "title": "Profiles",
-    "mainProfileLabel": "Me",
-    "cancelBtn": "Cancel",
-    "newProfileBtn": "New profile for your child",
+    "title": "Profili",
+    "mainProfileLabel": "Io",
+    "cancelBtn": "Annulla",
+    "newProfileBtn": "Nuovo profilo per tuo figlio",
     "warningDialog": {
-      "title": "Delete profile",
-      "content": "The removal of the profile {{ alias }} cannot be undone.",
-      "cancelBtn": "Cancel",
-      "confirmBtn": "Delete profile"
+      "title": "Elimina profilo",
+      "content": "La rimozione del profilo {{ alias }} non può essere annullata.",
+      "cancelBtn": "Annulla",
+      "confirmBtn": "Elimina profilo"
     }
   },
   "editProfile": {
     "new": {
-      "title": "New Profile",
-      "cancelBtn": "Cancel",
-      "submitBtn": "Create profile for your child"
+      "title": "Nuovo profilo",
+      "cancelBtn": "Annulla",
+      "submitBtn": "Crea un profilo per tuo figlio"
     },
     "edit": {
-      "title": "Edit Profile",
-      "cancelBtn": "Cancel",
-      "submitBtn": "Save Changes"
+      "title": "Modifica profilo",
+      "cancelBtn": "Annulla",
+      "submitBtn": "Salva modifiche"
     },
     "aliasInputLabel": "Nickname",
     "aliasInputPlaceholder": "Nickname",
-    "consentCheckboxLabel": "Consent",
-    "consentCheckboxText": "You may only create a profile and complete questionnaires for yourself or as a parent or legal representative of your child who has not yet reached the age of 18",
-    "avatarSelectorLabel": "Choose a picture"
+    "consentCheckboxLabel": "Consenso",
+    "consentCheckboxText": "Puoi creare un profilo e compilare questionari solo per te stesso o come genitore o rappresentante legale di tuo figlio che non ha ancora compiuto 18 anni",
+    "avatarSelectorLabel": "Scegli un'immagine"
   },
   "changeLanguage": {
-    "title": "Languages",
-    "defaultLanguageLabel": "Default language",
-    "info": "You can change the default language here. If availble, also emails will be send in this language.",
+    "title": "Lingue",
+    "defaultLanguageLabel": "Lingua predefinita",
+    "info": "Qui puoi cambiare la lingua predefinita. Se disponibile, anche le email verranno inviate in questa lingua.",
     "languages": {
-      "nl-be": "Nederlands",
       "en": "English",
-      "fr-be": "Français",
-      "de-be": "Deutsch"
+      "it": "Italiano"
     },
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Confirm language",
+    "cancelBtn": "Annulla",
+    "confirmBtn": "Conferma lingua",
     "errors": {
-      "emtyLanguages": "Failed to load languages. Please try again later",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "emtyLanguages": "Impossibile caricare le lingue. Riprova più tardi",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
     },
     "successDialog": {
-      "title": "Language changed",
-      "content": "Success! The default language has changed.",
+      "title": "Lingua modificata",
+      "content": "Successo! La lingua predefinita è cambiata.",
       "btn": "Ok"
     }
   },
   "changeNotifications": {
-    "title": "Email settings",
-    "info": "You can opt to stop receiving the weekly reminder email or the newsletter.",
+    "title": "Impostazioni e-mail",
+    "info": "Puoi scegliere di non ricevere più l'e-mail di promemoria settimanale o la newsletter.",
     "weeklyReminder": {
-      "label": "Weekly reminder email",
-      "on": "I would like to receive the weekly reminder email",
-      "off": "Don't receive the weekly reminder email"
+      "label": "Email di promemoria settimanale",
+      "on": "Vorrei ricevere l'e-mail di promemoria settimanale",
+      "off": "Non ricevere l'e-mail di promemoria settimanale"
     },
     "newsletter": {
-      "label": "Email to all participants. Sometimes it will be necessary to send an email to all participants with information about the study.",
-      "on": "I would like to receive these emails to all participants",
-      "off": "Don’t receive these emails to all participants"
+      "label": "E-mail a tutti i partecipanti. A volte sarà necessario inviare un'e-mail a tutti i partecipanti con le informazioni sullo studio.",
+      "on": "Vorrei ricevere queste email a tutti i partecipanti",
+      "off": "Non ricevere queste email a tutti i partecipanti"
     },
-    "cancelBtn": "Cancel",
-    "submitBtn": "Submit",
+    "cancelBtn": "Annulla",
+    "submitBtn": "Invia",
     "successDialog": {
-      "title": "Settings are changed",
-      "content": "Done! Your email setting are changed.",
+      "title": "Le impostazioni sono state modificate",
+      "content": "Fatto! Le tue impostazioni email sono state modificate.",
       "btn": "Ok"
     }
   },
   "deleteAccount": {
-    "title": "Withdraw from study",
-    "info": "Are you sure you want to delete your account? \nThis action cannot be undone.",
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Withdraw",
+    "title": "Ritiro dallo studio",
+    "info": "Sei sicuro di voler eliminare il tuo account? \nQuesta azione non può essere annullata.",
+    "cancelBtn": "Annulla",
+    "confirmBtn": "Ritira",
     "successDialog": {
-      "title": "Account deleted",
-      "content": "Done! Your account has been deleted. Thank you for your contribution. You can always participate again by creating a new account.",
+      "title": "Account cancellato",
+      "content": "Fatto! Il tuo account è stato cancellato. Grazie per il tuo contributo. Puoi sempre partecipare di nuovo creando un nuovo account.",
       "btn": "Ok"
     }
   }
