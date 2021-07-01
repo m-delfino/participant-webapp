@@ -1,9 +1,5 @@
 {
   "title": "Influweb",
-  "topImage": {
-    "title": "Test teaser image",
-    "content": "Citizen Science for Infectious Disease Surveillance"
-  },
   "loginCard": {
     "title": "Login",
     "info": "",
@@ -42,13 +38,6 @@
     "title": "Latest Infuweb news",
     "body": "We regularly post updates and news bulletins on the ongoing Covid-19 pandemic and the Influenza season",
     "actionLabel": "Learn more"
-  },
-  "video": {
-    "poster": "",
-    "mp4": "https://infectieradar.be/wp-content/uploads/2021/03/infectieradar_engels_16-3-2021_sound_V3.mp4#t=0.1",
-    "mxf": "",
-    "webm": "",
-    "fallbackText": "Your browser does not support the video tag."
   },
   "references": {
     "title": "Read More",
