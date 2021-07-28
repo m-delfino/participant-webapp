@@ -24,7 +24,7 @@ The example-public-folder contains example configurations within the assets fold
 
 ## Deployment Setup
 1. Create a fork of this repo in your local organisation. 
-2. Configure the fields present in the file env-sample.config. Lookup step 1 of local setup for examples.
+2. Configure the fields present in the file env-sample.config. Make sure to update the fields like Recaptcha key, instance, etc. Lookup step 1 of local setup for examples.
 3. Create github secrets for the following fields:
   3.1. DOCKER_ORGANIZATION
   3.2. DOCKER_REPO_NAME
