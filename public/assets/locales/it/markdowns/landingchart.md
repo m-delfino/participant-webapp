@@ -1,1 +1,2 @@
-[mapchart:/data/ggd-map-it.json]:  /data/20210323_0833_kaart_data_test.json
+[mapchart:/data/ggd-map-it.json]:  /data/map_chart_2021-07-30-12-07-15_en.json
+
