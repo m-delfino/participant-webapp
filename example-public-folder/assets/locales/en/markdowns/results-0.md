@@ -1,4 +1,6 @@
-`This page has been last updated at 07.apr.2021 19:00.`
+<pageinfo>
+This page has been last updated at 07.apr.2021 19:00.
+</pageinfo>
 
 This is a sample results page.
 
