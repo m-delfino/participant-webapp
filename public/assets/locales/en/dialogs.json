@@ -63,13 +63,8 @@
   },
   "signupSuccess": {
     "title": "Welcome!",
-<<<<<<< HEAD
     "successMsg": "You are almost signed up for Influweb! \n\n First confirm your email address by clicking on the link in the confirmation email that we have sent you \n If you can’t find the email, first check your spam folder. You can also request a new email below.",
-    "emailSentMsg": "E-mail has been send",
-=======
-    "successMsg": "You are almost signed up for Infectieradar.be! \n\n First confirm your email address by clicking on the link in the confirmation email that we have sent you \n If you can’t find the email, first check your spam folder. You can also request a new email below.",
     "emailSentMsg": "E-mail has been sent",
->>>>>>> cd7d25de736a1abe965c5b63cbdf356d563ff3ff
     "resendVerificationEmailBtn": "Resend confirmation email",
     "wrongEmailBtn": "Did you use the wrong email address? Then change it here.",
     "errors": {
