@@ -1,9 +1,9 @@
 <pageinfo>
-This page has been last updated at 16.may.2021 14:00.
+Questa pagina è stata aggiornata il 2 Agosto alle ore 10.00am
 </pageinfo>
 <br />
 
-On this page you will be able to see the latest results from the data collected by Infectieradar.be.
+In questa pagina potrete trovare i risultati più aggiornati basati sui dati raccolti da Influweb.
 <br />
 
 
