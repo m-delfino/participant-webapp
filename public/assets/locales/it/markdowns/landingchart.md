@@ -1,4 +1,4 @@
 <mapchart
   map-url="/data/ggd-map-it.json"
-  data-url="/data/map_chart_2021-07-30-12-07-15_en.json"
+  data-url="/data/map_chart_2021-08-03-15-22-56_it.json"
 />
