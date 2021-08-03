@@ -130,6 +130,25 @@
                   }
                 }
               ]
+            },
+            {
+              "key": "infoCard",
+              "className": "col-12 col-lg-4 mt-3 min-h-478",
+              "items": [
+                {
+                  "itemKey": "infoCard",
+                  "className": "h-100",
+                  "config": {
+                    "type": "imageCard",
+                    "showActionBtn": true,
+                    "action": {
+                      "type": "navigate",
+                      "value": "/about"
+                    },
+                    "imageSrc": "/images/about.jpg"
+                  }
+                }
+              ]
             }
           ]
         },

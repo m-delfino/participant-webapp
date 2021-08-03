@@ -33,6 +33,12 @@
     "body": "With Influweb, we monitor the spread of symptoms across Italy. It is one of the tools the research team uses to monitor the spread of the virus.",
     "actionLabel": "Learn more"
   },
+  "infoCard": {
+    "imageAlt": "About Influweb image",
+    "title": "About Influweb",
+    "body": "With Influweb, we monitor the spread of symptoms across Italy. It is one of the tools the research team uses to monitor the spread of the virus.",
+    "actionLabel": "Learn more"
+  },
   "newsCard": {
     "imageAlt": "Latest updates from Infuweb",
     "title": "Latest Infuweb news",
