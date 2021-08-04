@@ -53,8 +53,8 @@
   },
   "privacyConsent": {
     "title": "Consenso Privacy",
-    "acceptBtn": "I consent",
-    "cancelBtn": "I do not consent"
+    "acceptBtn": "Acconsento",
+    "cancelBtn": "Non acconsento"
   },
   "recaptchaConsent": {
     "title": "ReCaptcha Consent",
