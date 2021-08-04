@@ -5,7 +5,7 @@
     "close": "Nascondere"
   },
   "topFaq": {
-    "title": "Frequently asked questions about Infectieradar.be",
+    "title": "Frequently asked questions about Influweb.org",
     "content": ""
   },
   "signupCard": {
@@ -22,15 +22,15 @@
   },
   "faq": [
     {
-      "title": "Who set up Infectieradar.be?",
-      "content": "Infectieradar.be is part of Influenzanet, a European partnership between various universities and government agencies. Hasselt University is part of this partnership. The purpose of Influenzanet is to map and monitor the symptoms of infections, such as the new coronavirus (COVID-19) and flu, in people in Europe. The data is used for scientific research into infections, and currently into the new coronavirus."
+      "title": "Who set up Influweb.org?",
+      "content": "Influweb.org is part of Influenzanet, a European partnership between various universities and government agencies. Hasselt University is part of this partnership. The purpose of Influenzanet is to map and monitor the symptoms of infections, such as the new coronavirus (COVID-19) and flu, in people in Europe. The data is used for scientific research into infections, and currently into the new coronavirus."
     },
     {
-      "title": "Who is Infectieradar.be intended for?",
-      "content": "Anyone living in Italy who has Internet access can participate in Infectieradar.be, voluntarily and for as long as they wish."
+      "title": "Who is Influweb.org intended for?",
+      "content": "Anyone living in Italy who has Internet access can participate in Influweb.org, voluntarily and for as long as they wish."
     },
     {
-      "title": "How can I participate in Infectieradar.be?",
+      "title": "How can I participate in Influweb.org?",
       "content": "You can participate by signing up with an email address and personal password."
     },
     {
@@ -38,12 +38,12 @@
       "content": "In order to get the best possible picture of the situation at the moment, it is important for everyone to take part, regardless of background or risk factors. Someone who is never ill is just as capable of falling ill as someone who is often ill. Broad participation can also help us to understand why some people get infections less often."
     },
     {
-      "title": "Is Infectieradar.be the same as the University of Antwerp coronavirus study?",
-      "content": "Both studies monitor symptoms linked to the pandemic in Italy. With Infectieradar.be, however, we hope to establish a national surveillance system to monitor symptoms of infectious diseases over the long term, including the period after COVID; furthermore, this is being done in an international context. Our research has links with a European initiative: Influenzanet. This is a European partnership involving various universities and government agencies, which aims to monitor and map symptoms of viral infections such as flu in people in the EU member states. In addition to national monitoring, this also makes it possible to compare data at European level."
+      "title": "Is Influweb.org the same as the University of Antwerp coronavirus study?",
+      "content": "Both studies monitor symptoms linked to the pandemic in Italy. With Influweb.org, however, we hope to establish a national surveillance system to monitor symptoms of infectious diseases over the long term, including the period after COVID; furthermore, this is being done in an international context. Our research has links with a European initiative: Influenzanet. This is a European partnership involving various universities and government agencies, which aims to monitor and map symptoms of viral infections such as flu in people in the EU member states. In addition to national monitoring, this also makes it possible to compare data at European level."
     },
     {
-      "title": "I’m not Belgian, but live in Italy: can I participate in Infectieradar.be?",
-      "content": "Definitely! Infectieradar.be is interested in the situation in Italy. Anyone living in Italy can therefore take part even if they are of different nationality."
+      "title": "I’m not Belgian, but live in Italy: can I participate in Influweb.org?",
+      "content": "Definitely! Influweb.org is interested in the situation in Italy. Anyone living in Italy can therefore take part even if they are of different nationality."
     },
     {
       "title": "I’m Belgian, but live abroad: can I participate?",
@@ -54,7 +54,7 @@
       "content": "The study is aimed at everyone. It doesn’t matter whether they are vaccinated against the flu or not."
     },
     {
-      "title": "How long does it take to complete the questionnaire on Infectieradar.be?",
+      "title": "How long does it take to complete the questionnaire on Influweb.org?",
       "content": "It takes about 5 minutes to register and complete the first questionnaire. Filling in the weekly questionnaire each week then takes between 30 seconds (if you have no symptoms) and a few minutes (if you have symptoms or had them during the week)."
     },
     {
@@ -87,18 +87,18 @@
     },
     {
       "title": "Are my data secure?",
-      "content": "We take the security of the data of participants in Infectieradar.be very seriously. The system is subject to strict requirements, including in the areas of privacy and information security. The system has been carefully tested in terms of security, privacy and capacity by external parties at the University of Hasselt. The risks to the rights and freedoms of those whose personal data are processed have been carefully assessed."
+      "content": "We take the security of the data of participants in Influweb.org very seriously. The system is subject to strict requirements, including in the areas of privacy and information security. The system has been carefully tested in terms of security, privacy and capacity by external parties at the University of Hasselt. The risks to the rights and freedoms of those whose personal data are processed have been carefully assessed."
     },
     {
       "title": "I have already been infected with the new coronavirus. Does it still make sense for me to participate?",
-      "content": "Yes, do also participate if you have already had COVID-19. Infectieradar.be was set up to study symptoms, including in those who have already had the new coronavirus. When you sign up, we will ask you whether you have already been infected."
+      "content": "Yes, do also participate if you have already had COVID-19. Influweb.org was set up to study symptoms, including in those who have already had the new coronavirus. When you sign up, we will ask you whether you have already been infected."
     },
     {
       "title": "I have forgotten my password. What should I do?",
       "content": "Click on ‘forgotten password’ in the login window. Enter your email address and you will receive an email to create a new password."
     },
     {
-      "title": "Can I set whether I will receive emails from Infectieradar.be?",
+      "title": "Can I set whether I will receive emails from Influweb.org?",
       "content": "Yes, you can. Click on your profile name in the topmost blue bar at the top right. Go to settings. You can indicate there whether you want to receive emails – for example, the weekly invitation to report your symptoms (even without a weekly email, a new questionnaire will be ready for you to complete)."
     },
     {

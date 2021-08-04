@@ -4,7 +4,7 @@
     "title": "Impostazioni dell'account",
     "email": {
       "title": "Indirizzo e-mail",
-      "info": "Vuoi utilizzare un indirizzo e-mail diverso? Modifica il tuo indirizzo email facendo clic sul pulsante in basso. Nota: non puoi accedere nuovamente a Infectieradar.be finché non hai confermato l'indirizzo email."
+      "info": "Vuoi utilizzare un indirizzo e-mail diverso? Modifica il tuo indirizzo email facendo clic sul pulsante in basso. Nota: non puoi accedere nuovamente a Influweb.org finché non hai confermato l'indirizzo email."
     },
     "password": {
       "title": "Password",
@@ -34,8 +34,8 @@
     }
   },
   "deletion": {
-    "title": "Annulla iscrizione a Infectieradar.be / revoca il consenso",
-    "warning": "Se annulli l'iscrizione a Infectieradar.be / revochi il consenso, i dati del tuo account verranno eliminati.\nDopo che l'account è stato eliminato, non saremo più in grado di collegare le informazioni che hai fornito (come età e sintomi) a te.",
+    "title": "Annulla iscrizione a Influweb.org / revoca il consenso",
+    "warning": "Se annulli l'iscrizione a Influweb.org / revochi il consenso, i dati del tuo account verranno eliminati.\nDopo che l'account è stato eliminato, non saremo più in grado di collegare le informazioni che hai fornito (come età e sintomi) a te.",
     "deleteBtn": "Annulla iscrizione"
   },
   "references": {

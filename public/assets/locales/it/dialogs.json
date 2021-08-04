@@ -63,7 +63,7 @@
   },
   "signupSuccess": {
     "title": "Benvenuto!",
-    "successMsg": "Sei quasi iscritto a Infectieradar.be! \n\n Prima conferma il tuo indirizzo e-mail facendo clic sul link nell'e-mail di conferma che ti abbiamo inviato \n Se non riesci a trovare l'e-mail, prima controlla la tua cartella spam. Puoi anche richiedere una nuova email qui sotto.",
+    "successMsg": "Sei quasi iscritto a Influweb.org! \n\n Prima conferma il tuo indirizzo e-mail facendo clic sul link nell'e-mail di conferma che ti abbiamo inviato \n Se non riesci a trovare l'e-mail, prima controlla la tua cartella spam. Puoi anche richiedere una nuova email qui sotto.",
     "emailSentMsg": "L'e-mail è stata inviata",
     "resendVerificationEmailBtn": "Reinvia email di conferma",
     "wrongEmailBtn": "Hai usato l'indirizzo email sbagliato? Allora cambialo qui.",
@@ -89,7 +89,7 @@
     "emailInputPlaceholder": "Nuovo indirizzo email",
     "passwordInputLabel": "Password",
     "passwordInputPlaceholder": "Password",
-    "info": "Vuoi utilizzare un indirizzo e-mail diverso? Cambia il tuo indirizzo e-mail facendo clic sul pulsante in basso. Nota: non puoi accedere nuovamente a Infectieradar.be finché non hai confermato l'indirizzo e-mail.",
+    "info": "Vuoi utilizzare un indirizzo e-mail diverso? Cambia il tuo indirizzo e-mail facendo clic sul pulsante in basso. Nota: non puoi accedere nuovamente a Influweb.org finché non hai confermato l'indirizzo e-mail.",
     "cancelBtn": "Annulla",
     "confirmBtn": "Cambia indirizzo email",
     "errors": {

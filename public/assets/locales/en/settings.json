@@ -1,10 +1,10 @@
 {
-  "title": "Infectieradar Settings",
+  "title": "Influweb Settings",
   "account": {
     "title": "Account settings",
     "email": {
       "title": "Email address",
-      "info": "Do you want to use a different email address? Change your email address by clicking on the button below. Note: you cannot log back in to Infectieradar.be until you have confirmed the email address."
+      "info": "Do you want to use a different email address? Change your email address by clicking on the button below. Note: you cannot log back in to Influweb until you have confirmed the email address."
     },
     "password": {
       "title": "Password",
@@ -36,20 +36,20 @@
     }
   },
   "deletion": {
-    "title": "Unsubscribe from Infectieradar.be / withdraw consent",
-    "warning": "If you unsubscribe from Infectieradar.be / withdraw consent, your account data will be deleted.\nAfter the account has been deleted, we will no longer be able to link information you have provided (such as age and symptoms) to you.",
+    "title": "Unsubscribe from Influweb / withdraw consent",
+    "warning": "If you unsubscribe from Influweb / withdraw consent, your account data will be deleted.\nAfter the account has been deleted, we will no longer be able to link information you have provided (such as age and symptoms) to you.",
     "deleteBtn": "Unsubscribe"
   },
   "references": {
     "title": "In need of assistance?",
     "faqLink": "FAQ",
     "privacyStatementLink": "Privacy statement",
-    "contactLink": "Contact Infectieradar.be"
+    "contactLink": "Contact Influweb"
   },
   "systemInfo": {
     "title": "System information",
     "appNameLabel": "Application name",
-    "appName": "Infectieradar",
+    "appName": "Influweb",
     "versionLabel": "Version",
     "browserNameLabel": "Browser name",
     "browserVersionLabel": "Browser version"
