@@ -5,7 +5,7 @@
     "close": "Nascondere"
   },
   "topFaq": {
-    "title": "Domande frequenti su Influweb.org",
+    "title": "Domande frequenti su Influweb",
     "content": ""
   },
   "signupCard": {
@@ -106,8 +106,8 @@
       "content": "It’s a shame that you don't want to participate any more. We could use your help to keep coronavirus under control. However, you can simply stop completing the weekly questionnaire. If you also want to completely withdraw (and close your account), you can do so through the settings"
     },
     {
-      "title": "I want to change my answers. Is that possible?",
-      "content": "You can change your answers while completing the questionnaire.  Once you have clicked on the send button, it is no longer possible to change your answers. This applies to both the first questionnaire and the weekly questionnaires."
+      "title": "Posso modificare le risposte che ho inserito?",
+      "content": "Puoi modificare le tue risposte come preferisci mentre compili il questionario. Una volta che hai completato il questionario, non è possibile modificare le tue risposte. Questo vale sia per il questionario dei sintomi che per quello iniziale di background. You can change your answers while completing the questionnaire.  Once you have clicked on the send button, it is no longer possible to change your answers. This applies to both the first questionnaire and the weekly questionnaires."
     },
     {
       "title": "Se segnalo i miei sintomi, riceverò una diagnosi alla fine del questionario?",

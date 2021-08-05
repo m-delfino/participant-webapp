@@ -1,8 +1,8 @@
 
 ### The study
-Influweb.org processes personal data in a lawful manner, in accordance with the law and the GDPR regulations. You can read more about this in the [Informed Consent Form](https://infectieradar.be/en/project/). This study has obtained ethical approval from the UZA Ethics Committee and the University of Hasselt Medical Ethics Committee. 
+Influweb.org processes personal data in a lawful manner, in accordance with the law and the GDPR regulations. You can read more about this in the [Informed Consent Form](https://influweb.org/privacy). 
 
-In this privacy policy, which supplements the general privacy policy, you can read about how data are processed by Influweb.org. By sharing your data with Influweb.org, you are contributing to research into the spread of infectious diseases and the new coronavirus in particular. If you want to participate in this study, you will be invited every week to complete a questionnaire to provide information about recent symptoms you have experienced (such as a fever or coughing) that may indicate an infection. This platform has been set up in collaboration with Influenzanet. Influenzanet is the name of a partnership between a number of European universities and governments. An overview of its participants can be found [here](https://infectieradar.be/influenzanet/). Influweb.org is the Belgian application of this research study.
+In this privacy policy, which supplements the general privacy policy, you can read about how data are processed by Influweb.org. By sharing your data with Influweb.org, you are contributing to research into the spread of infectious diseases and the new coronavirus in particular. If you want to participate in this study, you will be invited every week to complete a questionnaire to provide information about recent symptoms you have experienced (such as a fever or coughing) that may indicate an infection. This platform has been set up in collaboration with Influenzanet. Influenzanet is the name of a partnership between a number of European universities and governments. An overview of its participants can be found [here](https://influenzanet.info). Influweb.org is the Italian application of this research study.
 
 Participation in the study is voluntary. We wish to stress that the questionnaires and the use of the website serve **no** medical purpose for you. If you have any concerns about your health, you should always seek help from the usual medical bodies.
 
@@ -73,13 +73,11 @@ In addition, the sponsor may grant external researchers (who are not involved in
 
 #### 4. How will my data be processed?
   
-Your study data will be processed in accordance with the General Data Protection Regulation (GDPR) <sup>[1]</sup> and the Belgian data protection law of 30 July 2018 <sup>[2]</sup>. The sponsor is the controller with responsibility for this.
+Your study data will be processed in accordance with the General Data Protection Regulation (GDPR) <sup>[1]</sup> and the Italian data protection law of 30 July 2018 <sup>[2]</sup>. The sponsor is the controller with responsibility for this.
 
 The grounds on which we are allowed to process your personal data are that we are conducting scientific research and that you have given your consent.
 
 <small>[1] Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC.</small> 
-
-<small>[2] The Belgian law of 30 July 2018 on the protection of natural persons with regard to the processing of personal data.</small>
 
 #### 5. Can I access and correct my data that have been collected and processed during the study?
    
@@ -115,7 +113,7 @@ If required for the study, the encrypted study data may be sent to other countri
 
 -   personnel (other than inspectors) of the competent health authorities of Italy (the Federal Agency for Medicines and Health Products, FAMHP) or other countries within and outside the EU,
 
--   the Belgian evaluating Ethics Committee(s),
+-   an evaluating Ethics Committee(s),
 
 -   external researchers,
 
@@ -123,7 +121,7 @@ If required for the study, the encrypted study data may be sent to other countri
 
 - companies from the sponsor's group in Italy and in other countries within and outside the EU.
     
-European regulations and Belgian data protection legislation impose restrictions on the transfer of data to non-EU countries. The sponsor must always ensure that your encrypted study data are equally protected when transferred to a non-EU country. If the sponsor concludes a data protection agreement for this purpose, a copy of this agreement may be obtained from the researcher.
+European regulations and Italian data protection legislation impose restrictions on the transfer of data to non-EU countries. The sponsor must always ensure that your encrypted study data are equally protected when transferred to a non-EU country. If the sponsor concludes a data protection agreement for this purpose, a copy of this agreement may be obtained from the researcher.
 
 #### 7. What will happen to the results of the study?
 
@@ -134,7 +132,7 @@ These websites or publications will not contain any information by which you can
 
 #### 8. Will my data be used for purposes other than the study in which I am participating?
     
-The results of the study will only be used to answer the scientific questions in this study. Any additional or future research outside the study must always be approved by a recognised Belgian Ethics Committee.
+The results of the study will only be used to answer the scientific questions in this study. Any additional or future research outside the study must always be approved by a recognised Italian Ethics Committee.
 
 #### 9. For how long will my data be kept?
     
