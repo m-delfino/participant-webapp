@@ -158,7 +158,7 @@
           "columns": [
             {
               "key": "contentCol",
-              "className": "col-12 col-md-8 mt-3",
+              "className": "col-12 col-md-12 mt-3",
               "items": [
                 {
                   "itemKey": "results",
@@ -170,44 +170,24 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "key": "sponsorRow",
+          "className": "",
+          "columns": [
             {
               "key": "sponsorCol",
-              "className": "col-12 col-md-4 mb-3",
+              "className": "col-12 col-md-12 mt-3",
               "items": [
                 {
                   "itemKey": "logoCredits",
                   "className": "",
                   "config": {
-                    "type": "logoCredits",
-                    "useTitle": true,
-                    "className": "",
-                    "images": [
-                      {
-                        "key": "sponsor1",
-                        "altKey": "sponsor1",
-                        "url": "images/logo-crt.png",
-                        "width": 200
-                      },
-                      {
-                        "key": "sponsor2",
-                        "altKey": "sponsor2",
-                        "url": "images/isi.jpg",
-                        "width": 200
-                      },
-                      {
-                        "key": "sponsor3",
-                        "altKey": "sponsor3",
-                        "url": "images/epipose.jpg",
-                        "width": 200
-                      },
-                      {
-                        "key": "sponsor4",
-                        "altKey": "sponsor4",
-                        "url": "images/influenzanet.png",
-                        "width": 200
-                      }
-                    ]
+                    "type": "markdown",
+                    "markdownUrl": "markdowns/sponsors.md",
+                    "flavor": "chart-renderer"
                   }
                 }
               ]
