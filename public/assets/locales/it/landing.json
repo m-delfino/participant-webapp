@@ -33,6 +33,12 @@
     "body": "Con Influweb monitoriamo la diffusione dei sintomi in tutta Italia. È uno degli strumenti che il team di ricerca utilizza per monitorare la diffusione del virus.",
     "actionLabel": "Ulteriori informazioni"
   },
+  "infoCard": {
+    "imageAlt": "La scienza dei virus",
+    "title": "La scienza dei virus",
+    "body": "COVID-19 e influenza: cosa sono, come si diffondono e il ruolo della ricerca scientifica",
+    "actionLabel": "Learn more"
+  },
   "newsCard": {
     "imageAlt": "Ultimi aggiornamenti da Infuweb",
     "title": "Ultime notizie Infuweb",
