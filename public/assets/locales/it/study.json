@@ -2,7 +2,7 @@
   "title": "Influweb",
   "topImage": {
     "title": "",
-    "content": "Partecipando a Influweb contribuisci a mappare la diffusione delle malattie infettive, permettendoci di vedere rapidamente la situazione attuale in Italia"
+    "content": "Partecipando a Influweb contribuisci a creare la mappa della diffusione delle malattie infettive, permettendoci di vedere rapidamente la situazione attuale in Italia"
   },
   "requiredSurveys": {
     "title": "Questionari da completare",
@@ -23,7 +23,7 @@
   },
   "quickSettingsBox": {
     "title": "Impostazioni",
-    "manageProfiles": "Aggiungi il profilo di tuo figlio o modifica il tuo profilo",
+    "manageProfiles": "Aggiungi il profilo di tuo/a figlio/a o modifica il tuo profilo",
     "emailReminders": "Modifica impostazioni di comunicazione",
     "language": "Lingua"
   }

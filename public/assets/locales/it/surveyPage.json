@@ -1,7 +1,7 @@
 {
   "exitSurveyWarningDialog": {
     "title": "Vuoi uscire dal questionario?",
-    "warning": "Tutte le informazioni inserite andranno perse se non completerai il questionario. Sei sicuro di voler smettere?",
+    "warning": "Tutte le informazioni inserite andranno perse se non completerai il questionario. Sei sicuro/a di voler smettere?",
     "cancelBtn": "Continua a compilare il questionario",
     "confirmBtn": "Esci dal questionario"
   },
