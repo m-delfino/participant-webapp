@@ -143,9 +143,9 @@
                     "showActionBtn": true,
                     "action": {
                       "type": "navigate",
-                      "value": "/about"
+                      "value": "/info"
                     },
-                    "imageSrc": "/images/about.jpg"
+                    "imageSrc": "/images/info.jpg"
                   }
                 }
               ]
@@ -715,6 +715,32 @@
                   "config": {
                     "type": "markdown",
                     "markdownUrl": "/markdowns/news.md"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/info",
+      "pageKey": "info",
+      "rows": [
+        {
+          "key": "content",
+          "className": "my-3 min-vh-60",
+          "columns": [
+            {
+              "key": "pCol",
+              "className": "col-12 col-sm-10 col-md-8",
+              "items": [
+                {
+                  "itemKey": "info",
+                  "className": "",
+                  "config": {
+                    "type": "markdown",
+                    "markdownUrl": "/markdowns/info.md"
                   }
                 }
               ]
