@@ -16,34 +16,34 @@
     "title": "I nostri sostenitori"
   },
   "currentResultCard": {
-    "imageAlt": "Immagine dei risultati attuali",
-    "title": "Risultati attuali",
-    "body": "Influweb identifica quali sintomi hanno le persone in Italia che potrebbero indicare il coronavirus",
-    "actionLabel": "Risultati attuali"
+    "imageAlt": "Immagine dei risultati aggiornati",
+    "title": "Risultati aggiornati",
+    "body": "Influweb ha lo scopo di studiare lo stato di salute dei cittadini italiani. Ecco tutti i risultati delle analisi sui dati raccolti grazie all'aiuto dei nostri volontari",
+    "actionLabel": "Vai ai risultati"
   },
   "signupCard": {
-    "imageAlt": "Partecipa all'immagine",
+    "imageAlt": "Immagine partecipa",
     "title": "Partecipa",
-    "body": "Aiutaci a tenere d'occhio il coronavirus. Segnala settimanalmente se hai qualche sintomo.",
+    "body": "Aiutaci a tenere d'occhio la diffusione del coronavirus e dell'influenza. Segnalaci settimanalmente se stai bene o se hai qualche sintomo.",
     "actionLabel": "Registrati"
   },
   "aboutCard": {
     "imageAlt": "Informazioni sull'immagine Influweb",
     "title": "Informazioni su Influweb",
     "body": "Con Influweb monitoriamo la diffusione dei sintomi in tutta Italia. È uno degli strumenti che il team di ricerca utilizza per monitorare la diffusione del virus.",
-    "actionLabel": "Ulteriori informazioni"
+    "actionLabel": "Per saperne di più"
   },
   "infoCard": {
     "imageAlt": "La scienza dei virus",
     "title": "La scienza dei virus",
     "body": "COVID-19 e influenza: cosa sono, come si diffondono e il ruolo della ricerca scientifica",
-    "actionLabel": "Learn more"
+    "actionLabel": "Per saperne di più"
   },
   "newsCard": {
     "imageAlt": "Ultimi aggiornamenti da Infuweb",
-    "title": "Ultime notizie Infuweb",
-    "body": "Pubblichiamo regolarmente aggiornamenti e notiziari sulla pandemia di Covid-19 in corso e sulla stagione dell'influenza",
-    "actionLabel": "Ulteriori informazioni"
+    "title": "Ultime notizie",
+    "body": "Pubblichiamo regolarmente aggiornamenti e notizie sulla pandemia di Covid-19 in corso e sulla stagione influenzale",
+    "actionLabel": "Per saperne di più"
   },
   "references": {
     "title": "Leggi di più",
