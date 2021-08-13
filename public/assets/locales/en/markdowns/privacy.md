@@ -1,8 +1,8 @@
 
 ### The study
-Influweb.org processes personal data in a lawful manner, in accordance with the law and the GDPR regulations. You can read more about this in the [Informed Consent Form](https://influweb.org/privacy). 
+Influweb.org processes personal data in a lawful manner, in accordance with the law and the GDPR regulations. 
 
-In this privacy policy, which supplements the general privacy policy, you can read about how data are processed by Influweb.org. By sharing your data with Influweb.org, you are contributing to research into the spread of infectious diseases and the new coronavirus in particular. If you want to participate in this study, you will be invited every week to complete a questionnaire to provide information about recent symptoms you have experienced (such as a fever or coughing) that may indicate an infection. This platform has been set up in collaboration with Influenzanet. Influenzanet is the name of a partnership between a number of European universities and governments. An overview of its participants can be found [here](https://influenzanet.info). Influweb.org is the Italian application of this research study.
+In this page, you can read about how data are processed by Influweb.org. By sharing your data with Influweb.org, you are contributing to research into the spread of infectious diseases and the new coronavirus in particular. If you want to participate in this study, you will be invited every week to complete a questionnaire to provide information about recent symptoms you have experienced (such as a fever or coughing) that may indicate an infection. This platform has been set up in collaboration with Influenzanet. Influenzanet is the name of a partnership between a number of European universities and governments. An overview of its participants can be found [here](https://influenzanet.info). Influweb.org is the Italian application of this research study.
 
 Participation in the study is voluntary. We wish to stress that the questionnaires and the use of the website serve **no** medical purpose for you. If you have any concerns about your health, you should always seek help from the usual medical bodies.
 
