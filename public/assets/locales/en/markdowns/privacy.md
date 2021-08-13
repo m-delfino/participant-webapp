@@ -1,6 +1,6 @@
 
 ### The study
-Influweb.org processes personal data in a lawful manner, in accordance with the law and the GDPR regulations. 
+Influweb processes personal data in a lawful manner, in accordance with the law and the GDPR regulations. 
 
 In this page, you can read about how data are processed by Influweb.org. By sharing your data with Influweb.org, you are contributing to research into the spread of infectious diseases and the new coronavirus in particular. If you want to participate in this study, you will be invited every week to complete a questionnaire to provide information about recent symptoms you have experienced (such as a fever or coughing) that may indicate an infection. This platform has been set up in collaboration with Influenzanet. Influenzanet is the name of a partnership between a number of European universities and governments. An overview of its participants can be found [here](https://influenzanet.info). Influweb.org is the Italian application of this research study.
 
