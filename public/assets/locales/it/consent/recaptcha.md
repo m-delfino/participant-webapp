@@ -1,11 +1,11 @@
-Influweb.org uses Google Recaptcha to ensure the security of the website.
-This service uses tracking cookies, which monitor your behaviour during your visit to Influweb.org in order to prevent automated actions that could, among other things, limit the website’s accessibility. The data that Google collects and analyses by means of these tracking cookies include:
+Influweb utilizza Google Recaptcha per garantire la sicurezza del sito web.
+Questo servizio utilizza cookie di tracciamento, che monitorano il tuo comportamento durante la tua visita a Influweb al fine di prevenire azioni automatizzate che potrebbero, tra l'altro, limitare l'accessibilità del sito web. I dati che Google raccoglie e analizza tramite questi cookie di tracciamento includono:
 
-* IP address
-* Cookies that Google has installed in the past 6 months.
-* Google account login status
-* The visitor’s browsing behaviour on Influweb.org
+* Indirizzo IP
+* Cookie che Google ha installato negli ultimi 6 mesi.
+* Stato di accesso ad un eventuale account Google
+* Il comportamento di navigazione del visitatore su Influweb
 
-For more information about the use of this service and the processing of your data, see the [privacy policy](https://influweb.org/privacy).
+Per maggiori informazioni sull'utilizzo di questo servizio e sul trattamento dei tuoi dati, consulta la [privacy policy](https://influweb.org/privacy).
 
-By clicking on “I agree” you consent to the installation of tracking cookies and the processing of the above-mentioned data by Google.
+Cliccando su “Accetto” acconsenti all'installazione dei cookie di tracciamento e al trattamento dei dati sopra indicati da parte di Google.

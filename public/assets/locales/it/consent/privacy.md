@@ -1,20 +1,20 @@
-By clicking the “I consent” button, you agree to participate in the Influweb.org survey and accept that the researchers will process your data for this survey. 
+Facendo clic sul pulsante "Acconsento", accetti di partecipare al progetto Influweb e accetti che i ricercatori elaborino i tuoi dati per questo sondaggio.
 
-The survey aims to identify symptoms that may indicate infectious diseases such as the new coronavirus. It is important for determining whether the number of people with symptoms is increasing or decreasing. More information about the purpose of the survey and your rights can be found in the [privacy policy](https://influweb.org/privacy).
+L'indagine mira a identificare la circolazione nella popolazione di sintomi che possano indicare la presenza di malattie infettive come il nuovo coronavirus o l'influenza. Questo studio è importante per determinare se il numero di persone con sintomi è in aumento o in diminuzione. Maggiori informazioni sullo scopo del sondaggio e sui tuoi diritti sono disponibili nella [informativa sulla privacy] (https://influweb.org/privacy).
 
-#### REQUIREMENTS FOR YOUR PARTICIPATION IN THE STUDY
+#### REQUISITI PER LA TUA PARTECIPAZIONE ALLO STUDIO
 
-* I declare that I have been informed of and understand the purpose of the study, its duration and consequences, any risks and inconveniences, and what is expected of me.
-* I understand that I will be participating in this study voluntarily and without being compelled to do so, and that I may stop participating at any time.
-* I understand that data about me will be collected and will be treated confidentially.
-* I agree that my personal data will be processed as described in the privacy policy.
-* I understand that the sponsor of the study has arranged insurance in case I suffer harm in connection with my participation in this study.
-* I understand that participating in this study will not cost me anything.
-* I understand that my participation in the study may be terminated without my consent.
-* I declare that I am 18 years of age or older and I am aware that Influweb.org is not a medical website, and will always seek help from a doctor for any medical questions or complaints.
-* For consent granted on behalf of a minor, the following applies in addition to the foregoing conditions:
-	 * If consent is granted on behalf of a minor under the age of 14, I declare that I am legally authorised to grant consent as a parent or guardian.
-	 * If consent is granted on behalf of a minor between the ages of 14 and 17, I declare that I am legally authorised to grant consent as a parent or guardian and have also discussed this with the child concerned.
-	 * For the sake of clarity, consent for anyone aged 18 or over must always be granted by the person concerned and not by anyone else.
+* Dichiaro di essere stato/a informato/a e di aver compreso lo scopo dello studio, la sua durata e conseguenze, eventuali rischi e inconvenienti, e cosa ci si aspetta da me.
+* Comprendo che parteciperò a questo studio volontariamente e senza essere obbligato a farlo e che potrei interrompere la partecipazione in qualsiasi momento.
+* Comprendo che i dati su di me verranno raccolti e trattati in modo confidenziale.
+* Acconsento al trattamento dei miei dati personali come descritto nell'informativa sulla privacy.
+* Comprendo che lo sponsor dello studio ha organizzato un'assicurazione nel caso in cui subissi danni in relazione alla mia partecipazione a questo studio.
+* Capisco che partecipare a questo studio non mi costerà nulla.
+* Comprendo che la mia partecipazione allo studio può essere interrotta senza il mio consenso.
+* Dichiaro di avere almeno 18 anni e sono consapevole che Influweb non è un sito Web medico e mi rivolgerò sempre a un medico per qualsiasi domanda.
+* Per il consenso prestato per conto di un minore, in aggiunta alle precedenti condizioni, si applica quanto segue:
+         * Se il consenso viene concesso per conto di un minore di 14 anni, dichiaro di essere legalmente autorizzato a concedere il consenso come genitore o tutore.
+         * Se il consenso viene concesso per conto di un minore di età compresa tra 14 e 17 anni, dichiaro di essere legalmente autorizzato a concedere il consenso come genitore o tutore e ne ho discusso anche con il minore interessato.
+         * Per ragioni di chiarezza, il consenso per chiunque abbia compiuto 18 anni deve essere sempre prestato dall'interessato e non da nessun altro.
 
-I agree to participate in the study.
+Accetto di partecipare allo studio.
