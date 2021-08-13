@@ -34,9 +34,9 @@
     }
   },
   "deletion": {
-    "title": "Annulla iscrizione a Influweb.org / revoca il consenso",
-    "warning": "Se annulli l'iscrizione a Influweb.org / revochi il consenso, i dati del tuo account verranno eliminati.\nDopo che l'account è stato eliminato, non saremo più in grado di collegare le informazioni che hai fornito (come età e sintomi) a te.",
-    "deleteBtn": "Annulla iscrizione"
+    "title": "Cancellare iscrizione a Influweb / revoca il consenso",
+    "warning": "Se annulli l'iscrizione a Influweb / revochi il consenso, i dati del tuo account verranno eliminati.",
+    "deleteBtn": "Revoca iscrizione"
   },
   "references": {
     "title": "Hai bisogno di assistenza?",
