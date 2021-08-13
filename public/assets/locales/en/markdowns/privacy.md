@@ -9,13 +9,13 @@ Participation in the study is voluntary. We wish to stress that the questionnair
 ---
 
 ### The study at a glance
-**Why Influweb.org?**
+**Why Influweb?**
 We know that many people who become infected with the new SARS-CoV-2 virus (‘coronavirus’ as it is popularly known) have mild or few symptoms and do not go to the doctor. Also, not everyone is tested. This make it difficult to track how the new coronavirus is spreading in Italy. It is important to monitor symptoms that are not reported to a doctor.
 
 **Who can take part?**
 Anyone who lives in Italy and is 18 years or older can participate in the study on a voluntary basis. To ensure that information about the spread of infectious diseases is also obtained for children and young people, the parents or guardians of a minor can also complete the questionnaires on behalf of their child. This is not mandatory, but it will contribute to the research. 
 
-**How does Influweb.org work?**
+**How does Influweb work?**
 Participants receive an initial registration form with questions about their background, age and existing diseases and conditions. Following this they receive an email every week with a link to a questionnaire asking what symptoms they have had in the past week: a runny nose, coughing, sneezing, a high temperature and so on. The questionnaire must be completed even if the participant has no symptoms. It takes about 30 seconds to complete the questionnaire if the participant has no symptoms, and about 3 to 5 minutes if he or she has symptoms. 
 
 The completion of the questionnaire enables us to monitor how certain symptoms are distributed across Italy and changes in this pattern over time. These data will be used for scientific research into the spread of the new coronavirus. In the future, that research will also be useful for other viruses and infectious diseases.
