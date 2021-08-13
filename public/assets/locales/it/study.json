@@ -10,9 +10,9 @@
     "successMsg": "Grazie! Hai completato tutti i questionari. Speriamo di avere tue notizie la prossima settimana. Nel caso in cui desideri fornire nuove informazioni prima, puoi ripetere il questionario tra poche ore."
   },
   "optionalSurveys": {
-    "title": "Cambia le informazioni di base",
+    "title": "Cambia le informazioni di background",
     "info": "Se la tua situazione è cambiata, puoi completare nuovamente il questionario oi questionari in background di seguito. Sfortunatamente, non possiamo mostrarti le informazioni che hai inserito l'ultima volta o consentirti di modificare le tue risposte solo a domande specifiche.",
-    "showBtn": "Le tue informazioni di base sono cambiate?",
+    "showBtn": "Le tue informazioni di background sono cambiate?",
     "hideBtn": "Nascondi"
   },
   "referencesBox": {
