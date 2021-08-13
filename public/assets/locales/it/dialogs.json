@@ -136,7 +136,7 @@
     "title": "Profili",
     "mainProfileLabel": "Io",
     "cancelBtn": "Annulla",
-    "newProfileBtn": "Nuovo profilo per tuo figlio",
+    "newProfileBtn": "Nuovo profilo per tuo/a figlio/a o per un tuo familiare",
     "warningDialog": {
       "title": "Elimina profilo",
       "content": "La rimozione del profilo {{ alias }} non può essere annullata.",
@@ -148,7 +148,7 @@
     "new": {
       "title": "Nuovo profilo",
       "cancelBtn": "Annulla",
-      "submitBtn": "Crea un profilo per tuo figlio"
+      "submitBtn": "Crea un profilo per tuo/a figlio/a o per un tuo familiare"
     },
     "edit": {
       "title": "Modifica profilo",
@@ -158,7 +158,7 @@
     "aliasInputLabel": "Nickname",
     "aliasInputPlaceholder": "Nickname",
     "consentCheckboxLabel": "Consenso",
-    "consentCheckboxText": "Puoi creare un profilo e compilare questionari solo per te stesso o come genitore o rappresentante legale di tuo figlio che non ha ancora compiuto 18 anni",
+    "consentCheckboxText": "Puoi creare un profilo e compilare questionari solo per te stesso o come genitore o rappresentante legale di tuo/a figlio/a che non ha ancora compiuto 18 anni. Se compili un questionario per una terza persona, dichiari di avere il consenso esplicito di questa persona.",
     "avatarSelectorLabel": "Scegli un'immagine"
   },
   "changeLanguage": {
