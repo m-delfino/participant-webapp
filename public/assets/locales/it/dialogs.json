@@ -16,7 +16,7 @@
     "verificationCode": {
       "title": "Verifica la tua identità",
       "info": "Inserisci il codice a sei cifre che abbiamo inviato al tuo indirizzo email. Se non lo trovi nella tua casella di posta, controlla anche la cartella SPAM o invia un nuovo codice con il pulsante qui sotto.",
-      "codeInputLabel": "codice di verifica a 6 codice",
+      "codeInputLabel": "codice di verifica a 6 cifre",
       "codeInputPlaceholder": "Inserisci il tuo codice",
       "submitBtn": "Invia",
       "resendBtn": "Invia un nuovo codice"
