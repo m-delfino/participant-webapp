@@ -1,149 +1,141 @@
 
-### The study
-Influweb.org processes personal data in a lawful manner, in accordance with the law and the GDPR regulations. You can read more about this in the [Informed Consent Form](https://infectieradar.be/en/project/). This study has obtained ethical approval from the UZA Ethics Committee and the University of Hasselt Medical Ethics Committee. 
+### Lo studio
+Influweb tratta i dati personali in maniera lecita, nel rispetto della legge e del regolamento GDPR.
 
-In this privacy policy, which supplements the general privacy policy, you can read about how data are processed by Influweb.org. By sharing your data with Influweb.org, you are contributing to research into the spread of infectious diseases and the new coronavirus in particular. If you want to participate in this study, you will be invited every week to complete a questionnaire to provide information about recent symptoms you have experienced (such as a fever or coughing) that may indicate an infection. This platform has been set up in collaboration with Influenzanet. Influenzanet is the name of a partnership between a number of European universities and governments. An overview of its participants can be found [here](https://infectieradar.be/influenzanet/). Influweb.org is the Belgian application of this research study.
-
-Participation in the study is voluntary. We wish to stress that the questionnaires and the use of the website serve **no** medical purpose for you. If you have any concerns about your health, you should always seek help from the usual medical bodies.
-
----
-
-### The study at a glance
-**Why Influweb.org?**
-We know that many people who become infected with the new SARS-CoV-2 virus (‘coronavirus’ as it is popularly known) have mild or few symptoms and do not go to the doctor. Also, not everyone is tested. This make it difficult to track how the new coronavirus is spreading in Italy. It is important to monitor symptoms that are not reported to a doctor.
-
-**Who can take part?**
-Anyone who lives in Italy and is 18 years or older can participate in the study on a voluntary basis. To ensure that information about the spread of infectious diseases is also obtained for children and young people, the parents or guardians of a minor can also complete the questionnaires on behalf of their child. This is not mandatory, but it will contribute to the research. 
-
-**How does Influweb.org work?**
-Participants receive an initial registration form with questions about their background, age and existing diseases and conditions. Following this they receive an email every week with a link to a questionnaire asking what symptoms they have had in the past week: a runny nose, coughing, sneezing, a high temperature and so on. The questionnaire must be completed even if the participant has no symptoms. It takes about 30 seconds to complete the questionnaire if the participant has no symptoms, and about 3 to 5 minutes if he or she has symptoms. 
-
-The completion of the questionnaire enables us to monitor how certain symptoms are distributed across Italy and changes in this pattern over time. These data will be used for scientific research into the spread of the new coronavirus. In the future, that research will also be useful for other viruses and infectious diseases.
-
-**Data**
-The data are collected and processed in the context of scientific research, and exclusively for the following purposes:
-
-- Carrying out scientific research and statistical analyses on the spread of infectious diseases in Italy and Europe;
-
-- Publishing statistical analyses, including graphical representations of the results;
-
-- Providing you, the user, with information about the survey results (for example: how many registered users in your region have flu or other infectious diseases);
-
-The personal data that we may process for these purposes are: 
-
-- Year of birth, month of birth, postcode, gender, family composition;
-
-- Background data relevant to the risk of infection, i.e. data about whether you belong to a risk group recommended for flu vaccination, occupation and lifestyle;
-- Data about symptoms provided in the symptoms questionnaire;
-
-The data obtained in this study will be processed by Hasselt University and the University of Antwerp for the stated purposes. We would also like to inform you that we will process your data in accordance with the applicable laws and regulations and with full respect for your rights and in particular your privacy.
-
-**Taking part**
-After registration, you will be sent an email every week inviting you to complete a questionnaire. Your participation in this study is voluntary and you can withdraw from the study at any time without giving a reason. 
-
-The study is funded by the European Union and has been evaluated by an ethics committee. The fact that it has been funded and approved does not mean that you should feel obliged to participate.
+In questa pagina puoi leggere come vengono trattati i dati da Influweb.org. Condividendo i tuoi dati con Influweb.org, stai contribuendo alla ricerca sulla diffusione delle malattie infettive e del nuovo coronavirus in particolare. Se desideri partecipare a questo studio, sarai invitato ogni settimana a compilare un questionario per fornire informazioni sui sintomi recenti che hai riscontrato (come febbre o tosse) che potrebbero indicare un'infezione. Questa piattaforma è stata realizzata in collaborazione con [Influenzanet](https://influenzanet.info), la network per il monitoraggio delle malattie influenzali attiva in più di dieci paesi europei e gestita da istituti di sanità pubblica. Influweb rappresenta il nodo italiano di questa network.
+La partecipazione allo studio è volontaria. Desideriamo sottolineare che i questionari non hanno alcuno scopo medico. Se hai dubbi sulla tua salute, dovresti sempre cercare aiuto presso il tuo medico di famiglia.
 
 ---
 
-#### 1.  What data are collected and processed during the study? 
+### Lo studio in sintesi
+**Perché Influweb?**
+Molte persone che vengono contagiate dal nuovo coronavirus hanno sintomi lievi e non vanno dal medico. Con l'aiuto di volontari come te possiamo monitorare meglio quello che sta succedendo.
+
+**Chi può partecipare?**
+Chiunque sia residente in Italia può partecipare allo studio su base volontaria. Per garantire che le informazioni sulla diffusione delle malattie infettive siano ottenute anche per bambini e ragazzi, i genitori o i tutori di un minore possono anche compilare i questionari per conto del loro bambino. Questo non è obbligatorio, ma contribuirà alla ricerca.
+ 
+**Come funziona lo studio portato avanti da Influweb?**
+I partecipanti possono registrarsi e compilare un questionario di background iniziale con alcune domande su età, occupazione, nucleo familiare, condizioni pre-esistenti etc. In seguito riceveranno una e-mail ogni settimana con un link a un questionario per riportare il proprio stato di salute, sia che stiano bene, sia che abbiano sintomi, come ad esempio naso che cola, tosse, starnuti, febbre alta e così via. Il questionario deve essere compilato anche se il partecipante non ha sintomi. Ci vogliono circa 30 secondi per completare il questionario se il partecipante non ha sintomi e circa 3-5 minuti se ha sintomi.
+La compilazione del questionario ci consente di monitorare la distribuzione di alcuni sintomi in tutta Italia e l\'evoluzione di questo andamento nel tempo. Questi dati saranno utilizzati per la ricerca scientifica sulla diffusione del nuovo coronavirus. In futuro, tale ricerca sarà utile anche per altri virus e malattie infettive.
+
+**Dati**
+I dati sono raccolti e trattati nell\'ambito della ricerca scientifica, ed esclusivamente per le seguenti finalità:
+
+- Effettuare ricerche scientifiche e analisi statistiche sulla diffusione delle malattie infettive in Italia e in Europa;
+
+- Pubblicazione di analisi statistiche, comprese rappresentazioni grafiche dei risultati;
+
+- Fornire a te, utente, informazioni sui risultati del sondaggio (ad esempio: quanti utenti registrati nella tua regione hanno l\'influenza o altre malattie infettive);
+
+I dati personali che possiamo trattare per queste finalità sono:
+
+- Anno di nascita, mese di nascita, CAP, sesso, composizione familiare;
+
+- Dati di base relativi al rischio di infezione, ovvero dati sull\'appartenenza a un gruppo a rischio raccomandato per la vaccinazione antinfluenzale, l\'occupazione e lo stile di vita;
+
+- Dati sui sintomi forniti nel questionario sui sintomi;
+
+I dati ottenuti in questo studio saranno elaborati dalla Fondazione ISI di Torino per gli scopi dichiarati. Desideriamo inoltre informarti che tratteremo i tuoi dati in conformità con le leggi e i regolamenti applicabili e nel pieno rispetto dei tuoi diritti e in particolare della tua privacy.
+
+**Partecipazione**
+Dopo la registrazione, riceverai ogni settimana una e-mail con l'invito a compilare un questionario. La tua partecipazione a questo studio è volontaria e puoi ritirarti dallo studio in qualsiasi momento senza fornire una motivazione.
+
+Lo studio è finanziato dall'Unione Europea ed è stato valutato da un comitato etico. Il fatto che sia stato finanziato e approvato non significa che dovresti sentirti obbligato a partecipare.
+
+---
+
+#### 1.  Quali dati vengono raccolti ed elaborati durante lo studio?
     
-The personal data that are collected and processed are data about your health and medical condition, including your medical history, some background information (e.g. your age, gender, etc.) and information about medical care you have sought.
+I dati personali che vengono raccolti ed elaborati sono dati sulla tua salute e condizioni mediche, inclusa la tua storia medica, alcune informazioni di base (ad es. La tua età, sesso, ecc.) e informazioni sulle cure mediche che hai ricevuto.
 
-#### 2.  How will the researcher treat my personal data?
+#### 2.  In che modo i ricercatori tratteranno i miei dati personali?
     
-The researchers who analyse your data will only have access to non-identifiable data. The data will be encrypted or coded by the following method:
+I ricercatori che analizzeranno i tuoi dati avranno accesso solo a dati non identificabili. I dati verranno crittografati o codificati con il seguente metodo:
 
-The database administrator will never disclose your identity (email address), and he/she will encrypt your data (i.e. replace your identity in the study with an identification code) before the researchers analyse your data. Your identity will therefore not be used in a scientific publication or presentation. 
+L'amministratore del database non rivelerà mai la tua identità (indirizzo e-mail) e crittograferà i tuoi dati e crittograferà i tuoi dati (cioè sostituirà la tua identità nello studio con un codice di identificazione) prima che i ricercatori analizzino i tuoi dati. La tua identità non sarà quindi utilizzata in una pubblicazione o presentazione scientifica.
 
-This means that the database administrator, under the responsibility of the study leaders, will be the only person able to link your identity to the data communicated during the study, with the exceptions mentioned in section 6.
+Ciò significa che l'amministratore del database, sotto la responsabilità dei responsabili dello studio, sarà l'unica persona in grado di collegare la tua identità ai dati comunicati durante lo studio, con le eccezioni menzionate nella sezione 6.
 
-The data that the researchers analyse will not allow them to identify you.
+I dati che i ricercatori analizzano non permetteranno loro di identificarti.
 
-#### 3. What will happen to the information about me that is collected during the study?
+#### 3. Cosa accadrà alle informazioni su di me raccolte durante lo studio?
+
+La tua partecipazione allo studio significa che i tuoi dati personali saranno raccolti, e saranno utilizzati in forma crittografata dai ricercatori.
+
+Il ricercatore e lo sponsor possono utilizzare i dati personali crittografati solo per gli scopi di ricerca specifici descritti in precedenza.
+
+Inoltre, lo sponsor può concedere a ricercatori esterni (che non sono coinvolti in questo studio) l'accesso ai dati crittografati. Se un ricercatore esterno desidera utilizzare i dati in ricerche non ancora descritte in questo documento, tale ricerca deve essere approvata da un Comitato Etico.
     
-Your participation in the study means that your personal data
-
--   will be collected, and
-
--   will be used in encrypted form by the researchers.
-    
-The researcher and the sponsor may only use the encrypted personal data for the specific research purposes described earlier.
-
-In addition, the sponsor may grant external researchers (who are not involved in this study) access to the encrypted data. If an external researcher wishes to use the data in research not yet described in this document, this research must be approved by an Ethics Committee.
-
-#### 4. How will my data be processed?
+#### 4. Come verranno trattati i miei dati?
   
-Your study data will be processed in accordance with the General Data Protection Regulation (GDPR) <sup>[1]</sup> and the Belgian data protection law of 30 July 2018 <sup>[2]</sup>. The sponsor is the controller with responsibility for this.
+I dati dello studio saranno trattati in conformità con il Regolamento generale sulla protezione dei dati (GDPR) [1] e la legge italiana sulla protezione dei dati del 30 luglio 2018 [2]. Lo sponsor è il controllore responsabile di ciò.
 
-The grounds on which we are allowed to process your personal data are that we are conducting scientific research and that you have given your consent.
+I motivi per cui siamo autorizzati a trattare i tuoi dati personali sono che stiamo conducendo ricerche scientifiche e che hai dato il tuo consenso.
 
-<small>[1] Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC.</small> 
+<small> [1] Regolamento 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali e alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE.
 
-<small>[2] The Belgian law of 30 July 2018 on the protection of natural persons with regard to the processing of personal data.</small>
 
-#### 5. Can I access and correct my data that have been collected and processed during the study?
-   
-You have the right to ask the researchers what data about you have been collected and what they are used for in this study.
+#### 5. Posso accedere e correggere i miei dati che sono stati raccolti ed elaborati durante lo studio?
+Hai il diritto di chiedere ai ricercatori quali dati su di te sono stati raccolti e per cosa vengono utilizzati in questo studio.
 
-You have the right to
+Hai il diritto di:
 
--   access and check these data
+- accedere e controllare questi dati
 
--   have all your data deleted
+- cancellare tutti i tuoi dati
 
--   request correction if they are incorrect
+- richiedere la correzione se sono errati
 
--   restrict the processing of your data
+- limitare il trattamento dei tuoi dati
 
--   oppose the processing of your personal data
+- opporti al trattamento dei suoi dati personali
 
--   withdraw your consent to the processing of personal data. Your personal data that have already been collected before your withdrawal of consent will be kept to prevent any misinterpretation of the study results.
+- revocare il consenso al trattamento dei dati personali. I tuoi dati personali che sono già stati raccolti prima della revoca del consenso saranno conservati per prevenire qualsiasi interpretazione errata dei risultati dello studio.
 
-#### 6. Apart from the researcher and the researcher’s personnel, who else has access to my personal data? 
+#### 6. Oltre ai ricercatori, chi altro ha accesso ai miei dati personali?
     
-In order to check the quality of the study, your non-encrypted personal data or information relevant to this study may be inspected by people other than the study personnel. Any such inspection will take place under the researcher’s supervision, and the people concerned will be bound by professional secrecy or by a confidentiality agreement. They may include:
+Al fine di verificare la qualità dello studio, i tuoi dati personali non crittografati o le informazioni rilevanti per questo studio possono essere ispezionati da persone diverse dal personale dello studio. Tale ispezione avverrà sotto la supervisione del ricercatore e le persone interessate saranno vincolate dal segreto professionale o da un accordo di riservatezza. Possono includere:
 
--   personnel designated by the sponsor (monitors and auditors) and people or organisations providing services to or collaborating with the sponsor. However, they will never pass on your name and contact details to the sponsor.
+- personale designato dallo sponsor (responsabili e revisori) e persone o organizzazioni che forniscono servizi o collaborano con lo sponsor. Tuttavia, non trasmetteranno mai il tuo nome e i dettagli di contatto allo sponsor.
+
+- ispettori delle autorità sanitarie competenti di tutto il mondo
+
+- un gruppo di audit indipendente
+
+- persone designate dal Comitato Etico.
+
+Se richiesto per lo studio, i dati dello studio crittografati possono essere inviati ad altri paesi all'interno e all'esterno dell'Unione Europea (UE) e verificati da:
+
+- personale (diverso dagli ispettori) delle competenti autorità sanitarie italiane (Agenzia Federale per i Medicinali e i Prodotti Sanitari, FAMHP) o di altri Paesi all'interno e all'esterno dell'UE,
+
+- un comitato etico di valutazione,
+
+- ricercatori esterni,
+
+- lo sponsor dello studio, il personale designato dallo sponsor e le persone o le organizzazioni che forniscono servizi o collaborano con lo sponsor e/o
+
+- società del gruppo dello sponsor in Italia e in altri paesi all'interno e all'esterno dell'UE.
+
+La normativa europea e la normativa italiana in materia di protezione dei dati impongono restrizioni al trasferimento dei dati verso paesi extra UE. Lo sponsor deve sempre garantire che i dati del tuo studio crittografati siano ugualmente protetti quando vengono trasferiti in un paese non UE. Se lo sponsor conclude un accordo sulla protezione dei dati per questo scopo, una copia di questo accordo può essere ottenuta dal ricercatore.
+
+#### 7. Quale sarà l'utilizzo dei risultati dello studio?
+I risultati intermedi dello studio sono pubblicati regolarmente sul nostro sito web. Inoltre, durante lo studio i risultati e la descrizione dello studio saranno pubblicati su riviste mediche specializzate. Una copia della pubblicazione scientifica sarà pubblicata sul sito e messa a disposizione del ricercatore o del personale dello studio.
+
+Questi siti Web o pubblicazioni non conterranno alcuna informazione mediante la quale l'utente possa essere identificato.
+
+#### 8. I miei dati verranno utilizzati per scopi diversi dallo studio a cui sto partecipando?
     
--   inspectors from competent health authorities from around the world
+I risultati dello studio saranno utilizzati solo per rispondere alle domande scientifiche in questo studio. Qualsiasi ricerca aggiuntiva o futura al di fuori dello studio deve sempre essere approvata da un Comitato Etico italiano riconosciuto.
 
--   an independent audit group
+#### 9. Per quanto tempo verranno conservati i miei dati?
 
--   persons designated by the Ethics Committee.
-    
-If required for the study, the encrypted study data may be sent to other countries within and outside the European Union (EU) and verified by:
-
--   personnel (other than inspectors) of the competent health authorities of Italy (the Federal Agency for Medicines and Health Products, FAMHP) or other countries within and outside the EU,
-
--   the Belgian evaluating Ethics Committee(s),
-
--   external researchers,
-
--   the study’s sponsor, personnel designated by the sponsor and people or organisations providing services to or collaborating with the sponsor, and/or
-
-- companies from the sponsor's group in Italy and in other countries within and outside the EU.
-    
-European regulations and Belgian data protection legislation impose restrictions on the transfer of data to non-EU countries. The sponsor must always ensure that your encrypted study data are equally protected when transferred to a non-EU country. If the sponsor concludes a data protection agreement for this purpose, a copy of this agreement may be obtained from the researcher.
-
-#### 7. What will happen to the results of the study?
-
-Interim results of the study are published regularly on our website.
-Further, during the study results and description of the study will be published in specialized medical journals. A copy of the scientific publication will be published on the website and will be available from the researcher or study personnel.
-
-These websites or publications will not contain any information by which you can be identified.
-
-#### 8. Will my data be used for purposes other than the study in which I am participating?
-    
-The results of the study will only be used to answer the scientific questions in this study. Any additional or future research outside the study must always be approved by a recognised Belgian Ethics Committee.
-
-#### 9. For how long will my data be kept?
-    
-After the study, your encrypted data will be kept for at least 25 years to ensure the validity of the study. This will be the case even if you withdraw from the study before its completion.
+Dopo lo studio, i tuoi dati crittografati verranno conservati per almeno 25 anni per garantire la validità dello studio. Questo sarà il caso anche se ti ritiri dallo studio prima del suo completamento.
 
 ---
 
-### Modification of privacy policy
-This privacy policy may be modified. If this happens, we will publish the modified [Informed Consent Form](https://infectieradar.be/en/project/).
+### Modifica della policy di privacy
+
+Qesta policy di privacy potrebbe essere modificata e questo testo può essere aggiornato in futuro.
 
 
-##### Version 2.0 2-10-2020
+##### Version 1.0 1-09-2021
