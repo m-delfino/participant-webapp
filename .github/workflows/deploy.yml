@@ -30,15 +30,15 @@ jobs:
       run: echo "REPO_VERSION=${{github.event.inputs.tags}}" >> $GITHUB_ENV
 
     # Build and push image to Dockerhub
-    - name: docker login
-      env:
-        DOCKER_USER: ${{secrets.DOCKER_USER}}
-        DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
-      run: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
-    - name: Build the Docker image
-      run: docker build --build-arg ENV_FILE=env-sample.config . --file Dockerfile --tag ${{secrets.DOCKER_ORGANIZATION}}/${{secrets.DOCKER_REPO_NAME}}:$REPO_VERSION
-    - name: Push Docker image
-      run: docker push ${{secrets.DOCKER_ORGANIZATION}}/${{secrets.DOCKER_REPO_NAME}}:$REPO_VERSION
+    #- name: docker login
+    #  env:
+    #    DOCKER_USER: ${{secrets.DOCKER_USER}}
+    #    DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
+    #  run: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
+    #- name: Build the Docker image
+    #  run: docker build --build-arg ENV_FILE=env-sample.config . --file Dockerfile --tag ${{secrets.DOCKER_ORGANIZATION}}/${{secrets.DOCKER_REPO_NAME}}:$REPO_VERSION
+    #- name: Push Docker image
+    #  run: docker push ${{secrets.DOCKER_ORGANIZATION}}/${{secrets.DOCKER_REPO_NAME}}:$REPO_VERSION
 
     # Deploy to GKE
     ## Setup gcloud CLI
