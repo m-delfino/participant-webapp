@@ -7,7 +7,7 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.GKE_PROJECT }}
-  GKE_CLUSTER: influweb-italy-cluster
+  GKE_CLUSTER: influweb-v2
   GKE_ZONE: europe-west1-d
   DEPLOYMENT_NAME: web-client
 
