@@ -212,7 +212,7 @@
                   "itemKey": "results",
                   "config": {
                     "type": "markdown",
-                    "markdownUrl": "markdowns/results-0.md",
+                    "markdownUrl": "markdowns/results_template.md",
                     "flavor": "chart-renderer"
                   }
                 }
