@@ -11,3 +11,8 @@ In questa pagina potrete trovare i risultati più aggiornati basati sui dati rac
   map-url="/data/ggd-map-it.json"
   data-url="{covidMap}"
 />
+
+<lineandscatterchart
+  data-url="{covidLine}"
+/>
+
