@@ -41,7 +41,7 @@
   "invitation": {
     "title": "Welcome!",
     "content": {
-      "info": "## Welcome! \n\n Before starting to use the system, you need to set a password.",
+      "info": "## Welcome! \n\n Before starting to use the system, you need to set a password for your new Influweb account.",
       "emailLabel": "E-mail",
       "emailPlaceholder": "Enter E-mail",
       "newPasswordLabel": "Password",
