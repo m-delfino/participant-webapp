@@ -191,27 +191,8 @@
                   "itemKey": "results",
                   "config": {
                     "type": "markdown",
-                    "markdownUrl": "markdowns/results-0.md",
+                    "markdownUrl": "markdowns/results_template.md",
                     "flavor": "chart-renderer"
-                  }
-                }
-              ]
-            },
-            {
-              "key": "sideCol",
-              "className": "col-12 col-lg-4 mt-3 mt-lg-0",
-              "items": [
-                {
-                  "itemKey": "references",
-                  "config": {
-                    "type": "linkList",
-                    "links": [
-                      {
-                        "linkKey": "resultLink1",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2021/05/INFECTIERADAR-april.pdf"
-                      }
-                    ]
                   }
                 }
               ]
