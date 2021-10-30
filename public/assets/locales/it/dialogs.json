@@ -99,7 +99,7 @@
     },
     "warningDialog": {
       "title": "Conferma nuovo indirizzo email",
-      "content": "Nota: non puoi accedere nuovamente a Influweb.it finché non hai confermato il nuovo indirizzo email tramite il link nell'email di conferma che ti abbiamo inviato.",
+      "content": "Nota: non puoi accedere nuovamente a Influweb finché non hai confermato il nuovo indirizzo email tramite il link nell'email di conferma che ti abbiamo inviato.",
       "cancelBtn": "Annulla",
       "confirmBtn": "Conferma"
     },

@@ -9,9 +9,9 @@
     "content": ""
   },
   "signupCard": {
-    "imageAlt": "Participate image",
-    "title": "Participa!",
-    "body": "Aiutaci a tenere sotto controllo il coronavirus. Reporta ogni settimana il tuo stato di salute, sia che tu abbia sintomi, sia che tu stia bene.",
+    "imageAlt": "Immagine partecipa",
+    "title": "Partecipa",
+    "body": "Aiutaci a tenere d'occhio la diffusione del coronavirus e dell'influenza. Segnalaci settimanalmente se stai bene o se hai qualche sintomo.",
     "actionLabel": "Registrati"
   },
   "surveyCard": {
