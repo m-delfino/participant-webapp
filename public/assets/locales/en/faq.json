@@ -22,15 +22,15 @@
   },
   "faq": [
     {
-      "title": "Who set up influweb.it?",
+      "title": "Who set up Influweb?",
       "content": "Influweb is part of Influenzanet, a European network connecting various universities and government agencies that manage similar platforms. ISI Foundation coordinates this network. The purpose of Influenzanet is to map and monitor the symptoms of infections, such as the new coronavirus (COVID-19) and flu, among the general population in Europe. The data is used for scientific research about infections, and currently into the new coronavirus."
     },
     {
       "title": "Who is Influweb intended for?",
-      "content": "Anyone living in Italy who has Internet access can participate in Influweb.it, voluntarily and for as long as they wish."
+      "content": "Anyone living in Italy who has Internet access can participate in Influweb, voluntarily and for as long as they wish."
     },
     {
-      "title": "How can I participate in Influweb.it?",
+      "title": "How can I participate in Influweb?",
       "content": "You can participate by signing up with an email address and personal password."
     },
     {
@@ -38,8 +38,8 @@
       "content": "In order to get the best possible picture of the situation at the moment, it is important for everyone to take part, regardless of background or risk factors. Someone who is never ill is just as capable of falling ill as someone who is often ill. Broad participation can also help us to understand why some people get infections less often."
     },
     {
-      "title": "I’m not Italian, but live in Italy: can I participate in Influweb.it?",
-      "content": "Definitely! Influweb.it is interested in the situation in Italy. Anyone living in Italy can therefore take part even if they are of different nationality."
+      "title": "I’m not Italian, but live in Italy: can I participate in Influweb?",
+      "content": "Definitely! Influweb is interested in the situation in Italy. Anyone living in Italy can therefore take part even if they are of different nationality."
     },
     {
       "title": "I’m Italian, but live abroad: can I participate?",
@@ -50,7 +50,7 @@
       "content": "The study is aimed at everyone. It doesn’t matter whether they are vaccinated against the flu or not."
     },
     {
-      "title": "How long does it take to complete the questionnaire on Influweb.it?",
+      "title": "How long does it take to complete the questionnaire on Influweb?",
       "content": "It takes about 5 minutes to register and complete the first questionnaire. Filling in the weekly questionnaire each week then takes between 30 seconds (if you have no symptoms) and a few minutes (if you have symptoms or had them during the week)."
     },
     {
@@ -94,7 +94,7 @@
       "content": "Click on ‘forgotten password’ in the login window. Enter your email address and you will receive an email to create a new password."
     },
     {
-      "title": "Can I set whether I will receive emails from Influweb.it?",
+      "title": "Can I set whether I will receive emails from Influweb?",
       "content": "Yes, you can. Click on your profile name in the topmost blue bar at the top right. Go to settings. You can indicate there whether you want to receive emails – for example, the weekly invitation to report your symptoms (even without a weekly email, a new questionnaire will be ready for you to complete)."
     },
     {
