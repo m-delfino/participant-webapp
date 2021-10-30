@@ -68,10 +68,10 @@
       "successMsg": "Grazie! Hai completato tutti i questionari. Speriamo di sentirti di nuovo la prossima settimana. Nel caso in cui desideri fornire nuove informazioni prima, puoi ripetere il questionario tra poche ore."
     },
     "optionalSurveys": {
-      "title": "Cambia le informazioni di background",
-      "info": "Se la tua situazione è cambiata, puoi completare nuovamente il questionario o i questionari in background che trovi di seguito. Sfortunatamente, non possiamo mostrarti le informazioni che hai inserito l'ultima volta o consentirti di modificare le tue risposte solo a domande specifiche.",
+      "title": "Cambia i questionari di profilo",
+      "info": "Se la tua situazione è cambiata, puoi completare nuovamente i questionari di profilo elencati qui sotto. Sfortunatamente, non possiamo mostrarti le informazioni che hai inserito l'ultima volta o consentirti di modificare le tue risposte solo a domande specifiche.",
       "hideBtn": "Nascondi",
-      "showBtn": "Le tue informazioni di background sono cambiate?"
+      "showBtn": "Vuoi cambiare i tuoi dati di profilo?"
     }
   },
   "teaserImage": {

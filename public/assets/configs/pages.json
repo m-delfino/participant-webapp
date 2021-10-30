@@ -153,27 +153,6 @@
           ]
         },
         {
-          "key": "chartRow",
-          "className": "",
-          "columns": [
-            {
-              "key": "contentCol",
-              "className": "col-12 col-md-12 mt-3",
-              "items": [
-                {
-                  "itemKey": "results",
-                  "className": "",
-                  "config": {
-                    "type": "markdown",
-                    "markdownUrl": "markdowns/landingchart.md",
-                    "flavor": "chart-renderer"
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
           "key": "sponsorRow",
           "className": "",
           "columns": [

@@ -9,9 +9,9 @@
     "content": ""
   },
   "signupCard": {
-    "imageAlt": "Participate image",
-    "title": "Participa!",
-    "body": "Aiutaci a tenere sotto controllo il coronavirus. Reporta ogni settimana il tuo stato di salute, sia che tu abbia sintomi, sia che tu stia bene.",
+    "imageAlt": "Immagine partecipa",
+    "title": "Partecipa",
+    "body": "Aiutaci a tenere d'occhio la diffusione del coronavirus e dell'influenza. Segnalaci settimanalmente se stai bene o se hai qualche sintomo.",
     "actionLabel": "Registrati"
   },
   "surveyCard": {
@@ -51,7 +51,7 @@
     },
     {
       "title": "Quanto tempo ci vuole a compilare i questionari di Influweb?",
-      "content": "Ci vogliono soltanto pochi minuti per registrarsi e compilare il primo questionario di background. La compilazione del questionario settimanale relativo ai sintomi richiede soltanto pochi secondi (un click sull'opzione 'nessun sintomo', se non hai alcun sintomo). Sono comunque sufficienti pochi minuti per completare il questionario nel caso tu abbia sintomi da segnalare."
+      "content": "Ci vogliono soltanto pochi minuti per registrarsi e compilare il primo questionario di profilo. La compilazione del questionario settimanale relativo ai sintomi richiede soltanto pochi secondi (un click sull'opzione 'nessun sintomo', se non hai alcun sintomo). Sono comunque sufficienti pochi minuti per completare il questionario nel caso tu abbia sintomi da segnalare."
     },
     {
       "title": "Quanto tempo durerà il progetto Influweb?",
@@ -63,11 +63,11 @@
     },
     {
       "title": "Cosa devo fare dopo essermi registrato?",
-      "content": "Nel primo questionario di background, ti verranno poste domande sulla tua salute in generale e sul tuo stile di vita. Ti verrà richiesto di compilare questo questionario di background soltanto una volta. In seguito, riceverai un'email settimanale per invitarti a compilare il questionario dei sintomi."
+      "content": "Nel primo questionario di profilo, ti verranno poste domande sulla tua salute in generale e sul tuo stile di vita. Ti verrà richiesto di compilare questo questionario di profilo soltanto una volta. In seguito, riceverai un'email settimanale per invitarti a compilare il questionario dei sintomi."
     },
     {
-      "title": "Quali domande vengono poste nel questionario di background?",
-      "content": "Lo scopo del questionario di background è di conoscere meglio i nostri volontari. Per la maggior parte delle domande, c'è comunque la possibilità di non rispondere selezionando l'opzione 'non saprei'. Sono sufficienti pochi minuti per completare il questionario."
+      "title": "Quali domande vengono poste nel questionario di profilo?",
+      "content": "Lo scopo del questionario di profilo è di conoscere meglio i nostri volontari. Per la maggior parte delle domande, c'è comunque la possibilità di non rispondere selezionando l'opzione 'non saprei'. Sono sufficienti pochi minuti per completare il questionario."
     },
     {
       "title": "Quali domande vengono poste nel questionario settimanale dei sintomi?",
@@ -99,7 +99,7 @@
     },
     {
       "title": "Posso creare dei profili per i miei figli e compilare i questionari per loro?",
-      "content": "Certamente! Clicca sul tuo nickname in alto a destra. Ti verrà proposta un'interfaccia per aggiungere nuovi profili per i quali potrai inserire i dettagli del quetionario di background e dei sintomi."
+      "content": "Certamente! Clicca sul tuo nickname in alto a destra. Ti verrà proposta un'interfaccia per aggiungere nuovi profili per i quali potrai inserire i dettagli del quetionario di profilo e dei sintomi."
     },
     {
       "title": "Non voglio più partecipare. Come posso ritirarmi dal progetto?",
@@ -107,7 +107,7 @@
     },
     {
       "title": "Posso modificare le risposte che ho inserito?",
-      "content": "Puoi modificare le tue risposte come preferisci durante la compilazione del questionario. Una volta che hai completato il questionario di background, puoi tornare a compilarlo con risposte diverse in qualunque momento. Una volta che hai compilato il questionario dei sintomi, non puoi modificare le risposte che hai appena inserito ma, dopo un'ora, puoi compilare un nuovo questionario con risposte diverse. Terremo conto di queste modifiche in fase di analisi dei dati."
+      "content": "Puoi modificare le tue risposte come preferisci durante la compilazione del questionario. Una volta che hai completato il questionario di profilo, puoi tornare a compilarlo con risposte diverse in qualunque momento. Una volta che hai compilato il questionario dei sintomi, non puoi modificare le risposte che hai appena inserito ma, dopo un'ora, puoi compilare un nuovo questionario con risposte diverse. Terremo conto di queste modifiche in fase di analisi dei dati."
     },
     {
       "title": "Se segnalo i miei sintomi, riceverò una diagnosi alla fine del questionario?",
