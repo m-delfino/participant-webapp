@@ -1,3 +1,11 @@
+### 18/11/2021 - Bollettino Coronavirus
+
+Balzo in avanti del numero di nuovi casi di COVID-19 in Italia. Sono 10.638 i casi di persone positive al COVID-19, secondo il bollettino dell'Istituto superiore di Sanità. Le vittime sono 69. 
+
+### 18/11/2021 - Migrazione completata!
+
+La migrazione di tutti i dati e degli utenti alla nuova piattaforma è ora completa. Oggi abbiamo finalmente mandato in pensione il vecchio sito. L'URL di influweb.it è ora allineato con il nuovo sito web. Questo è un momento storico per il nostro progetto!
+
 ### 03/11/2021 - Influweb si rinnova!
 
 Influweb torna con una nuova infrastruttura e una veste grafica completamente rinnovata.
