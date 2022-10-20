@@ -7,7 +7,7 @@ import { FooterConfig } from 'case-web-app-core/build/types/footerConfig';
 import { HeaderConfig } from 'case-web-app-core/build/types/headerConfig';
 import { NavbarConfig } from 'case-web-app-core/build/types/navbarConfig';
 import { PagesConfig } from 'case-web-app-core/build/types/pagesConfig';
-
+import { it } from 'date-fns/locale';
 
 const App: React.FC = () => {
   const [appConfig, setAppConfig] = useState<AppConfig>();
@@ -16,6 +16,9 @@ const App: React.FC = () => {
   const [pagesConfig, setPagesConfig] = useState<PagesConfig>();
   const [footerConfig, setFooterConfig] = useState<FooterConfig>();
   const { i18n } = useTranslation();
+  const dateLocales = [
+    { code: 'it-it', locale: it, format: 'dd/MM/yyyy' }
+  ];
 
   useEffect(() => {
     if (!i18n.language) {
@@ -67,6 +70,7 @@ const App: React.FC = () => {
         navbarConfig={navbarConfig}
         pagesConfig={pagesConfig}
         footerConfig={footerConfig}
+        dateLocales={dateLocales}
       />
     </React.Fragment>
   );
