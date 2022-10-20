@@ -13,8 +13,9 @@
     "profiles": {
       "title": "Profili",
       "info": "Modifica il tuo profilo o, in qualità di genitore o rappresentante legale, aggiungi il profilo di tuo figlio fino a 17 anni.",
-      "btn": "{{count}} profili",
-      "btn_plural": "{{count}} profili"
+      "btn": "{{count}} profilo",
+      "btn_plural": "{{count}} profili",
+      "btn_other": "{{count}} profili"
     }
   },
   "communication": {
