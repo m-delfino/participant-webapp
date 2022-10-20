@@ -44,6 +44,7 @@
     "loginLink": "Hai già un account? Accedi qui.",
     "reCaptchaLinks": "Questo sito è protetto da reCAPTCHA e si applicano le <1>Norme sulla privacy</1> e i <3>Termini di servizio</3> di Google.",
     "errors": {
+      "emailRules": "L'indirizzo email che hai inserito non è valido",
       "passwordRules": "La tua password deve avere almeno 8 caratteri e contenere 3 dei seguenti 4 elementi: lettere minuscole, maiuscole, numeri, segni di punteggiatura.",
       "passwordMatch": "Le password non sono le stesse",
       "invalidEmail": "Il tuo indirizzo email sembra non essere corretto",
@@ -65,10 +66,13 @@
     "title": "Benvenuto!",
     "successMsg": "Sei quasi iscritto a Influweb.org! \n\n Prima conferma il tuo indirizzo e-mail facendo clic sul link nell'e-mail di conferma che ti abbiamo inviato \n Se non riesci a trovare l'e-mail, prima controlla la tua cartella spam. Puoi anche richiedere una nuova email qui sotto.",
     "emailSentMsg": "L'e-mail è stata inviata",
+    "msgForVerifiedAccount": "Se hai verificato il tuo account puoi usare il bottone qui sotto per ricaricare la pagina",
+    "reloadUser": "Controlla verifica",
     "resendVerificationEmailBtn": "Reinvia email di conferma",
     "wrongEmailBtn": "Hai usato l'indirizzo email sbagliato? Allora cambialo qui.",
     "errors": {
-      "unknown": "Qualcosa è andato storto."
+      "unknown": "Qualcosa è andato storto.",
+      "verifyEmailFirst": "Devi prima verificare l'indirizzo email cliccando sul link che hai ricevuto via email. Se non hai ricevuto nessuna email, clicca sul bottone Reinvia mail di conferma"
     }
   },
   "passwordForgotten": {

@@ -13,5 +13,7 @@
     "verified": "Account non verificato"
   },
   "exitSurveyMode": "Esci",
-  "selectedProfilePrefixInSurveyMode": "Sto compilando il questionario per: "
+  "selectedProfilePrefixInSurveyMode": "Sto compilando il questionario per: ",
+  "toggleBtn": "Menu",
+  "toggleBtnAriaLabel": "Menu"
 }
