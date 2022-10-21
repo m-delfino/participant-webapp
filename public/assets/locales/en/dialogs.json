@@ -83,7 +83,7 @@
     "emailInputPlaceholder": "Enter E-mail",
     "submitBtn": "Change password",
     "errors": {
-      "invalidId": "Something has gone wrong. Check your email address or connection./n You can have another try when the button is visible again.",
+      "invalidId": "Something has gone wrong. Check your email address or connection.\n You can have another try when the button is visible again.",
       "unknown": "Something has gone wrong. Check your information or try again later."
     }
   },
