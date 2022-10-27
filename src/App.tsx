@@ -21,7 +21,7 @@ const App: React.FC = () => {
   const { i18n } = useTranslation();
 
   const dateLocales = [
-    { code: 'it-it', locale: it, format: 'dd/MM/yyyy' }
+    { code: 'it', locale: it, format: 'dd/MM/yyyy' }
   ];
 
   useEffect(() => {
