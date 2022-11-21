@@ -10,5 +10,18 @@
   "notValidQuestion": "Seleziona una risposta valida per tutte le domande.",
   "backBtn": "Indietro",
   "nextBtn": "Avanti",
-  "submitBtn": "Invia"
+  "submitBtn": "Invia",
+  "surveyLoadingError": {
+    "content": "Purtroppo qualcosa è andato storto durante il caricamento del questionario.\n\nProva di nuovo o contatta il supporto nel caso in cui il problema persista",
+    "btn": "Prova di nuovo"
+  },
+  "surveySubmissionError": {
+    "content": "Purtroppo qualcosa è andato storto durante il caricamento del questionario.\n\nProva di nuovo o contatta il supporto nel caso in cui il problema persista",
+    "btn": "Prova di nuovo"
+  },
+  "submitSuccessDialog": {
+    "title": "Info",
+    "content": "Il tuo questionario è stato salvato",
+    "btn": "Continua"
+  }
 }

@@ -39,7 +39,7 @@
         },
         {
           "key": "content",
-          "className": "min-vh-60",
+          "containerClassName": "min-vh-60",
           "columns": [
             {
               "key": "loginCardCol",
@@ -154,7 +154,7 @@
         },
         {
           "key": "sponsorRow",
-          "className": "",
+          "containerClassName": "",
           "columns": [
             {
               "key": "sponsorCol",
@@ -181,7 +181,7 @@
       "rows": [
         {
           "key": "contentRow",
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "contentCol",
@@ -234,7 +234,7 @@
         },
         {
           "key": "main",
-          "className": "py-3 min-vh-60",
+          "containerClassName": "py-3 min-vh-60",
           "columns": [
             {
               "key": "surveyCol",
@@ -312,7 +312,7 @@
       "rows": [
         {
           "key": "mainRow",
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "settingsCol",
@@ -388,7 +388,7 @@
         {
           "key": "content",
           "fullWidth": false,
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "mainCol",
@@ -480,7 +480,7 @@
         {
           "key": "content",
           "fullWidth": false,
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "mainCol",
@@ -539,7 +539,7 @@
       "rows": [
         {
           "key": "content",
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "pCol",
@@ -565,7 +565,7 @@
       "rows": [
         {
           "key": "content",
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "pCol",
@@ -591,7 +591,7 @@
       "rows": [
         {
           "key": "content",
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "pCol",
@@ -617,7 +617,7 @@
       "rows": [
         {
           "key": "content",
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "pCol",
@@ -643,7 +643,7 @@
       "rows": [
         {
           "key": "content",
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "pCol",
@@ -669,7 +669,7 @@
       "rows": [
         {
           "key": "content",
-          "className": "my-3 min-vh-60",
+          "containerClassName": "my-3 min-vh-60",
           "columns": [
             {
               "key": "pCol",
