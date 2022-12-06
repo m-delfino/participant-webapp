@@ -241,6 +241,15 @@
               "className": "col-12 col-lg-8",
               "items": [
                 {
+                  "itemKey": "messages",
+                  "className": "p-2 bg-warning-light mb-2",
+                  "config": {
+                    "type": "markdown",
+                    "markdownUrl": "markdowns/survey_messages.md",
+                    "flavor": "chart-renderer"
+                  }
+                },
+                {
                   "itemKey": "surveyList",
                   "className": "",
                   "config": {
