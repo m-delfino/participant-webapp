@@ -2258,6 +2258,11 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
+"@influweb-it/case-web-app-core@2.4.2-test-1.0", "case-web-app-core@npm:@influweb-it/case-web-app-core@^2.4.2-test-1.0":
+  version "2.4.2-test-1.0"
+  resolved "https://npm.pkg.github.com/download/@influweb-it/case-web-app-core/2.4.2-test-1.0/33d57a424a3c07f062f20b7b057f1f173b07d0ec#33d57a424a3c07f062f20b7b057f1f173b07d0ec"
+  integrity sha512-mHpkNfa4Qr5wH5UVk83VJnbgMZaE0vI8zulh+ASutW5fp68eFG7XHSY7u3oMPe2JDlLano6SJ3FWLfKbmbu0MQ==
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"
@@ -4074,11 +4079,6 @@ case-sensitive-paths-webpack-plugin@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/case-sensitive-paths-webpack-plugin/-/case-sensitive-paths-webpack-plugin-2.4.0.tgz#db64066c6422eed2e08cc14b986ca43796dbc6d4"
   integrity sha512-roIFONhcxog0JSSWbvVAh3OocukmSgpqOH6YpMkCvav/ySIV3JKg4Dc8vYtQjYi/UxpNE36r/9v+VqTQqgkYmw==
-
-case-web-app-core@2.4.2:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/case-web-app-core/-/case-web-app-core-2.4.2.tgz#d5a6d84e95ac14d1da09ea292bd099b77cf0c0b2"
-  integrity sha512-SRntuWmt92oKIXoFWROS6YpSt58Jlxo3gGUe0Y1ThGbQ1qjBrMuSDp3cIY22mH3IXTGI5gmzKRPg1SOBIWJJFA==
 
 case-web-ui@1.13.1:
   version "1.13.1"
