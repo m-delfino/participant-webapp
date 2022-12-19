@@ -31,15 +31,15 @@
   },
   "signup": {
     "title": "Sign up",
-    "info": "",
+    "info": "By clicking the **Sign up** button you agree to take part in the [Influweb](http://influweb.org/study-consent) study",
     "emailInputLabel": "Email",
     "emailInputPlaceholder": "Enter Email",
     "passwordInputLabel": "Password",
     "passwordInputPlaceholder": "Enter Password",
     "confirmPasswordInputLabel": "Confirm Password",
     "confirmPasswordInputPlaceholder": "Enter Password Again",
-    "informedConsentCheckbox": "Access the <1>privacy statement</1>.*",
-    "reCaptchaCookieCheckbox": "Access <1>reCAPTCHA statement</1>.*",
+    "informedConsentCheckbox": "Accept the <1>privacy policy</1>.*",
+    "reCaptchaCookieCheckbox": "Accept <1>reCAPTCHA policy</1>.*",
     "signupBtn": "Sign up",
     "loginLink": "Have an account already? Login in here.",
     "reCaptchaLinks": "This site is protected by reCAPTCHA and the Google <1>Privacy Policy</1> and <3>Terms of Service</3> apply.",
@@ -53,14 +53,14 @@
     }
   },
   "privacyConsent": {
-    "title": "Privacy Consent",
-    "acceptBtn": "I consent",
-    "cancelBtn": "I do not consent"
+    "title": "Privacy policy",
+    "acceptBtn": "I accept",
+    "cancelBtn": "I do not accept"
   },
   "recaptchaConsent": {
-    "title": "ReCaptcha Consent",
-    "acceptBtn": "I agree",
-    "cancelBtn": "I don't agree"
+    "title": "ReCaptcha policy",
+    "acceptBtn": "I accept",
+    "cancelBtn": "I don't accept"
   },
   "signupSuccess": {
     "title": "Welcome!",

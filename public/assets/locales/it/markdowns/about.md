@@ -1,10 +1,45 @@
-## Perché Influweb?
-Sappiamo che molte persone che si infettano con il nuovo coronavirus hanno sintomi lievi o addirittura nessuno e, per questo motivo, non vanno dal medico. Anche tra quelli che si rivolgono a un medico, non tutti ricevono un test. Ciò può rendere difficile monitorare la circolazione del coronavirus in Italia. Grazie all'aiuto dei nostri volontari provenienti da tutto il paese possiamo seguire da vicino ciò che sta succedendo.
+**Perché Influweb?**
 
-## Come funziona Influweb?
-Per partecipare, è sufficiente registrarsi e compilare settimanalmente un questionario in cui si può segnalare il proprio stato di salute, segnalando la presenza di febbre o altri sintomi o anche nessun sintomo. Questo ci permette di monitorare lo stato di salute della popolazione in Italia e come la situazione si evolve nel tempo. I dati vengono utilizzati per la ricerca scientifica sulla diffusione del coronavirus in Italia. In futuro, tale ricerca sarà utile anche per altri virus e malattie infettive.
-Ai partecipanti che si registrano viene chiesto di riempire un breve questionario iniziale con domande sul loro background: lavoro, età e malattie e condizioni esistenti. In seguito ricevono un'e-mail ogni settimana per segnalare se hanno avuto sintomi nell'ultima settimana e, in caso affermativo, quali: naso che cola, tosse, starnuti, febbre e così via. È importante che il questionario venga completato anche se un partecipante non ha sintomi. In assenza di sintomi, sono sufficienti circa 30 secondi per rispondere alle domande; se ci sono sintomi, è sufficiente qualche minuto.
-</br>
+Molte persone che vengono contagiate da sindromi influenzali o simil-influenzali (coronavirus) hanno sintomi lievi e non vanno dal medico. Con l'aiuto di volontari come te possiamo monitorare meglio quello che sta succedendo.
+ 
+**Come funziona lo studio portato avanti da Influweb?**
+
+I partecipanti allo studio devono registrarsi e compilare un questionario iniziale con alcune domande su età, occupazione, nucleo familiare, condizioni di salute pre-esistenti ecc. In seguito riceveranno una e-mail ogni settimana con un link a un questionario per riportare il proprio stato di salute, sia che stiano bene, sia che abbiano sintomi, come ad esempio naso che cola, tosse, starnuti, febbre alta e così via. Ci vogliono circa 30 secondi per completare il questionario se il partecipante non ha sintomi e circa 3-5 minuti se ha sintomi.
+
+La compilazione del questionario ci consente di monitorare la distribuzione di alcuni sintomi in tutta Italia e l\'evoluzione di questa distribuzione nel tempo. I dati raccolti saranno inoltre utilizzati per la ricerca scientifica sulla diffusione delle sindromi influenzali e simil-influenzali. In futuro, la ricerca potrà essere estesa anche ad altri virus e malattie infettive.
+
+**Dati**
+
+I dati sono raccolti e trattati esclusivamente per le seguenti finalità:
+
+- Effettuare ricerche scientifiche e analisi statistiche sulla diffusione delle malattie infettive in Italia e in Europa;
+
+- Pubblicazione di analisi statistiche anonime, comprese rappresentazioni grafiche dei risultati;
+
+- Fornire a te, utente, informazioni sui risultati del sondaggio (ad esempio: quanti utenti registrati nella tua regione hanno l\'influenza o altre malattie infettive);
+
+I dati personali che possiamo trattare per queste finalità sono:
+
+- Anno di nascita, mese di nascita, CAP, sesso, composizione familiare;
+
+- Dati di base relativi al rischio di infezione, ovvero dati sull\'appartenenza a un gruppo a rischio raccomandato per la vaccinazione antinfluenzale, l\'occupazione e lo stile di vita;
+
+- Dati su eventuali sintomi in corso forniti nel questionario sui sintomi;
+
+Desideriamo inoltre informarti che tratteremo i tuoi dati in conformità con le leggi e i regolamenti applicabili e nel pieno rispetto dei tuoi diritti e in particolare della tua privacy.
+
+**Chi può partecipare?**
+
+Chiunque sia residente in Italia può partecipare allo studio su base volontaria. Per garantire che le informazioni sulla diffusione delle sindromi influenzali siano ottenute anche per bambini e ragazzi, i genitori o i tutori di un minore hanno la possibilità di compilare i questionari per conto del loro bambino. Questo non è obbligatorio, ma contribuirà alla ricerca.
+
+**Partecipazione**
+
+La tua partecipazione a questo studio è volontaria e puoi ritirarti dallo studio in qualsiasi momento senza fornire una motivazione.
+
+Lo studio è finanziato dall\'Unione Europea ed è stato valutato da un comitato etico. Il fatto che sia stato finanziato e approvato non significa che dovresti sentirti obbligato a partecipare.
+
+**Patner**
+
 Influweb è supportato da Fondazione ISI, Fondazione CRT e dai progetti Epipose e PANDEM-2 del programma EU Horizon 2020.
 
-Influweb è parte del consorzio europeo [Influenzanet](https://influenzanet.info).
+Influweb è stato realizzato in collaborazione con [Influenzanet](https://influenzanet.info), la network per il monitoraggio delle malattie influenzali attiva in più di dieci paesi europei e gestita da istituti di sanità pubblica. Influweb rappresenta il nodo italiano di questa network.
