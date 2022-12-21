@@ -4,7 +4,7 @@ import reportWebVitals from './reportWebVitals';
 import { Provider } from 'react-redux';
 import {
   store,
-  initI18n,
+  initI18n
 } from 'case-web-app-core';
 
 import { LoadingPlaceholder } from 'case-web-ui';
@@ -22,11 +22,14 @@ import '@fortawesome/fontawesome-free/js/fontawesome';
 import 'bootstrap/dist/js/bootstrap.bundle';
 
 import App from './App';
+import { configureState } from './utils/ConfigureState';
 
 const localeURL = process.env.REACT_APP_CONTENT_URL + '/locales';
 const defaultLanguage = process.env.REACT_APP_DEFAULT_LANGUAGE ?? 'en';
 const fallbackLanguage = process.env.REACT_APP_FALLBACK_LANGUAGE?? "en";
 initI18n(defaultLanguage, fallbackLanguage, localeURL);
+
+configureState();
 
 ReactDOM.render(
   <React.StrictMode>
@@ -41,7 +44,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

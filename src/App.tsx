@@ -15,6 +15,8 @@ import * as footerConfig from "./configs/footer.json";
 import * as headerConfig from "./configs/header.json";
 import * as navbarConfig from "./configs/navbar.json";
 import * as pagesConfig from "./configs/pages.json";
+import Iubenda from './Iubenda';
+import Facebook from './Facebook';
 
 const App: React.FC = () => {
 
@@ -40,8 +42,11 @@ const App: React.FC = () => {
         footerConfig={footerConfig as FooterConfig}
         dateLocales={dateLocales}
       />
+      <Iubenda />
+      <Facebook />
     </React.Fragment>
   );
 };
 
 export default App;
+
