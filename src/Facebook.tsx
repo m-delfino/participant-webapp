@@ -29,6 +29,7 @@ const Facebook: React.FC = () => {
         s.parentNode.insertBefore(t, s);
       }(window, document, 'script',
         'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('set', 'autoConfig', 'false', '885560619519980');
       fbq('init', '885560619519980');
       fbq('track', 'PageView');
     `;
