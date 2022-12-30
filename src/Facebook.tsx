@@ -3,7 +3,6 @@ import { useSelector } from 'react-redux';
 import { InfluwebState } from './utils/ConfigureState';
 
 const Facebook: React.FC = () => {
-
   const cookiePreferences = useSelector((state: InfluwebState) => state.cookie.preferences);
   const contactVerified = useSelector((state: InfluwebState) => state.signup.contactVerified);
   const [facebookLoaded, setFacebookLoaded] = useState(false);
@@ -11,10 +10,6 @@ const Facebook: React.FC = () => {
   const instance = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    if(! cookiePreferences[4]) {
-      return;
-    }
-
     const script = document.createElement('script');
     script.type = "text/javascript";
     script.text =
@@ -30,35 +25,48 @@ const Facebook: React.FC = () => {
       }(window, document, 'script',
         'https://connect.facebook.net/en_US/fbevents.js');
       fbq('set', 'autoConfig', 'false', '885560619519980');
+      fbq('consent', 'revoke');
       fbq('init', '885560619519980');
       fbq('track', 'PageView');
     `;
 
-    const noScript = document.createElement('noscript');
-    const pixel = document.createElement('img');
-    pixel.height = 1;
-    pixel.width = 1;
-    pixel.style.cssText = 'display:none';
-    pixel.src = 'https://www.facebook.com/tr?id=885560619519980&ev=PageView&noscript=1';
-
-    noScript.appendChild(pixel);
-
-
     if(instance !== null && instance.current !== null) {
       instance.current.appendChild(script);
-      instance.current.appendChild(noScript);
     }
 
-    setTimeout(() => setFacebookLoaded(true), 0);
+  }, []);
 
-    }, [cookiePreferences]);
+  useEffect(() => {
+    function checkFacebookLoaded() {
+      const _window: Window | any = window;
 
-    useEffect(() => {
-      if (contactVerified && facebookLoaded) {
-        const _window: Window | any = window;
-        _window.fbq('track', 'Lead');
+      if (_window.fbq.callMethod) {
+        setFacebookLoaded(true);
+        clearInterval(intervalId);
       }
-    }, [contactVerified, facebookLoaded]);
+    }
+
+    const intervalId = setInterval(checkFacebookLoaded, 500);
+
+    return () => {
+      clearInterval(intervalId);
+    };
+  }, []);
+
+  useEffect(() => {
+    if(facebookLoaded) {
+      const _window: Window | any = window;
+      const metricPermission = cookiePreferences['4'] ? 'grant' : 'revoke';
+      _window.fbq('consent', metricPermission);
+    }
+  }, [cookiePreferences, facebookLoaded]);
+
+  useEffect(() => {
+    if (contactVerified && facebookLoaded) {
+      const _window: Window | any = window;
+      _window.fbq('track', 'Lead');
+    }
+  }, [contactVerified, facebookLoaded]);
 
   return (
     <>

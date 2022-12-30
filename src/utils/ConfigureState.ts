@@ -1,5 +1,5 @@
 import { StateFromReducersMapObject } from '@reduxjs/toolkit';
-import { localStorageManager, reducersManager, store } from 'case-web-app-core';
+import { localStorageManager, reducersManager } from 'case-web-app-core';
 import { cookiePreferenceSlice } from '../reducers/consentReducers';
 import { contactVerifiedReducer } from '../reducers/signupReducers';
 
@@ -12,8 +12,6 @@ const reducersMap = {
 
 export function configureState() {
   reducersManager.add(reducersMap);
-  store.dispatch({ type: 'influweb/reduceradded' });
-
   localStorageManager.onSave(signupOnSaveState);
 }
 
