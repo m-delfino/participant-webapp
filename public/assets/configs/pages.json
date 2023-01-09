@@ -94,25 +94,6 @@
               ]
             },
             {
-              "key": "newsCardCol",
-              "className": "col-12 col-lg-4 mt-3",
-              "items": [
-                {
-                  "itemKey": "newsCard",
-                  "className": "h-100",
-                  "config": {
-                    "type": "imageCard",
-                    "showActionBtn": true,
-                    "action": {
-                      "type": "navigate",
-                      "value": "/news"
-                    },
-                    "imageSrc": "/images/news.jpg"
-                  }
-                }
-              ]
-            },
-            {
               "key": "aboutCardCol",
               "className": "col-12 col-lg-4 mt-3 min-h-478",
               "items": [
@@ -664,32 +645,6 @@
                   "config": {
                     "type": "markdown",
                     "markdownUrl": "/markdowns/disclaimer.md"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "path": "/news",
-      "pageKey": "news",
-      "rows": [
-        {
-          "key": "content",
-          "containerClassName": "my-3 min-vh-60",
-          "columns": [
-            {
-              "key": "pCol",
-              "className": "col-12 col-sm-10 col-md-8",
-              "items": [
-                {
-                  "itemKey": "accessibility",
-                  "className": "",
-                  "config": {
-                    "type": "markdown",
-                    "markdownUrl": "/markdowns/news.md"
                   }
                 }
               ]
