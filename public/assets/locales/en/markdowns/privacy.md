@@ -1,147 +1,65 @@
+**ISI Foundation**, with registered office in via Chisola 5, 10126 Turin – Italy, in its capacity as Data Controller brings to your attention, pursuant to art. 13 of Regulation 679/2016 (hereinafter Regulation or GDPR), the following information.
 
-### The study
-Influweb processes personal data in a lawful manner, in accordance with the law and the GDPR regulations. 
+<br>
 
-In this page, you can read about how data are processed by Influweb.org. By sharing your data with Influweb.org, you are contributing to research into the spread of infectious diseases and the new coronavirus in particular. If you want to participate in this study, you will be invited every week to complete a questionnaire to provide information about recent symptoms you have experienced (such as a fever or coughing) that may indicate an infection. This platform has been set up in collaboration with Influenzanet. Influenzanet is the name of a partnership between a number of European universities and governments. An overview of its participants can be found [here](https://influenzanet.info). Influweb.org is the Italian application of this research study.
+#### 1. What data is collected and processed during the study?
 
-Participation in the study is voluntary. We wish to stress that the questionnaires and the use of the website serve **no** medical purpose for you. If you have any concerns about your health, you should always seek help from the usual medical bodies.
+The personal data that is collected through the questionnaires and processed in the subsequent analyzes are: basic information (e.g. your age, gender, etc.), information on your current and past health status, information on the medical treatments you have received, information about the vaccines you have undergone.
 
----
+#### 2. How will my personal data be processed?
 
-### The study at a glance
-**Why Influweb?**
-We know that many people who become infected with the new SARS-CoV-2 virus (‘coronavirus’ as it is popularly known) have mild or few symptoms and do not go to the doctor. Also, not everyone is tested. This make it difficult to track how the new coronavirus is spreading in Italy. It is important to monitor symptoms that are not reported to a doctor.
+Your contact information (email address and username you signed up with) will be saved separately from your responses to the questionnaires. Your replies will be associated with a unique identifier that cannot be traced back to your contact details (through a pseudonymisation process). Only the answers to the questionnaires and your unique identifier will be shared with those authorized to process them, who will analyze your data with the prior authorization of the Data Controller. The information to decipher your unique code will never leave the platform. Your identity will therefore not be available to any researcher and will never appear in a scientific publication or presentation.
 
-**Who can take part?**
-Anyone who lives in Italy and is 18 years or older can participate in the study on a voluntary basis. To ensure that information about the spread of infectious diseases is also obtained for children and young people, the parents or guardians of a minor can also complete the questionnaires on behalf of their child. This is not mandatory, but it will contribute to the research. 
+This means that the administrators of the Influweb.org platform, under the responsibility of the Data Controller, will be the only people able to connect your identity to the data made available to the authorized persons.
 
-**How does Influweb work?**
-Participants receive an initial registration form with questions about their background, age and existing diseases and conditions. Following this they receive an email every week with a link to a questionnaire asking what symptoms they have had in the past week: a runny nose, coughing, sneezing, a high temperature and so on. The questionnaire must be completed even if the participant has no symptoms. It takes about 30 seconds to complete the questionnaire if the participant has no symptoms, and about 3 to 5 minutes if he or she has symptoms. 
+#### 3. What will happen to the information collected about me during the study?
 
-The completion of the questionnaire enables us to monitor how certain symptoms are distributed across Italy and changes in this pattern over time. These data will be used for scientific research into the spread of the new coronavirus. In the future, that research will also be useful for other viruses and infectious diseases.
+The Data Controller can identify authorized figures (researchers) to analyze the data collected by Influweb.org. Those authorized to process will only have access to pseudonymized personal data as described above.
 
-**Data**
-The data are collected and processed in the context of scientific research, and exclusively for the following purposes:
+Authorized persons may use pseudonymized personal data solely for research purposes.
 
-- Carrying out scientific research and statistical analyses on the spread of infectious diseases in Italy and Europe;
+If a researcher wishes to use the data for research not yet described in this document, such research must be approved by an Ethics Committee.
 
-- Publishing statistical analyses, including graphical representations of the results;
+The Data Controller may grant external researchers (who are not involved in this study) access to the pseudonymised data.
 
-- Providing you, the user, with information about the survey results (for example: how many registered users in your region have flu or other infectious diseases);
+#### 4. How will my data be processed and on what basis?
 
-The personal data that we may process for these purposes are: 
+Study data will be processed in accordance with the General Data Protection Regulation (GDPR) and the Italian Data Protection Act of 10 August 2018
 
-- Year of birth, month of birth, postcode, gender, family composition;
+The legal basis for the processing of your data is your consent (Article 6, letter a of the Regulation).
 
-- Background data relevant to the risk of infection, i.e. data about whether you belong to a risk group recommended for flu vaccination, occupation and lifestyle;
-- Data about symptoms provided in the symptoms questionnaire;
+#### 5. Can I access and correct my data that was collected and processed during the study?
 
-The data obtained in this study will be processed by Hasselt University and the University of Antwerp for the stated purposes. We would also like to inform you that we will process your data in accordance with the applicable laws and regulations and with full respect for your rights and in particular your privacy.
+You have the right to ask the Data Controller what data has been collected and what it is used for in this study.
 
-**Taking part**
-After registration, you will be sent an email every week inviting you to complete a questionnaire. Your participation in this study is voluntary and you can withdraw from the study at any time without giving a reason. 
+You have the right to:
 
-The study is funded by the European Union and has been evaluated by an ethics committee. The fact that it has been funded and approved does not mean that you should feel obliged to participate.
+- access and control this data
+- delete your data
+- request the correction of data if they are incorrect
+- limit the processing of your data
+- object to the processing of your personal data
+- revoke consent to the processing of personal data. Your personal data that has already been collected before the withdrawal of consent will be retained to prevent any misinterpretation of the study results
+- propose a complaint to the Data Protection Authority.
 
----
+You can exercise your rights by writing to ISI Foundation at the following email address [support@influweb.org](support@influweb.org) or by ordinary mail at its local office.
 
-#### 1.  What data are collected and processed during the study? 
-    
-The personal data that are collected and processed are data about your health and medical condition, including your medical history, some background information (e.g. your age, gender, etc.) and information about medical care you have sought.
+#### 6. What will be the use of the results of the study?
 
-#### 2.  How will the researcher treat my personal data?
-    
-The researchers who analyse your data will only have access to non-identifiable data. The data will be encrypted or coded by the following method:
+The interim results of the study are published regularly on our website in the form of anonymous statistics. Furthermore, the results of the statistical analyzes may be published in specialized medical journals in the form of aggregated and anonymous data. References to any scientific publications will be published on the Influweb.org website and made available to study participants.
 
-The database administrator will never disclose your identity (email address), and he/she will encrypt your data (i.e. replace your identity in the study with an identification code) before the researchers analyse your data. Your identity will therefore not be used in a scientific publication or presentation. 
+#### 7. Will my data be used for any purpose other than the study I am participating in?
 
-This means that the database administrator, under the responsibility of the study leaders, will be the only person able to link your identity to the data communicated during the study, with the exceptions mentioned in section 6.
+The study results will only be used to answer the scientific questions in this study. Any additional or future research outside the study must always be approved by a recognized Italian Ethics Committee.
 
-The data that the researchers analyse will not allow them to identify you.
+#### 8. How long will my data be kept?
 
-#### 3. What will happen to the information about me that is collected during the study?
-    
-Your participation in the study means that your personal data
-
--   will be collected, and
-
--   will be used in encrypted form by the researchers.
-    
-The researcher and the sponsor may only use the encrypted personal data for the specific research purposes described earlier.
-
-In addition, the sponsor may grant external researchers (who are not involved in this study) access to the encrypted data. If an external researcher wishes to use the data in research not yet described in this document, this research must be approved by an Ethics Committee.
-
-#### 4. How will my data be processed?
-  
-Your study data will be processed in accordance with the General Data Protection Regulation (GDPR) <sup>[1]</sup> and the Italian data protection law of 30 July 2018 <sup>[2]</sup>. The sponsor is the controller with responsibility for this.
-
-The grounds on which we are allowed to process your personal data are that we are conducting scientific research and that you have given your consent.
-
-<small>[1] Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC.</small> 
-
-#### 5. Can I access and correct my data that have been collected and processed during the study?
-   
-You have the right to ask the researchers what data about you have been collected and what they are used for in this study.
-
-You have the right to
-
--   access and check these data
-
--   have all your data deleted
-
--   request correction if they are incorrect
-
--   restrict the processing of your data
-
--   oppose the processing of your personal data
-
--   withdraw your consent to the processing of personal data. Your personal data that have already been collected before your withdrawal of consent will be kept to prevent any misinterpretation of the study results.
-
-#### 6. Apart from the researcher and the researcher’s personnel, who else has access to my personal data? 
-    
-In order to check the quality of the study, your non-encrypted personal data or information relevant to this study may be inspected by people other than the study personnel. Any such inspection will take place under the researcher’s supervision, and the people concerned will be bound by professional secrecy or by a confidentiality agreement. They may include:
-
--   personnel designated by the sponsor (monitors and auditors) and people or organisations providing services to or collaborating with the sponsor. However, they will never pass on your name and contact details to the sponsor.
-    
--   inspectors from competent health authorities from around the world
-
--   an independent audit group
-
--   persons designated by the Ethics Committee.
-    
-If required for the study, the encrypted study data may be sent to other countries within and outside the European Union (EU) and verified by:
-
--   personnel (other than inspectors) of the competent health authorities of Italy (the Federal Agency for Medicines and Health Products, FAMHP) or other countries within and outside the EU,
-
--   an evaluating Ethics Committee(s),
-
--   external researchers,
-
--   the study’s sponsor, personnel designated by the sponsor and people or organisations providing services to or collaborating with the sponsor, and/or
-
-- companies from the sponsor's group in Italy and in other countries within and outside the EU.
-    
-European regulations and Italian data protection legislation impose restrictions on the transfer of data to non-EU countries. The sponsor must always ensure that your encrypted study data are equally protected when transferred to a non-EU country. If the sponsor concludes a data protection agreement for this purpose, a copy of this agreement may be obtained from the researcher.
-
-#### 7. What will happen to the results of the study?
-
-Interim results of the study are published regularly on our website.
-Further, during the study results and description of the study will be published in specialized medical journals. A copy of the scientific publication will be published on the website and will be available from the researcher or study personnel.
-
-These websites or publications will not contain any information by which you can be identified.
-
-#### 8. Will my data be used for purposes other than the study in which I am participating?
-    
-The results of the study will only be used to answer the scientific questions in this study. Any additional or future research outside the study must always be approved by a recognised Italian Ethics Committee.
-
-#### 9. For how long will my data be kept?
-    
-After the study, your encrypted data will be kept for at least 25 years to ensure the validity of the study. This will be the case even if you withdraw from the study before its completion.
+After the study, your responses to the questionnaires will be kept for at least 25 years to ensure the validity of the study. This will also be the case if you withdraw from the study before its completion.
 
 ---
 
-### Modification of privacy policy
-This privacy policy may be modified. If this happens, we will publish the modified text.
+#### Modification of the privacy policy
 
+This privacy policy may be modified, and this text may be updated in the future.
 
-##### Version 2.0 2-10-2020
+##### Version 19.12.2022

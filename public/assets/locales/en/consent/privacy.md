@@ -1,20 +1,69 @@
-By clicking the “I consent” button, you agree to participate in the Influweb survey and accept that the researchers will process your data for this survey. 
+**(It is recommended to scroll this information to the end in order to give the relative consent)**
 
-The survey aims to identify symptoms that may indicate infectious diseases such as the new coronavirus. It is important for determining whether the number of people with symptoms is increasing or decreasing. More information about the purpose of the survey and your rights can be found in the [privacy policy](https://influweb.org/privacy).
+<br/>
 
-#### REQUIREMENTS FOR YOUR PARTICIPATION IN THE STUDY
+**ISI Foundation**, with registered office in via Chisola 5, 10126 Turin – Italy, in its capacity as Data Controller brings to your attention, pursuant to art. 13 of Regulation 679/2016 (hereinafter Regulation or GDPR), the following information.
 
-* I declare that I have been informed of and understand the purpose of the study, its duration and consequences, any risks and inconveniences, and what is expected of me.
-* I understand that I will be participating in this study voluntarily and without being compelled to do so, and that I may stop participating at any time.
-* I understand that data about me will be collected and will be treated confidentially.
-* I agree that my personal data will be processed as described in the privacy policy.
-* I understand that the sponsor of the study has arranged insurance in case I suffer harm in connection with my participation in this study.
-* I understand that participating in this study will not cost me anything.
-* I understand that my participation in the study may be terminated without my consent.
-* I declare that I am 18 years of age or older and I am aware that Influweb is not a medical website, and will always seek help from a doctor for any medical questions or complaints.
-* For consent granted on behalf of a minor, the following applies in addition to the foregoing conditions:
-	 * If consent is granted on behalf of a minor under the age of 14, I declare that I am legally authorised to grant consent as a parent or guardian.
-	 * If consent is granted on behalf of a minor between the ages of 14 and 17, I declare that I am legally authorised to grant consent as a parent or guardian and have also discussed this with the child concerned.
-	 * For the sake of clarity, consent for anyone aged 18 or over must always be granted by the person concerned and not by anyone else.
+<br>
 
-I agree to participate in the study.
+#### 1. What data is collected and processed during the study?
+
+The personal data that is collected through the questionnaires and processed in the subsequent analyzes are: basic information (e.g. your age, gender, etc.), information on your current and past health status, information on the medical treatments you have received, information about the vaccines you have undergone.
+
+#### 2. How will my personal data be processed?
+
+Your contact information (email address and username you signed up with) will be saved separately from your responses to the questionnaires. Your replies will be associated with a unique identifier that cannot be traced back to your contact details (through a pseudonymisation process). Only the answers to the questionnaires and your unique identifier will be shared with those authorized to process them, who will analyze your data with the prior authorization of the Data Controller. The information to decipher your unique code will never leave the platform. Your identity will therefore not be available to any researcher and will never appear in a scientific publication or presentation.
+
+This means that the administrators of the Influweb.org platform, under the responsibility of the Data Controller, will be the only people able to connect your identity to the data made available to the authorized persons.
+
+#### 3. What will happen to the information collected about me during the study?
+
+The Data Controller can identify authorized figures (researchers) to analyze the data collected by Influweb.org. Those authorized to process will only have access to pseudonymized personal data as described above.
+
+Authorized persons may use pseudonymized personal data solely for research purposes.
+
+If a researcher wishes to use the data for research not yet described in this document, such research must be approved by an Ethics Committee.
+
+The Data Controller may grant external researchers (who are not involved in this study) access to the pseudonymised data.
+
+#### 4. How will my data be processed and on what basis?
+
+Study data will be processed in accordance with the General Data Protection Regulation (GDPR) and the Italian Data Protection Act of 10 August 2018
+
+The legal basis for the processing of your data is your consent (Article 6, letter a of the Regulation).
+
+#### 5. Can I access and correct my data that was collected and processed during the study?
+
+You have the right to ask the Data Controller what data has been collected and what it is used for in this study.
+
+You have the right to:
+
+- access and control this data
+- delete your data
+- request the correction of data if they are incorrect
+- limit the processing of your data
+- object to the processing of your personal data
+- revoke consent to the processing of personal data. Your personal data that has already been collected before the withdrawal of consent will be retained to prevent any misinterpretation of the study results
+- propose a complaint to the Data Protection Authority.
+
+You can exercise your rights by writing to ISI Foundation at the following email address [support@influweb.org](support@influweb.org) or by ordinary mail at its local office.
+
+#### 6. What will be the use of the results of the study?
+
+The interim results of the study are published regularly on our website in the form of anonymous statistics. Furthermore, the results of the statistical analyzes may be published in specialized medical journals in the form of aggregated and anonymous data. References to any scientific publications will be published on the Influweb.org website and made available to study participants.
+
+#### 7. Will my data be used for any purpose other than the study I am participating in?
+
+The study results will only be used to answer the scientific questions in this study. Any additional or future research outside the study must always be approved by a recognized Italian Ethics Committee.
+
+#### 8. How long will my data be kept?
+
+After the study, your responses to the questionnaires will be kept for at least 25 years to ensure the validity of the study. This will also be the case if you withdraw from the study before its completion.
+
+---
+
+#### Modification of the privacy policy
+
+This privacy policy may be modified, and this text may be updated in the future.
+
+##### Version 19.12.2022

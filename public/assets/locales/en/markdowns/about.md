@@ -1,17 +1,45 @@
-## What is Influweb?<br>
-It is a voluntary participatory system for monitoring influenza and COVID-19 in Italy. It was created in 2008 to monitor the circulation of seasonal influenza among people who don’t visit a doctor for their symptoms and it has been extended to monitor COVID-19 since early 2020.
-It is based on an online platform, of which people from the general population are the protagonists: anybody can actively participate, providing weekly updates on their health status, even if no symptoms are experienced.
+**Why Influweb?**
 
-## Why Influweb?<br>
+We know that many people who become infected with influenza-like viruses such as the SARS-CoV-2 virus (‘coronavirus’ as it is popularly known) have mild or few symptoms and do not go to the doctor. With the help of volunteers like you we have a better chance of monitoring what's happening.
 
-We know that many people who become infected with the seasonal influenza and now the new coronavirus have mild or few symptoms and do not go to the doctor. In the case of COVID-19, not everyone is tested. This makes it difficult to track how the disease, being it the seasonal flu or the new coronavirus is circulating in our country. With the help of people from all over Italy we can collect this information in a more effective way and use it to complement the data collected by the national institute of health through traditional healthcare system approaches.<br>
-Together we can keep a close watch on what is going on!
+**How does Influweb work?**
 
-## How does Influweb work?<br>
-People who have registered as participants in Influweb report once a week to the platform whether they have had a fever or other symptoms in the past week. This allows us to monitor the health status directly from the general population and also how the situation develops over time. After the registration, participants can compile an initial intake survey with questions about their background: work, age, existing diseases and conditions etc. They will then receive an email every week asking if they have had any symptoms in the past week and if so, which ones: a runny nose, coughing, sneezing, a high temperature and so on. It is important for the questionnaire to be completed even if a participant has no symptoms. If this is the case, it takes about 30 seconds to answer the questions; if there are symptoms it takes about 3 to 5 minutes.
-We will use this data to study how the disease spreads. In the future, this research will also be useful for other viruses and infectious diseases, as it has been shown for seasonal influenza and COVID-19. 
+Participants receive an initial registration form with questions about their background, age and existing diseases and conditions. Following this they receive an email every week with a link to a questionnaire asking what symptoms they have had in the past week: a runny nose, coughing, sneezing, a high temperature and so on. The questionnaire must be completed even if the participant has no symptoms. It takes about 30 seconds to complete the questionnaire if the participant has no symptoms, and about 3 to 5 minutes if he or she has symptoms. 
 
-<br>
-Influweb receives financial support from the EU Horizon 2020 program and from CRT Foundation through the Lagrange project at the ISI Foundation.
-Influweb is part of the European consortium [Influenzanet](https://influenzanet.info/).
+The completion of the questionnaire enables us to monitor how certain symptoms are distributed across Italy and changes in this pattern over time. These data will be used for scientific research into the spread of influenza-like illnesses. In the future, that research will also be useful for other viruses and infectious diseases.
 
+**Data**
+
+The data are collected and processed exclusively for the following purposes:
+
+- Carrying out scientific research and statistical analyses on the spread of infectious diseases in Italy and Europe;
+
+- Publishing statistical analyses, including graphical representations of the results;
+
+- Providing you, the user, with information about the survey results (for example: how many registered users in your region have flu or other infectious diseases);
+
+The personal data that we may process for these purposes are: 
+
+- Year of birth, month of birth, postcode, gender, family composition;
+
+- Background data relevant to the risk of infection, i.e. data about whether you belong to a risk group recommended for flu vaccination, occupation and lifestyle;
+
+- Data about symptoms provided in the symptoms questionnaire;
+
+We would also like to inform you that we will process your data in accordance with the applicable laws and regulations and with full respect for your rights and in particular your privacy.
+
+**Who can take part?**
+
+Anyone who lives in Italy and is 18 years or older can participate in the study on a voluntary basis. To ensure that information about the spread of influenza-like diseases is also obtained for children and young people, the parents or guardians of a minor can also complete the questionnaires on behalf of their child. This is not mandatory, but it will contribute to the research. 
+
+**Taking part**
+
+Your participation in this study is voluntary and you can withdraw from the study at any time without giving a reason. 
+
+The study is funded by the European Union and has been evaluated by an ethics committee. The fact that it has been funded and approved does not mean that you should feel obliged to participate.
+
+**Patner**
+
+Influweb is a project supported by Fondazione ISI, Fondazione CRT and from the European projects Epipose and PANDEM-2, part of the EU Horizon 2020 program.
+
+Influweb has been realized in collaboration with [Influenzanet](https://influenzanet.info), the network for the monitoring of influenza-like illnesses active in more than ten European countries, run by universities and public health institutions. Influweb is the Italian node of this network.
