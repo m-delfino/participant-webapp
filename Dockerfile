@@ -3,6 +3,8 @@ FROM node:16.17.1 as build
 # default env_file
 ARG ENV_FILE=".env"
 WORKDIR /app
+COPY .npmrc /app
+ARG NPM_TOKEN
 COPY package.json /app
 COPY yarn.lock /app
 RUN yarn install

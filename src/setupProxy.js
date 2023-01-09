@@ -1,6 +1,6 @@
 const { createProxyMiddleware } = require('http-proxy-middleware');
 
-const target = "https://local.influweb.org";
+const target = "https://minikube.influweb.org";
 
 module.exports = function(app) {
 
