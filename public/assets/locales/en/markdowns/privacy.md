@@ -62,4 +62,4 @@ After the study, your responses to the questionnaires will be kept for at least 
 
 This privacy policy may be modified, and this text may be updated in the future.
 
-##### Version 19.12.2022
+##### Version 01.09.2023

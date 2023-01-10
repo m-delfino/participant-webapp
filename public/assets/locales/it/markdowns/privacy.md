@@ -68,4 +68,4 @@ Dopo lo studio, le tue risposte ai questionari verranno conservate per almeno 25
 
 Questa policy di privacy potrebbe essere modificata e questo testo può essere aggiornato in futuro.
 
-##### Versione 1.1 01-09-2023
+##### Versione 1.1 09-01-2023
