@@ -40,6 +40,6 @@ The study is funded by the European Union and has been evaluated by an ethics co
 
 **Patner**
 
-Influweb is a project supported by Fondazione ISI, Fondazione CRT and from the European projects Epipose and PANDEM-2, part of the EU Horizon 2020 program.
+Influweb is a project supported by Fondazione ISI, Fondazione CRT and from the European project VERDI, part of the EU Horizon program.
 
 Influweb has been realized in collaboration with [Influenzanet](https://influenzanet.info), the network for the monitoring of influenza-like illnesses active in more than ten European countries, run by universities and public health institutions. Influweb is the Italian node of this network.

@@ -40,6 +40,6 @@ Lo studio è finanziato dall\'Unione Europea ed è stato valutato da un comitato
 
 **Patner**
 
-Influweb è supportato da Fondazione ISI, Fondazione CRT e dai progetti Epipose e PANDEM-2 del programma EU Horizon 2020.
+Influweb è supportato da Fondazione ISI, Fondazione CRT e dal progetto VERDI del programma EU Horizon.
 
 Influweb è stato realizzato in collaborazione con [Influenzanet](https://influenzanet.info), la network per il monitoraggio delle malattie influenzali attiva in più di dieci paesi europei e gestita da istituti di sanità pubblica. Influweb rappresenta il nodo italiano di questa network.
