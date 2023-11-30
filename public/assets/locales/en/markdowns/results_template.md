@@ -27,10 +27,4 @@ The plot displayed below shows the weekly incidence of probable COVID-19 cases o
   data-url="{covidLine}"
 />
 
-The plot displayed below shows the percentage of participants to the Influweb project who completed the vaccination series against COVID-19 (2 doses). The single points represent the actual percentage value, the continuous line represents a rolling mean of the last two values measured.
-
-<lineandscatterchart
-  data-url="{covidVaccineLine}"
-/>
-
 **NOTE**: The main symptoms of a COVID-19 infection may as well be triggered by other viruses, as the common flu viruses. The values collected by the Influweb platform, a symptoms-based monitoring platform, may contain a superposition of signals from other infections.
