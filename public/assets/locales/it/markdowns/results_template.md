@@ -25,10 +25,4 @@ Il grafico riportato qui sotto mostra la curva di incidenza dei probabili casi d
   data-url="{covidLine}"
 />
 
-Il grafico che segue mostra la percentuale di partecipanti al progetto Influweb che hanno completato il ciclo di vaccinazione contro il COVID-19 (2 dosi di vaccino). I singoli punti corrispondono alla percentuale effettiva misurata fino a quel momento, la curva continua rappresenta una media degli ultimi due valori misurati.
-
-<lineandscatterchart
-  data-url="{covidVaccineLine}"
-/>
-
 **NOTA**: I principali sintomi di un'infezione da COVID-19 potrebbero essere causati anche da altri virus, come quello dell'influenza stagionale. I valori rilevati dalla piattaforma Influweb, basata sul monitoraggio dei sintomi, potrebbero contenere un segnale proveniente da altre infezioni simili.

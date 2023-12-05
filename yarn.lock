@@ -2258,10 +2258,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@influweb-it/case-web-app-core@2.7.1-influweb-1.0", "case-web-app-core@npm:@influweb-it/case-web-app-core@^2.7.1-influweb-1.0":
-  version "2.7.1-influweb-1.0"
-  resolved "https://npm.pkg.github.com/download/@influweb-it/case-web-app-core/2.7.1-influweb-1.0/3a1ca9d5a47cc9271fb99db39455becc125883c9#3a1ca9d5a47cc9271fb99db39455becc125883c9"
-  integrity sha512-Y0FuK5t1q1uDRn9vuoFbVtu91IlZnGy1jnwDgow36tUAg8VE7VD7NhlVWQYxgQycG/K19m/R7Brh0Gr4FsVbCw==
+"@influweb-it/case-web-app-core@v2.7.2-influweb-1.1", "case-web-app-core@npm:@influweb-it/case-web-app-core@^v2.7.2-influweb-1.1":
+  version "2.7.2-influweb-1.1"
+  resolved "https://npm.pkg.github.com/download/@influweb-it/case-web-app-core/2.7.2-influweb-1.1/a98d62952c5da47bcb80ba671f2372bc3ac7f8ed#a98d62952c5da47bcb80ba671f2372bc3ac7f8ed"
+  integrity sha512-5x9R+dU8Zl0MsPJBbWJFB4g1yX1Ldu46tDMfMGQSgcoHpv9P4n92o0CDfxAgX3+9F7IcydzXu4KZF+ffHf3rAg==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
@@ -4090,10 +4090,10 @@ case-sensitive-paths-webpack-plugin@^2.4.0:
   resolved "https://registry.yarnpkg.com/case-sensitive-paths-webpack-plugin/-/case-sensitive-paths-webpack-plugin-2.4.0.tgz#db64066c6422eed2e08cc14b986ca43796dbc6d4"
   integrity sha512-roIFONhcxog0JSSWbvVAh3OocukmSgpqOH6YpMkCvav/ySIV3JKg4Dc8vYtQjYi/UxpNE36r/9v+VqTQqgkYmw==
 
-case-web-ui@1.14.3:
-  version "1.14.3"
-  resolved "https://registry.yarnpkg.com/case-web-ui/-/case-web-ui-1.14.3.tgz#43b921daf19fac19fa36bf3800ae72b8e9bf4a5f"
-  integrity sha512-UQY5mS8jz94fuVeBiXKOc8u/uJIQ6sDAG++VvnbIxFlEty4I0UneTHEnDPSovQMTQjcVRg3vqmFQbGoau5ZMkA==
+case-web-ui@1.14.5:
+  version "1.14.5"
+  resolved "https://registry.yarnpkg.com/case-web-ui/-/case-web-ui-1.14.5.tgz#17651244b1290c17b107fa05402a26e4b65cea14"
+  integrity sha512-8OnlZIbQDPBB1Yj58dXkULKrLnza93jo+zA2+fwYob7SxlghNigIfeDDqSuNNu27QZHExubd87RH7AvUiOC+JA==
   dependencies:
     "@fortawesome/fontawesome-free" "^5.15.4"
 
