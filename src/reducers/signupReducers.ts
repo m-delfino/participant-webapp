@@ -1,5 +1,5 @@
-import { createReducer } from '@reduxjs/toolkit';
-import { coreReduxActions } from "case-web-app-core";
+import { createReducer } from "@reduxjs/toolkit";
+import { coreReduxActions } from "@influenzanet/case-web-app-core";
 
 const initialState = {
   contactVerified: false,
@@ -8,9 +8,14 @@ const initialState = {
 export type SignupContactVerified = typeof initialState;
 
 export const contactVerifiedReducer = createReducer(initialState, (builder) => {
-  builder.addCase(coreReduxActions.signupActions.contactVerified, (state = initialState) => {
-    state.contactVerified = true
-  });
+  builder.addCase(
+    coreReduxActions.signupActions.contactVerified,
+    (state = initialState) => {
+      state.contactVerified = true;
+    }
+  );
 
-  builder.addDefaultCase((state = initialState) => { return state; });
+  builder.addDefaultCase((state = initialState) => {
+    return state;
+  });
 });

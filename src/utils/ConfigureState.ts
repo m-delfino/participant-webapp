@@ -1,13 +1,16 @@
-import { StateFromReducersMapObject } from '@reduxjs/toolkit';
-import { localStorageManager, reducersManager } from 'case-web-app-core';
-import { cookiePreferenceSlice } from '../reducers/consentReducers';
-import { contactVerifiedReducer } from '../reducers/signupReducers';
+import { StateFromReducersMapObject } from "@reduxjs/toolkit";
+import {
+  localStorageManager,
+  reducersManager,
+} from "@influenzanet/case-web-app-core";
+import { cookiePreferenceSlice } from "../reducers/consentReducers";
+import { contactVerifiedReducer } from "../reducers/signupReducers";
 
-import { onSaveState as signupOnSaveState } from '../localStorage/signup';
+import { onSaveState as signupOnSaveState } from "../localStorage/signup";
 
 const reducersMap = {
-  'signup': contactVerifiedReducer,
-  [cookiePreferenceSlice.name]: cookiePreferenceSlice.reducer
+  signup: contactVerifiedReducer,
+  [cookiePreferenceSlice.name]: cookiePreferenceSlice.reducer,
 };
 
 export function configureState() {
