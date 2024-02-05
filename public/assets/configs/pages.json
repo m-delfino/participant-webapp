@@ -230,6 +230,15 @@
                     "flavor": "chart-renderer"
                   }
                 },
+
+                {
+                  "itemKey": "userSymptomsHistory",
+                  "className": "row g-0 bg-primary",
+                  "config": {
+                    "type": "userSymptomsHistory",
+                    "studyId": "influweb"
+                  }
+                },
                 {
                   "itemKey": "surveyList",
                   "className": "",

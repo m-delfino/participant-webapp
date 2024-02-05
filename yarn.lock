@@ -2258,10 +2258,12 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@influenzanet/case-web-app-core@2.7.5-staging.12":
-  version "2.7.5-staging.12"
-  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-app-core/-/case-web-app-core-2.7.5-staging.12.tgz#e5babe2017d55c7fe4db9d82d20036144bcfffff"
-  integrity sha512-lyIXxZI+GF0ZzWpSss6rV5OOCMVhteV7hHNOB00HvcB7TYGZtyFeIY5KSbLq06gPHeAeLmRgudITGqOvHYcjpg==
+"@influenzanet/case-web-app-core@2.7.5-staging.25":
+  version "2.7.5-staging.25"
+  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-app-core/-/case-web-app-core-2.7.5-staging.25.tgz#1b7cddf188b6bff8aad1a7ec4ce887cc94230e39"
+  integrity sha512-LZXvYFkSRYQiRLDgOSVeOUvRj5zT6hk0G/YjBGapLo4lR4u5QIX2qqx4bNCTTK3bnOmAUDi34SEtST6iDCm8SQ==
+  dependencies:
+    react-bootstrap-icons "^1.10.3"
 
 "@influenzanet/case-web-ui@1.15.0-staging.1":
   version "1.15.0-staging.1"
@@ -8758,6 +8760,13 @@ react-app-polyfill@^3.0.0:
     raf "^3.4.1"
     regenerator-runtime "^0.13.9"
     whatwg-fetch "^3.6.2"
+
+react-bootstrap-icons@^1.10.3:
+  version "1.10.3"
+  resolved "https://registry.yarnpkg.com/react-bootstrap-icons/-/react-bootstrap-icons-1.10.3.tgz#5d64a93c7b172856b03c7d3cd5119a025b094966"
+  integrity sha512-j4hSby6gT9/enhl3ybB1tfr1slZNAYXDVntcRrmVjxB3//2WwqrzpESVqKhyayYVaWpEtnwf9wgUQ03cuziwrw==
+  dependencies:
+    prop-types "^15.7.2"
 
 react-dev-utils@^12.0.1:
   version "12.0.1"
