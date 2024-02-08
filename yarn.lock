@@ -2258,10 +2258,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@influenzanet/case-web-app-core@2.7.5-staging.25":
-  version "2.7.5-staging.25"
-  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-app-core/-/case-web-app-core-2.7.5-staging.25.tgz#1b7cddf188b6bff8aad1a7ec4ce887cc94230e39"
-  integrity sha512-LZXvYFkSRYQiRLDgOSVeOUvRj5zT6hk0G/YjBGapLo4lR4u5QIX2qqx4bNCTTK3bnOmAUDi34SEtST6iDCm8SQ==
+"@influenzanet/case-web-app-core@2.7.5-staging.26":
+  version "2.7.5-staging.26"
+  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-app-core/-/case-web-app-core-2.7.5-staging.26.tgz#84f34c423297447604e3ffd2117bfa625afb4e8a"
+  integrity sha512-KP2W29fu6VuZkZ90dGfZ2FlRDP654nXtC7m9/N+TrFtO9r8AeRtSiVFyYDgRu0/juGg9EZU/MGn5ojQFhBz9nQ==
   dependencies:
     react-bootstrap-icons "^1.10.3"
 
