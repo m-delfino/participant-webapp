@@ -2258,17 +2258,17 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@influenzanet/case-web-app-core@2.7.5-staging.26":
-  version "2.7.5-staging.26"
-  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-app-core/-/case-web-app-core-2.7.5-staging.26.tgz#84f34c423297447604e3ffd2117bfa625afb4e8a"
-  integrity sha512-KP2W29fu6VuZkZ90dGfZ2FlRDP654nXtC7m9/N+TrFtO9r8AeRtSiVFyYDgRu0/juGg9EZU/MGn5ojQFhBz9nQ==
+"@influenzanet/case-web-app-core@2.7.6":
+  version "2.7.6"
+  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-app-core/-/case-web-app-core-2.7.6.tgz#dd5fce9530d73a2a62e6e070905fa244dde6877d"
+  integrity sha512-bMPf7l6bJqhSWEI3LSq2coyx9RdjKMd+END4VPj/0jArVqYVNUsFdp1nGcHgX6s0+7d7hR0B8X6O5SNbV/pH1Q==
   dependencies:
     react-bootstrap-icons "^1.10.3"
 
-"@influenzanet/case-web-ui@1.15.0-staging.1":
-  version "1.15.0-staging.1"
-  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-ui/-/case-web-ui-1.15.0-staging.1.tgz#ac18c8c68de48d8600902b27f77ff2f9d0bded51"
-  integrity sha512-ZhJTDYmMke8JfdpJKjRKKaJhSvUeHHtfeqsm67XNg3Bh2OHzUmGuytuSvpWuvC4KI3hUGjpFd13ZVQsLfghl1w==
+"@influenzanet/case-web-ui@1.15.0":
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-ui/-/case-web-ui-1.15.0.tgz#4676d0e504407601779f98e08e117daaadca1e02"
+  integrity sha512-jmasmvm7WrdkAPUQGkGOku9qdkPzxqHh7GXCUC+Ok5tbZ1BQBS8QvX0WOkPJXqIB9YWElOLqwEqNyNsVs+eQTg==
   dependencies:
     "@fortawesome/fontawesome-free" "^5.15.4"
 
